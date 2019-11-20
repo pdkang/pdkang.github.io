@@ -1,0 +1,27 @@
+.ac_results {
+	padding: 0px; border: 1px solid black; top: 115px !important; width: 247px !important; line-height: 15px !important; overflow: hidden; z-index: 99; background-color: white;
+}
+.ac_results ul {
+	list-style: none; margin: 0px; padding: 0px; width: 100%;
+}
+.ac_results li {
+	font: 12px/normal Segoe UI; margin: 0px; padding: 2px 5px; overflow: hidden; font: menu; display: block; cursor: default;
+}
+.ac_loading {
+	background: url("indicator.gif") no-repeat right white;
+}
+.ac_odd {
+	
+}
+.ac_over {
+	color: white; font-weight: bold; background-color: rgb(10, 36, 106);
+}
+.dpOrg_results {
+	padding: 0px; border: 1px solid black; width: 230px !important; line-height: 15px !important; overflow: hidden; z-index: auto; background-color: white;
+}
+.dpOrg_results ul {
+	list-style: none; margin: 0px; padding: 0px; width: 100%;
+}
+.dpOrg_results li {
+	font: 12px/normal Segoe UI; margin: 0px; padding: 2px 5px; overflow: hidden; font: menu; display: block; cursor: default;
+}

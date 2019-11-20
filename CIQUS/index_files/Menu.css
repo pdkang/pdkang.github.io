@@ -1,0 +1,171 @@
+.ms-SrvMenuUI {
+	display: none;
+}
+.ms-MenuUIPopupBody {
+	margin: 0px; padding: 0px; border: 1px solid rgb(134, 134, 134);
+}
+.ms-MenuUIPopupBody table {
+	margin: 0px; padding: 0px; color: black; font-size: 100%;
+}
+.ms-MenuUIPopupBody div {
+	cursor: pointer;
+}
+.ms-MenuUI {
+	cursor: pointer; background-repeat: repeat-y; background-color: rgb(250, 250, 250);
+}
+.ms-MenuUILarge {
+	cursor: pointer; background-repeat: repeat-y; background-color: rgb(250, 250, 250);
+}
+.ms-MenuUIRtL {
+	cursor: pointer; background-repeat: repeat-y; background-color: rgb(250, 250, 250);
+}
+.ms-MenuUILargeRtL {
+	cursor: pointer; background-repeat: repeat-y; background-color: rgb(250, 250, 250);
+}
+.ms-MenuUI {
+	background-position: left;
+}
+.ms-MenuUILarge {
+	background-position: left;
+}
+.ms-MenuUIRtL {
+	background-position: right;
+}
+.ms-MenuUILargeRtL {
+	background-position: right;
+}
+.ms-MenuUI {
+	background-image: url("/_layouts/images/MGrad.gif");
+}
+.ms-MenuUILarge {
+	width: 250px; background-image: url("/_layouts/images/MGradLarge.gif");
+}
+.ms-MenuUIRtL {
+	background-image: url("/_layouts/images/MGradRtl.gif");
+}
+.ms-MenuUILargeRtL {
+	width: 250px; background-image: url("/_layouts/images/MGradLargeRtl.gif");
+}
+.ms-MenuUIDisabled span {
+	color: rgb(136, 136, 136);
+}
+.ms-MenuUIItemTableCell {
+	padding: 2px; color: black; font-family: tahoma; font-size: 8pt; text-decoration: none;
+}
+.ms-MenuUIItemTableCellCompact {
+	padding: 2px; color: black; font-family: tahoma; font-size: 8pt; text-decoration: none;
+}
+.ms-MenuUIItemTableCellCompact {
+	padding: 1px 2px;
+}
+.ms-MenuUIItemTableCell a {
+	color: black; text-decoration: none;
+}
+.ms-MenuUIItemTableCellHover a {
+	color: black; text-decoration: none;
+}
+.ms-MenuUIItemTableCellCompact a {
+	color: black; text-decoration: none;
+}
+.ms-MenuUIItemTableCellCompactHover a {
+	color: black; text-decoration: none;
+}
+.ms-menuitemdescription {
+	color: rgb(102, 102, 102);
+}
+.ms-MenuUIItemTableCellHover {
+	padding: 1px; color: black; font-family: tahoma; font-size: 8pt; text-decoration: none;
+}
+.ms-MenuUIItemTableCellCompactHover {
+	padding: 1px; color: black; font-family: tahoma; font-size: 8pt; text-decoration: none;
+}
+.ms-MenuUIItemTableCellCompactHover {
+	padding: 0px 1px;
+}
+.ms-MenuUIItemTableHover {
+	border: 1px solid rgb(210, 180, 122); background-color: rgb(255, 230, 160);
+}
+.ms-MenuUIItemTableHover .ms-menuitemdescription {
+	color: rgb(51, 51, 51);
+}
+.ms-MenuUIIcon {
+	width: 24px; height: 16px;
+}
+.ms-MenuUIIconRtL {
+	width: 24px; height: 16px;
+}
+.ms-MenuUIIconLarge {
+	width: 40px; height: 16px;
+}
+.ms-MenuUIIconLargeRtl {
+	width: 40px; height: 16px;
+}
+.ms-MenuUIIcon {
+	padding: 0px 6px 0px 2px;
+}
+.ms-MenuUIIconLarge {
+	padding: 0px 6px 0px 2px;
+}
+.ms-MenuUIIconRtL {
+	padding: 0px 2px 0px 6px;
+}
+.ms-MenuUIIconLargeRtl {
+	padding: 0px 2px 0px 6px;
+}
+.ms-MenuUILabel {
+	width: 100%;
+}
+.ms-MenuUILabelRtL {
+	width: 100%;
+}
+.ms-menuuilabelcompact {
+	width: 100%;
+}
+.ms-menuuilabelcompactRtl {
+	width: 100%;
+}
+.ms-MenuUILabel {
+	padding: 2px 0px 3px 6px;
+}
+.ms-MenuUILabelRtL {
+	padding: 2px 6px 3px 0px;
+}
+.ms-menuuilabelcompact {
+	padding: 1px 0px 1px 7px;
+}
+.ms-menuuilabelcompactRtl {
+	padding: 1px 7px 1px 0px;
+}
+.ms-MenuUISubmenuArrow {
+	width: 16px; height: 16px;
+}
+.ms-MenuUISeparator {
+	height: 2px; line-height: 2px; font-size: 2px; background-color: rgb(197, 197, 197);
+}
+.ms-MenuUISeparatorRtL {
+	height: 2px; line-height: 2px; font-size: 2px; background-color: rgb(197, 197, 197);
+}
+.ms-MenuUISeparatorLarge {
+	height: 2px; line-height: 2px; font-size: 2px; background-color: rgb(197, 197, 197);
+}
+.ms-MenuUISeparatorLargeRtl {
+	height: 2px; line-height: 2px; font-size: 2px; background-color: rgb(197, 197, 197);
+}
+.ms-MenuUISeparator {
+	margin: 0px 0px 0px 32px;
+}
+.ms-MenuUISeparatorRtL {
+	margin: 0px 32px 0px 0px;
+}
+.ms-MenuUISeparatorLarge {
+	margin: 0px 0px 0px 48px;
+}
+.ms-MenuUISeparatorLargeRtl {
+	margin: 0px 48px 0px 0px;
+}
+.ms-MenuUICheckMark {
+	background-image: url("/_layouts/images/ChkMrk.gif");
+}
+.ms-MenuUIItemTableCellDisabled {
+	color: rgb(153, 153, 153);
+}

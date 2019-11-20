@@ -1,0 +1,4206 @@
+html {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+body {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+div {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+span {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+applet {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+object {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+iframe {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+h1 {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+h2 {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+h3 {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+h4 {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+h5 {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+h6 {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+p {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+blockquote {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+pre {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+a {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+abbr {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+acronym {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+address {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+big {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+cite {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+code {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+del {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+dfn {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+em {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+font {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+img {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+ins {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+kbd {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+q {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+s {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+samp {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+small {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+strike {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+strong {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+sub {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+tt {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+var {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+dd {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+dl {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+dt {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+li {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+ol {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+ul {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+fieldset {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+form {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+label {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+legend {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+table {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+caption {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+tbody {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+tfoot {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+thead {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+tr {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+th {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+td {
+	margin: 0px; padding: 0px; border: 0px currentColor; text-align: left; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; vertical-align: top;
+}
+strong {
+	font-weight: 900 !important;
+}
+a img {
+	border: 0px currentColor; top: 0px; vertical-align: middle; position: relative; cursor: pointer;
+}
+*:link img {
+	border: 0px currentColor; top: 0px; vertical-align: middle; position: relative; cursor: pointer;
+}
+*:visited img {
+	border: 0px currentColor; top: 0px; vertical-align: middle; position: relative; cursor: pointer;
+}
+a {
+	text-decoration: none; vertical-align: baseline;
+}
+a:link {
+	text-decoration: none; vertical-align: baseline;
+}
+a:visited {
+	text-decoration: none; vertical-align: baseline;
+}
+a:active {
+	text-decoration: none; vertical-align: baseline;
+}
+a:hover {
+	text-decoration: none; vertical-align: baseline;
+}
+a:focus {
+	text-decoration: none; vertical-align: baseline;
+}
+a {
+	color: rgb(0, 35, 160);
+}
+a:link {
+	color: rgb(0, 35, 160);
+}
+a:visited {
+	color: rgb(0, 35, 160);
+}
+a:hover {
+	color: rgb(255, 160, 0);
+}
+a:active {
+	color: rgb(0, 35, 160);
+}
+.link {
+	background: none; padding: 0px; border: currentColor; color: rgb(0, 35, 160) !important; font-family: Arial; font-size: 11px; text-decoration: none !important; cursor: pointer;
+}
+.link:hover {
+	color: rgb(255, 160, 0) !important; text-decoration: none !important;
+}
+button {
+	text-decoration: none !important; box-shadow: none !important;
+}
+.btn {
+	text-decoration: none !important; box-shadow: none !important;
+}
+.btn:active {
+	text-decoration: none !important; box-shadow: none !important;
+}
+.active.btn {
+	text-decoration: none !important; box-shadow: none !important;
+}
+.save-search.btn {
+	text-decoration: none !important; box-shadow: none !important;
+}
+.btn-default .btn:focus {
+	text-decoration: none !important; box-shadow: none !important;
+}
+.btn:hover {
+	text-decoration: none !important; box-shadow: none !important;
+}
+.btn:focus {
+	text-decoration: none !important; box-shadow: none !important;
+}
+.btn:focus:active {
+	text-decoration: none !important; box-shadow: none !important;
+}
+.active.btn:focus {
+	text-decoration: none !important; box-shadow: none !important;
+}
+.save-search.btn:focus {
+	text-decoration: none !important; box-shadow: none !important;
+}
+.btn-default:active {
+	text-decoration: none !important; box-shadow: none !important;
+}
+.btn-default:focus {
+	text-decoration: none !important; box-shadow: none !important;
+}
+.btn-default:hover {
+	text-decoration: none !important; box-shadow: none !important;
+}
+em {
+	font-style: italic !important;
+}
+i {
+	font-style: italic !important;
+}
+.scp-MainTitle a {
+	color: rgb(247, 182, 0); font-size: 15px; font-weight: bold;
+}
+.scp-MainTitle a:link {
+	color: rgb(247, 182, 0); font-size: 15px; font-weight: bold;
+}
+.scp-MainTitle a:active {
+	color: rgb(247, 182, 0); font-size: 15px; font-weight: bold;
+}
+.scp-MainTitle a:visited {
+	color: rgb(247, 182, 0); font-size: 15px; font-weight: bold;
+}
+table {
+	border-collapse: collapse; border-spacing: 0;
+}
+ol {
+	list-style: none;
+}
+ul {
+	list-style: none;
+}
+q::before {
+	content: "";
+}
+q::after {
+	content: "";
+}
+blockquote::before {
+	content: "";
+}
+blockquote::after {
+	content: "";
+}
+.ms-create-h2 {
+	font-size: 12px;
+}
+.ms-create-h2b {
+	font-size: 12px;
+}
+.ms-create-listitem-a {
+	font-size: 12px;
+}
+.ms-create-sectionheader {
+	font-size: 12px;
+}
+#s4-bodyContainer {
+	height: 100%; position: relative;
+}
+.ms-dialog .customBodyHolder {
+	width: 100% !important; margin-right: 0px !important; margin-left: 0px !important; min-height: 0px !important; min-width: 0px !important;
+}
+body {
+	width: 100%; height: 100%;
+}
+.s4-breadcrumb-menu {
+	background: rgb(242, 242, 242);
+}
+.s4-ca {
+	background: 0px 0px; margin: 0px;
+}
+.ms-WPBody {
+	margin: 0px; padding: 0px;
+}
+.ms-wpContentDivSpace {
+	margin: 0px; padding: 0px;
+}
+.s4-wpcell-plain {
+	margin: 0px; padding: 0px;
+}
+html {
+	font: 12px/1.6em Arial; height: 100%; font-size-adjust: none; font-stretch: normal; background-color: rgb(229, 233, 245) !important;
+}
+body {
+	font: 12px/1.6em Arial; height: 100%; font-size-adjust: none; font-stretch: normal; background-color: rgb(229, 233, 245) !important;
+}
+p {
+	margin: 10px 0px 0px 10px;
+}
+.ms-cui-ct-topBar-or {
+	border-color: transparent !important;
+}
+.ms-cui-tabBody-or {
+	border-color: transparent !important;
+}
+#header {
+	background: url("/_layouts/GVOLSharePointBranding/Images/Header_Gradient_new.png") repeat-x bottom rgb(255, 255, 255); height: 120px; min-width: 990px;
+}
+#PageHeaderTable {
+	margin: 0px; padding: 0px; border: 0px currentColor; width: 998px; height: 110px; text-align: left;
+}
+.VisaLogo {
+	width: 81px; height: 70px;
+}
+.VisaLogo img {
+	margin: 17px 0px 18px 18px; border: currentColor; width: 81px; height: 26px; float: right;
+}
+td.VisaTagLine {
+	padding: 0px 7px 0px 0px; width: auto; height: 46px;
+}
+img.gVol_VisaOnlineLogoImage {
+	margin: 4px 0px 0px; width: 102px; height: 46px; float: right;
+}
+#MainProfileMenu {
+	width: auto; height: 30px;
+}
+#ProfileMenu .menubar {
+	margin-bottom: 0px; position: relative;
+}
+#ProfileMenu .menuitem {
+	border-width: 1px 1px medium; border-style: solid solid none; border-color: transparent transparent currentColor; font: 11px/12px Arial, sans-serif; list-style: none; float: left !important; display: block; white-space: nowrap; position: relative; cursor: pointer; font-size-adjust: none; font-stretch: normal; _width: 0;
+}
+#ProfileMenu .menuitem-hasmenu::before {
+	top: 8px; right: 6px; font-family: FontAwesome !important; font-size: 0.8em; position: absolute; content: "\f078";
+}
+#ProfileMenu .menuitem-active.menuitem-hasmenu:hover {
+	border: 1px solid rgb(204, 204, 204); color: rgb(247, 182, 0);
+}
+#ProfileMenu .menuitem span {
+	padding: 8px 18px 8px 8px; color: rgb(102, 102, 102); line-height: 11px; text-decoration: none; display: block; white-space: nowrap;
+}
+#ProfileMenu .menuitem-label {
+	padding: 8px 18px 8px 8px; color: rgb(102, 102, 102); line-height: 11px; text-decoration: none; display: block; white-space: nowrap;
+}
+#ProfileMenu .menuitem-logoff {
+	padding-right: 10px; font-weight: bold; margin-right: -10px;
+}
+#ProfileMenu .menu {
+	left: auto; right: 0px; border-top-color: rgb(204, 204, 204); border-top-width: 1px; border-top-style: solid; display: none; position: absolute; z-index: 10000; cursor: pointer; background-color: rgb(255, 255, 255);
+}
+#ProfileMenu .menuitem-bold {
+	font-weight: bold;
+}
+#ProfileMenu .menubar .menuitemradio {
+	border-width: medium 1px 1px; border-style: none solid solid; border-color: currentColor rgb(204, 204, 204) rgb(204, 204, 204); line-height: 14px; clear: both; white-space: nowrap;
+}
+#ProfileMenu .menubar .menuitemradio a {
+	padding: 9px 45px 9px 12px; color: rgb(102, 102, 102); text-decoration: none; display: block;
+}
+#ProfileMenu .menubar .menuitemradio:hover a {
+	color: rgb(255, 255, 255) !important; background-color: rgb(102, 102, 102);
+}
+.menu-show {
+	display: block !important;
+}
+#ProfileMenu .menuitem-guest:hover {
+	border-color: transparent !important; cursor: default;
+}
+#ProfileMenu .menuitem-guest span {
+	color: rgb(0, 35, 160); font-weight: bold;
+}
+#ProfileMenu .menuitem-guest::before {
+	line-height: 0.6em; font-size: 1.2em; content: "|";
+}
+.ExitFunc {
+	margin: 0px 0px 0px 12px; display: none; _vertical-align: bottom; _position: relative; _top: 0px;
+}
+.Exit {
+	font: 11px/normal Arial, sans-serif !important; margin: 0px; padding: 0px; width: auto; height: auto; color: rgb(153, 153, 153) !important; cursor: pointer; font-size-adjust: none !important; font-stretch: normal !important;
+}
+#top-nav {
+	
+}
+#TopMenu {
+	width: 600px; float: left;
+}
+#s4-searcharea {
+	float: right; position: relative;
+}
+#s4-searcharea > input {
+	font: 12px/normal Arial; margin: 4px 0px; padding: 8px 30px 8px 10px; border-radius: 20px; width: 188px !important; height: auto; box-sizing: border-box; font-size-adjust: none; font-stretch: normal;
+}
+#s4-searcharea input:focus {
+	color: rgb(51, 51, 51);
+}
+#s4-searcharea .ms-searchimage {
+	background: none; margin: 0px; padding: 10px; border: currentColor !important; top: 0px; right: 0px; color: rgb(102, 102, 102); position: absolute; cursor: pointer;
+}
+#s4-searcharea .ms-searchimage span {
+	overflow: visible !important;
+}
+#s4-searcharea .ms-searchimage #onetIDGoSearch {
+	background: none; color: rgb(102, 102, 102);
+}
+#s4-searcharea #onetIDGoSearch::before {
+	font-family: FontAwesome !important; font-size: 16px; cursor: pointer; content: "\f002";
+}
+#s4-searcharea #onetIDGoSearch:hover {
+	color: rgb(247, 182, 0); text-decoration: none;
+}
+#s4-searcharea #onetIDGoSearch:focus {
+	color: rgb(247, 182, 0); text-decoration: none;
+}
+#s4-searcharea #onetIDGoSearch img {
+	display: none;
+}
+.visa-srch-title {
+	font: bold 14px/normal Arial, san-serif; padding: 10px 10px 10px 20px; color: rgb(247, 182, 0) !important; font-size-adjust: none; font-stretch: normal;
+}
+.visa-srch-statistics {
+	padding: 10px 10px 10px 20px;
+}
+#primary-navigation {
+	list-style: none; margin: 0px; width: 790px; position: relative;
+}
+#primary-navigation .primary-navigation-item {
+	margin: 0px; padding: 0px; font-size: 13px; float: left; cursor: pointer;
+}
+#primary-navigation .primary-navigation-link:link {
+	margin: 0px 6px; padding: 11px 6px 0px 9px; text-align: center; color: rgb(255, 255, 255); letter-spacing: 0.05em; font-size: 14px; font-weight: normal; text-decoration: none; border-bottom-color: transparent; border-bottom-width: 5px; border-bottom-style: solid; display: block; white-space: nowrap; position: relative; box-sizing: content-box;
+}
+#primary-navigation .primary-navigation-link:active {
+	margin: 0px 6px; padding: 11px 6px 0px 9px; text-align: center; color: rgb(255, 255, 255); letter-spacing: 0.05em; font-size: 14px; font-weight: normal; text-decoration: none; border-bottom-color: transparent; border-bottom-width: 5px; border-bottom-style: solid; display: block; white-space: nowrap; position: relative; box-sizing: content-box;
+}
+#primary-navigation .primary-navigation-link:visited {
+	margin: 0px 6px; padding: 11px 6px 0px 9px; text-align: center; color: rgb(255, 255, 255); letter-spacing: 0.05em; font-size: 14px; font-weight: normal; text-decoration: none; border-bottom-color: transparent; border-bottom-width: 5px; border-bottom-style: solid; display: block; white-space: nowrap; position: relative; box-sizing: content-box;
+}
+#primary-navigation .primary-navigation-link {
+	margin: 0px 6px; padding: 11px 6px 0px 9px; text-align: center; color: rgb(255, 255, 255); letter-spacing: 0.05em; font-size: 14px; font-weight: normal; text-decoration: none; border-bottom-color: transparent; border-bottom-width: 5px; border-bottom-style: solid; display: block; white-space: nowrap; position: relative; box-sizing: content-box;
+}
+#primary-navigation .primary-navigation-link:hover {
+	color: rgb(247, 182, 0); border-bottom-color: rgb(247, 182, 0);
+}
+#primary-navigation .primary-navigation-item-selected .primary-navigation-link {
+	border-bottom-color: rgb(247, 182, 0);
+}
+#primary-navigation #primary-navigation-item-home .primary-navigation-link {
+	background: url("/_layouts/gvolsharepointbranding/images/home-icon-link.png") no-repeat 14px 9px; padding: 11px 5px 0px; width: 28px !important; height: 20px; margin-top: 0px;
+}
+#primary-navigation #primary-navigation-item-home .primary-navigation-link:hover {
+	background: url("/_layouts/gvolsharepointbranding/images/home-hover.png") no-repeat 14px 4px; border-bottom-color: transparent;
+}
+#primary-navigation .primary-navigation-item-highlight#primary-navigation-item-home .primary-navigation-link {
+	background: url("/_layouts/gvolsharepointbranding/images/home-hover.png") no-repeat 14px 4px; border-bottom-color: transparent;
+}
+.megamenu {
+	border: 5px solid rgb(26, 31, 113); left: 50%; top: 0px; margin-left: -480px; display: none; position: absolute; z-index: 100;
+}
+.megamenu-container {
+	border-width: 1px; border-style: solid; border-color: rgb(236, 237, 244) rgb(216, 220, 232) rgb(216, 220, 232) rgb(236, 237, 244); width: 100%; display: inline-block; background-color: rgb(248, 248, 248);
+}
+.megamenu h2 {
+	font: 14px/normal Arial; margin: 12px 0px 0px 12px; color: rgb(102, 102, 102); display: none; font-size-adjust: none; font-stretch: normal;
+}
+#megaanchor2 {
+	_width: 50px; _height: 26px;
+}
+#megaanchor3 {
+	_width: 50px; _height: 26px;
+}
+#megaanchor4 {
+	_width: 50px; _height: 26px;
+}
+#megaanchor5 {
+	_width: 50px; _height: 26px;
+}
+#megaanchor8 {
+	_width: 50px; _height: 26px;
+}
+#megaanchor6 {
+	_width: 97px; _height: 26px;
+}
+#megaanchor7 {
+	_width: 30px; _height: 26px;
+}
+.hiddenDropdown {
+	visibility: hidden !important;
+}
+#megamenu2 {
+	width: 960px;
+}
+#megamenu3 {
+	width: 960px;
+}
+#megamenu4 {
+	width: 960px;
+}
+#megamenu5 {
+	width: 960px;
+}
+#megamenu6 {
+	width: 960px;
+}
+#megamenu7 {
+	width: 960px;
+}
+#megamenu8 {
+	width: 960px;
+}
+.megamenu .column {
+	width: 230px; margin-right: 5px; float: left;
+}
+.megamenu .column ul {
+	margin: 0px 0px 0px 10px; padding: 0px; list-style-type: none;
+}
+.megamenu .column ul li {
+	margin: 0px 0px 0px 12px; padding: 0px;
+}
+.column5 {
+	clear: left;
+}
+.column10 {
+	clear: left;
+}
+.column5 {
+	border-top-color: rgb(204, 204, 204); border-top-width: 0px; border-top-style: dotted;
+}
+.column6 {
+	border-top-color: rgb(204, 204, 204); border-top-width: 0px; border-top-style: dotted;
+}
+.column7 {
+	border-top-color: rgb(204, 204, 204); border-top-width: 0px; border-top-style: dotted;
+}
+.column8 {
+	border-top-color: rgb(204, 204, 204); border-top-width: 0px; border-top-style: dotted;
+}
+.column9 {
+	border-top-color: rgb(204, 204, 204); border-top-width: 0px; border-top-style: dotted;
+}
+.megamenu .column li.column-link {
+	background-position: 0px 4px; margin: 0px 0px 0px 3px; padding: 0px 0px 0px 12px; width: 160px; background-image: url("/_layouts/gvolsharepointbranding/images/bullet.png"); background-repeat: no-repeat;
+}
+.megamenu a:link {
+	width: 160px; color: rgb(0, 35, 160); display: block;
+}
+.megamenu a:active {
+	width: 160px; color: rgb(0, 35, 160); display: block;
+}
+.megamenu a:visited {
+	width: 160px; color: rgb(0, 35, 160); display: block;
+}
+.megamenu .megamenu-header a:link {
+	width: 160px; color: rgb(0, 35, 160); display: block;
+}
+.megamenu .megamenu-header a:active {
+	width: 160px; color: rgb(0, 35, 160); display: block;
+}
+.megamenu .megamenu-header a:visited {
+	width: 160px; color: rgb(0, 35, 160); display: block;
+}
+.megamenu .megamenu-header a:hover {
+	color: rgb(255, 160, 0); text-decoration: none;
+}
+.megamenu a:hover {
+	color: rgb(255, 160, 0); text-decoration: none;
+}
+.megamenu a {
+	font: 12px/1.3em Arial; margin: 2px 0px 10px 2px; font-size-adjust: none; font-stretch: normal;
+}
+.megamenu .megamenu-header a {
+	font: 14px/1.3em Arial; margin: 12px 0px 12px 12px; width: 175px !important; border-bottom-color: rgb(0, 35, 160); border-bottom-width: 1px; border-bottom-style: solid; position: relative; min-height: 36px; font-size-adjust: none; font-stretch: normal;
+}
+.megamenu .megamenu-header a span {
+	bottom: 0px; position: absolute;
+}
+div.seeall {
+	width: 100%; height: 36px; clear: both; display: block;
+}
+.seeall a:link {
+	font: bold 12px/normal Arial; margin: 12px 12px 12px 0px; text-align: right; color: rgb(0, 35, 160); text-decoration: none; float: right; font-size-adjust: none; font-stretch: normal;
+}
+.seeall a:active {
+	font: bold 12px/normal Arial; margin: 12px 12px 12px 0px; text-align: right; color: rgb(0, 35, 160); text-decoration: none; float: right; font-size-adjust: none; font-stretch: normal;
+}
+.seeall a:visited {
+	font: bold 12px/normal Arial; margin: 12px 12px 12px 0px; text-align: right; color: rgb(0, 35, 160); text-decoration: none; float: right; font-size-adjust: none; font-stretch: normal;
+}
+.seeall a:hover {
+	font: bold 12px/normal Arial; margin: 12px 12px 12px 0px; text-align: right; color: rgb(0, 35, 160); text-decoration: none; float: right; font-size-adjust: none; font-stretch: normal;
+}
+.seeall a:hover {
+	color: rgb(255, 160, 0); text-decoration: none;
+}
+body {
+	overflow: hidden !important;
+}
+html.ms-dialog body {
+	margin-top: -5px; -ms-overflow-y: visible;
+}
+div.wrapper {
+	margin: 0px auto -190px; height: auto !important; overflow: visible !important; min-height: 100%;
+}
+.push {
+	margin: 0px auto; width: 1000px; height: 190px; clear: both; background-color: rgb(255, 255, 255);
+}
+.footer {
+	background: rgb(204, 204, 204); clear: both;
+}
+.ms-dlgOverlay {
+	width: 100% !important; height: 100% !important;
+}
+body #s4-workspace {
+	left: 0px; margin-bottom: -40px; position: relative; -ms-overflow-x: auto; -ms-overflow-y: scroll;
+}
+.divbreadcrumb {
+	width: 800px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-bottom: 0px; display: block !important;
+}
+.breadcrumb {
+	font: 11px/normal Arial; top: 0px; text-align: center; color: rgb(0, 35, 160); padding-bottom: 0px; padding-left: 0px; vertical-align: middle; white-space: nowrap !important; position: relative; font-size-adjust: none; font-stretch: normal;
+}
+.breadcrumbnolink {
+	font: bold 13px/normal Arial; top: 0px; text-align: left; color: rgb(51, 51, 51); padding-bottom: 2px; padding-left: 5px; vertical-align: middle; position: relative; font-size-adjust: none; font-stretch: normal;
+}
+td.breadcrumb {
+	margin: 0px; padding: 0px 0px 0px 5px; width: auto; text-align: left; vertical-align: middle; white-space: nowrap;
+}
+td.breadcrumbnoarrow {
+	font: bold 11px/normal Arial; padding: 0px 0px 0px 5px; width: auto; white-space: nowrap !important; font-size-adjust: none; font-stretch: normal; _padding-top: 0px;
+}
+.breadcrumb a:link {
+	background: url("/_layouts/gvolsharepointbranding/images/arrow_forward.gif") no-repeat right; color: rgb(0, 35, 160); padding-right: 14px; text-decoration: none;
+}
+.breadcrumb a:active {
+	background: url("/_layouts/gvolsharepointbranding/images/arrow_forward.gif") no-repeat right; color: rgb(0, 35, 160); padding-right: 14px; text-decoration: none;
+}
+.breadcrumb a:visited {
+	background: url("/_layouts/gvolsharepointbranding/images/arrow_forward.gif") no-repeat right; color: rgb(0, 35, 160); padding-right: 14px; text-decoration: none;
+}
+.breadcrumb a:hover {
+	text-decoration: none;
+}
+.mainNavContainer {
+	margin: 3px 0px; width: auto; height: 12px; position: relative;
+}
+.AlertText a:link {
+	color: rgb(102, 102, 102); text-decoration: none;
+}
+.AlertText a:active {
+	color: rgb(102, 102, 102); text-decoration: none;
+}
+.AlertText a:visited {
+	color: rgb(102, 102, 102); text-decoration: none;
+}
+.AlertText a:hover {
+	color: rgb(153, 153, 153); text-decoration: none;
+}
+.visaCssMenu li a span.Visa-TopicMenutext {
+	color: rgb(102, 102, 102) !important; padding-right: 20px;
+}
+#spnchangeProfile {
+	padding-right: 17px;
+}
+.contentpage-mastertable a:link {
+	color: rgb(0, 35, 160); text-decoration: none;
+}
+.contentpage-mastertable a:active {
+	color: rgb(0, 35, 160); text-decoration: none;
+}
+.contentpage-mastertable a:visited {
+	color: rgb(0, 35, 160); text-decoration: none;
+}
+.contentpage-mastertable a:hover {
+	color: rgb(247, 182, 0) !important; text-decoration: none;
+}
+.contentpage-alert {
+	padding: 0px 0px 0px 20px; height: 38px; vertical-align: bottom;
+}
+.contentpage-mastertable {
+	width: 998px;
+}
+.contentpage-maincontenttable {
+	width: 100%; height: 100%;
+}
+.contentpage-leftcolumntop {
+	height: 100%; margin-left: 25px; border-top-color: rgb(204, 204, 204); border-top-width: 1px; border-top-style: solid; display: inline-block; max-width: 167px;
+}
+.contentpage-leftcolumnbottom {
+	width: 148px; height: 100%; padding-right: 14px; padding-bottom: 14px; padding-left: 5px; margin-left: 20px;
+}
+.contentpage-subtable {
+	width: 796px; height: 100%; padding-top: 14px; border-top-color: rgb(204, 204, 204); border-left-color: rgb(127, 127, 127); border-top-width: 1px; border-left-width: 1px; border-top-style: solid; border-left-style: solid;
+}
+.contentpage-maincontentplacement {
+	width: 796px;
+}
+.utility-contentpage-maincontentplacement {
+	width: 796px; height: 100%; padding-top: 2px;
+}
+.contentpage-stackplacement {
+	width: 796px; height: 100%; padding-top: 14px;
+}
+.c_typebox a:link {
+	margin: 10px 0px 0px; padding: 0px; color: rgb(0, 35, 160) !important; text-decoration: none;
+}
+.c_typebox a:active {
+	margin: 10px 0px 0px; padding: 0px; color: rgb(0, 35, 160) !important; text-decoration: none;
+}
+.c_typebox a:visited {
+	color: rgb(0, 62, 169);
+}
+.c_typebox a:hover {
+	color: rgb(255, 160, 0) !important;
+}
+.c_typebox ul {
+	margin: 0px; padding: 0px; color: rgb(0, 35, 160); list-style-type: none; list-style-image: none;
+}
+.c_typebox li {
+	margin: 0px; padding-top: 4px !important; padding-right: 0px; padding-bottom: 4px !important; padding-left: 11px;
+}
+.c_typebox li:hover {
+	color: rgb(255, 160, 0); text-decoration: none;
+}
+.c_typebox-staff ul {
+	margin: 0px; padding: 0px; color: rgb(0, 35, 160); line-height: 22px; list-style-type: none; list-style-image: none;
+}
+.c_typebox-staff li {
+	margin: 0px; line-height: 22px; padding-top: 4px !important; padding-right: 0px; padding-bottom: 5px !important; padding-left: 0px;
+}
+.c_typebox-staff li:hover {
+	color: rgb(255, 160, 0);
+}
+.c_subtitle-staff {
+	color: rgb(51, 51, 51); line-height: 22px; padding-bottom: 5px; font-size: 14px; margin-bottom: 5px; border-bottom-color: rgb(127, 145, 207); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.section_subtitle {
+	color: rgb(102, 102, 102); line-height: 22px; padding-bottom: 0px; font-size: 16px; font-weight: bold; margin-bottom: 10px; border-bottom-color: rgb(204, 204, 204); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.section-text {
+	margin: 15px 0px 0px; width: 215px;
+}
+.section-text a {
+	color: rgb(0, 35, 160) !important;
+}
+.infobar_applies {
+	display: none;
+}
+.infobar_box-section {
+	font: 11px/normal Arial sans-serif; padding: 0px 0px 0px 7px; width: 300px; height: 53px; color: rgb(102, 102, 102); overflow: hidden; margin-top: 2px; margin-right: 5px; float: right; display: block; position: relative; font-size-adjust: none; font-stretch: normal;
+}
+.trans-aval {
+	left: -324px !important;
+}
+.nextprevcontainer {
+	padding: 10px 10px 6px; border: 2px solid rgb(234, 234, 234); margin-left: 10px; min-height: 24px;
+}
+.nextprevcontainer a:link {
+	font-weight: bold;
+}
+.nextprevcontainer a:active {
+	font-weight: bold;
+}
+.nextprevcontainer a:visited {
+	font-weight: bold;
+}
+.nextprevcon_previous {
+	float: left; display: inline;
+}
+.nextprevcon_previous span {
+	background: url("/_layouts/GVOLSharePointBranding/Images/orange_left_arrow.png") no-repeat left 0px; padding: 0px 5px 0px 15px; color: rgb(247, 182, 0) !important;
+}
+.nextprevcon_next span {
+	background: url("/_layouts/GVOLSharePointBranding/Images/orange_arrow.png") no-repeat right 0px; padding: 0px 15px 0px 5px; color: rgb(247, 182, 0) !important;
+}
+.nextprevcon_previous a {
+	text-decoration: none;
+}
+.con_next a {
+	text-decoration: none;
+}
+.nextprevcon_next {
+	float: right; display: inline;
+}
+div.popup_title {
+	font: 19px/normal Arial !important; padding: 0px 0px 7px !important; color: rgb(102, 102, 102); border-bottom-color: rgb(102, 102, 102); border-bottom-width: 1px; border-bottom-style: solid; position: relative; font-size-adjust: none !important; font-stretch: normal !important;
+}
+a.jqmClose {
+	top: 11px; right: 23px; position: relative;
+}
+.popup_container {
+	margin: 0px; width: 740px;
+}
+.popup_cell {
+	font: 13px/normal Arial; width: 156px; height: 33px; color: rgb(0, 35, 160); padding-top: 10px; margin-right: 28px; float: left; display: inline-block; font-size-adjust: none; font-stretch: normal;
+}
+div.jqmWindow {
+	padding: 15px 25px 15px 15px; left: 301px; top: 217px; width: 375px; height: 188px; right: 35px; color: rgb(51, 51, 51); overflow: auto; margin-left: -235px; display: none; visibility: visible; position: absolute; -ms-overflow-x: hidden !important; -ms-overflow-y: hidden; background-image: url("/_layouts/gvolsharepointbranding/images/Announcement-bg.png"); background-attachment: scroll; background-repeat: no-repeat; x-scroll: none; elevation: above;
+}
+.jqmOverlay {
+	background-color: rgb(0, 0, 0);
+}
+.infobar_cursor {
+	cursor: auto;
+}
+.ms-rtestate-write p {
+	margin: 0px 0px 10px; background-color: rgb(255, 255, 255);
+}
+div#contentcarslide1 {
+	font: 12px/1.6em Arial; margin: 0px; padding: 10px 10px 0px; width: 478px; height: 100%; color: rgb(102, 102, 102); min-height: 100% !important; font-size-adjust: none; font-stretch: normal; background-color: rgb(255, 255, 255) !important;
+}
+#contentcarslide1 p {
+	margin: 0px; padding: 0px 0px 15px !important; color: rgb(102, 102, 102); line-height: 19px; font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal;
+}
+#contentcarslide1 h3 {
+	font-weight: bold;
+}
+#contentcarslide1 a {
+	color: rgb(0, 35, 160); text-decoration: none;
+}
+#contentcarslide1 a:hover {
+	color: rgb(255, 160, 0);
+}
+#contentcarslide1 .contentcontainer {
+	width: 478px;
+}
+#contentcarslide1 .contentcontainer {
+	margin: 1px 0px 0px; padding: 5px 10px 0px 0px; float: left;
+}
+div.containerleft {
+	margin: 0px; padding: 0px; width: 478px; text-align: center;
+}
+#contentcarslide1 .contentcontainer .containerright {
+	margin: 20px 0px 0px 10px; padding: 0px; width: 460px; text-align: left; color: rgb(102, 102, 102); line-height: normal; font-family: Arial, Helvetica, sans-serif; font-size: 12px; float: left;
+}
+#contentcarslide1 .contentcontainer .containerleft-Merchant-offer {
+	margin: 0px; padding: 10px; width: auto; float: left; display: block;
+}
+#contentcarslide1 .contentcontainer .containerright-Merchant-offer {
+	padding: 10px 30px 10px 10px; left: 160px; text-align: left; white-space: pre-wrap; position: absolute;
+}
+.containerright h3 {
+	color: rgb(102, 102, 102); font-family: Arial, Helvetica, sans-serif; font-size: 14px;
+}
+#contentcarslide1 img {
+	margin: 0px auto; padding: 0px !important; border: 0px currentColor; width: 368px; height: 277px;
+}
+.homepage-mastertable {
+	width: 981px; margin-top: 10px;
+}
+.homepage-subtable {
+	width: 981px;
+}
+.homepage-header {
+	width: 634px; height: 320px; padding-top: 12px; padding-left: 13px;
+}
+.homepage-toprow {
+	padding-right: 0px; padding-left: 9px;
+}
+.homepage-centerleftcolumn {
+	width: 310px;
+}
+.homepage-centerrightcolumn {
+	width: 310px;
+}
+.homepage-rightcolumn {
+	width: 310px;
+}
+.categoryindexpage-alert {
+	padding: 14px 14px 0px 20px; width: 958px; height: 24px; vertical-align: middle;
+}
+.categoryindexpage-mastertable {
+	width: 998px;
+}
+.categoryindexpage-maincontenttable {
+	width: 100%; height: 100%; padding-left: 13px;
+}
+.categoryindexpage-contentplacement {
+	width: 661px; padding-top: 0px; padding-bottom: 0px; padding-left: 14px; display: inline-block;
+}
+.categoryindexpage-maincontentwidth {
+	width: 100% !important;
+}
+.categoryindexpage-rightcolumn {
+	width: 324px; height: 100%; padding-right: 14px; padding-bottom: 14px; border-left-color: rgb(153, 153, 153); border-left-width: 2px; border-left-style: solid;
+}
+.category-HideAllFilters {
+	font: bold 12px/normal Arial; color: rgb(102, 102, 102); margin-top: -21px; margin-right: 5px; float: right; font-size-adjust: none; font-stretch: normal;
+}
+.category-HideAllFilters a:link {
+	color: rgb(26, 31, 113);
+}
+.category-HideAllFilters a:visited {
+	color: rgb(26, 31, 113);
+}
+.searchpage-alert {
+	padding: 0px 14px 0px 20px; width: 958px; height: 38px; vertical-align: middle;
+}
+.searchpage-mastertable {
+	width: 998px;
+}
+.searchpage-column1 {
+	width: 324px; height: 100%; padding-top: 1px; padding-bottom: 13px; padding-left: 13px;
+}
+.searchpage-column2 {
+	width: 634px; height: 320px; padding-top: 13px; padding-right: 13px; padding-left: 5px; margin-left: 10px;
+}
+.searchpage-resultsstatus1 {
+	padding: 0px; width: 634px; height: 100%; background-color: rgb(242, 244, 250);
+}
+.searchpage-sugsearchterm {
+	width: 320px; height: 100%; padding-bottom: 0px; margin-right: 12px; background-color: rgb(255, 255, 255);
+}
+.searchpage-sortcontrol {
+	width: 634px; height: 100%; padding-bottom: 0px; background-color: rgb(242, 244, 250);
+}
+.searchpage-displaycontrol {
+	width: 310px; height: 100%; padding-bottom: 0px; background-color: rgb(255, 255, 255);
+}
+.searchpage-bestbet {
+	width: 634px; height: 100%; padding-bottom: 0px;
+}
+.searchpage-searchresults {
+	width: 634px; height: 100%; padding-bottom: 0px;
+}
+.searchpage-resultsstatus2 {
+	width: 634px; height: 100%; padding-bottom: 0px; background-color: rgb(255, 255, 255);
+}
+.searchpage-pagination {
+	width: 324px; height: 100%; padding-bottom: 0px;
+}
+.searchpage-redundantsearchbox {
+	width: 634px; height: 100%; padding-bottom: 13px;
+}
+.mail-MainName {
+	width: 100px; float: left;
+}
+.One-EmailMessage {
+	padding: 10px; width: 614px; height: 55px; line-height: 14px; border-bottom-color: rgb(234, 234, 234); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.One-ViewInbox {
+	font: 13px/1.6em Arial; width: 124px; text-align: right; color: rgb(0, 35, 160) !important; padding-top: 10px; margin-right: 30px; float: right; font-size-adjust: none; font-stretch: normal;
+}
+.One-ViewInbox a:link {
+	color: rgb(0, 35, 160); text-decoration: none;
+}
+.One-ViewInbox a:active {
+	color: rgb(0, 35, 160); text-decoration: none;
+}
+.One-ViewInbox a:visited {
+	color: rgb(0, 35, 160); text-decoration: none;
+}
+.One-ViewInbox a:hover {
+	color: rgb(255, 160, 0); text-decoration: none;
+}
+.One-SubjectLine {
+	width: 414px; color: rgb(51, 51, 51) !important; font-weight: bold; margin-top: 3px; float: left;
+}
+.One-SubjectLine a:link {
+	font: bold 13px/1.6em Arial; color: rgb(0, 35, 160); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.One-SubjectLine a:active {
+	font: bold 13px/1.6em Arial; color: rgb(0, 35, 160); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.One-SubjectLine a:visited {
+	font: bold 13px/1.6em Arial; color: rgb(0, 35, 160); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.One-SubjectLine a:hover {
+	color: rgb(255, 160, 0); text-decoration: none;
+}
+.One-Description {
+	font: 11px/1.6em Arial; width: 615px; color: rgb(51, 51, 51) !important; text-decoration: none !important; margin-top: 3px; float: left; font-size-adjust: none; font-stretch: normal;
+}
+.One-NameLine {
+	width: 434px; text-decoration: none !important; margin-top: 3px; float: left;
+}
+.One-NameLine a:link {
+	font: bold 12px/1.6em Arial; color: rgb(51, 51, 51); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.One-NameLine a:active {
+	font: bold 12px/1.6em Arial; color: rgb(51, 51, 51); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.One-NameLine a:visited {
+	font: bold 12px/1.6em Arial; color: rgb(51, 51, 51); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.One-NameLine a:hover {
+	color: rgb(255, 160, 0); text-decoration: none;
+}
+.One-UnreadMess {
+	background: rgb(255, 255, 255); width: 626px; text-align: right; padding-top: 5px; padding-right: 8px; padding-bottom: 5px; font-weight: bold; float: left;
+}
+.One-UnreadMess a:link {
+	font: 11px/1.6em Arial; color: rgb(0, 35, 160) !important; text-decoration: none !important; font-size-adjust: none; font-stretch: normal;
+}
+.One-UnreadMess a:active {
+	font: 11px/1.6em Arial; color: rgb(0, 35, 160) !important; text-decoration: none !important; font-size-adjust: none; font-stretch: normal;
+}
+.One-UnreadMess a:visited {
+	font: 11px/1.6em Arial; color: rgb(0, 35, 160) !important; text-decoration: none !important; font-size-adjust: none; font-stretch: normal;
+}
+.One-UnreadMess a:hover {
+	color: rgb(255, 160, 0); text-decoration: none;
+}
+.One-DateStamp {
+	font: 11px/1.6em Arial; width: 200px; text-align: right; color: rgb(51, 51, 51) !important; text-decoration: none !important; float: left; font-size-adjust: none; font-stretch: normal;
+}
+#gVol_yougotmail_yougotmailContainer {
+	background: rgb(255, 255, 255); width: 634px; height: 350px; border-left-color: rgb(174, 174, 174); border-left-width: 1px; border-left-style: solid;
+}
+.gVol_yougotmail_favLinksContainer {
+	height: auto; overflow: hidden; clear: left; font-weight: bolder; display: none; white-space: nowrap;
+}
+.gVol_yougotmail_currentList.gVol_yougotmail_favLinksContainer {
+	display: block;
+}
+.gVol_yougotmail_linksContainer1 {
+	width: 574px; overflow: hidden; padding-top: 10px; padding-left: 30px; float: left;
+}
+.gVol_yougotmail_linksContainer2 {
+	text-align: left; line-height: normal !important; padding-top: 10px; padding-bottom: 10px; padding-left: 10px; float: left; white-space: normal;
+}
+.nomailbox_table {
+	margin: 20px 0px 0px 20px; width: 460px;
+}
+.nomailbox_table td {
+	font: 12px/normal Arial; font-size-adjust: none; font-stretch: normal;
+}
+.pencil_td {
+	vertical-align: middle;
+}
+.noemail_pencil {
+	margin: 0px 10px 0px 0px; vertical-align: middle;
+}
+.signuptext_td {
+	color: rgb(88, 88, 98); font-size: 13px;
+}
+.nomailboxtext_td {
+	color: rgb(129, 130, 133); padding-top: 8px; padding-left: 10px;
+}
+.noemail_checkmark {
+	margin-top: 5px;
+}
+gVol_yougotmail_linksContainer2 img {
+	padding-top: 20px;
+}
+.gVol_yougotmail_linksContainer3 {
+	width: 95px; text-align: right; overflow: hidden; padding-top: 10px; padding-left: 30px; float: left;
+}
+a.gVol_yougotmail_favLink:link {
+	font: 12px/22px Arial; color: rgb(0, 35, 160); padding-top: 90px; padding-left: 24px; text-decoration: none !important; font-size-adjust: none; font-stretch: normal;
+}
+a.gVol_yougotmail_favLink:active {
+	font: 12px/22px Arial; color: rgb(0, 35, 160); padding-top: 90px; padding-left: 24px; text-decoration: none !important; font-size-adjust: none; font-stretch: normal;
+}
+a.gVol_yougotmail_favLink:visited {
+	font: 12px/22px Arial; color: rgb(0, 35, 160); padding-top: 90px; padding-left: 24px; text-decoration: none !important; font-size-adjust: none; font-stretch: normal;
+}
+.gVol_yougotmail_favLink:hover {
+	color: rgb(255, 160, 0); text-decoration: none;
+}
+.gVol_yougotmail_icon {
+	margin-right: 5px;
+}
+.gVol_email_desc {
+	text-align: right;
+}
+a.gVol_email_desc:link {
+	font: 14px/22px Arial; color: rgb(102, 102, 102) !important; text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+a.gVol_email_desc:active {
+	font: 14px/22px Arial; color: rgb(102, 102, 102) !important; text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+a.gVol_email_desc:visited {
+	font: 14px/22px Arial; color: rgb(102, 102, 102) !important; text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+a.gVol_email_desc:hover {
+	color: rgb(255, 160, 0); text-decoration: none;
+}
+.Mover_Mail {
+	text-align: right; color: rgb(102, 102, 102) !important; text-decoration: none; margin-top: 20px; margin-left: 20px;
+}
+.Mover_Mail a:link {
+	font: bold 14px/22px Arial; color: rgb(102, 102, 102); font-size-adjust: none; font-stretch: normal;
+}
+.Mover_Mail a:active {
+	font: bold 14px/22px Arial; color: rgb(102, 102, 102); font-size-adjust: none; font-stretch: normal;
+}
+.Mover_Mail a:visited {
+	font: bold 14px/22px Arial; color: rgb(102, 102, 102); font-size-adjust: none; font-stretch: normal;
+}
+.Mover_Mail:hover {
+	color: rgb(255, 160, 0); text-decoration: none;
+}
+.Mover_Mail_text {
+	width: 450px; text-align: right; color: rgb(102, 102, 102); overflow: hidden; margin-left: 20px; white-space: normal;
+}
+.Mover_Mail_text a:link {
+	font: 11px/1.6em Arial; color: rgb(102, 102, 102); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.Mover_Mail_text a:active {
+	font: 11px/1.6em Arial; color: rgb(102, 102, 102); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.Mover_Mail_text a:visited {
+	font: 11px/1.6em Arial; color: rgb(102, 102, 102); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.Mover_Mail_text:hover {
+	color: rgb(255, 160, 0); text-decoration: none;
+}
+.gVol_yougotmail_clearBreak {
+	clear: left;
+}
+.gVol_yougotmail_favLinksFooter {
+	padding: 0px 18px 0px 30px; clear: both;
+}
+.gVol_yougotmail_favLinksFooter a:link {
+	font: bold 11px/1.6em Arial; color: rgb(0, 35, 160); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.gVol_yougotmail_favLinksFooter a:active {
+	font: bold 11px/1.6em Arial; color: rgb(0, 35, 160); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.gVol_yougotmail_favLinksFooter a:visited {
+	font: bold 11px/1.6em Arial; color: rgb(0, 35, 160); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.gVol_yougotmail_favLinksFooter a:hover {
+	color: rgb(255, 160, 0); text-decoration: none;
+}
+.All_WrapAnounc2 {
+	width: 634px; height: 184px; margin-right: 7px; margin-bottom: 7px; background-color: rgb(255, 255, 255);
+}
+.gVol_yougotmail_add {
+	color: rgb(102, 102, 102) !important; float: left;
+}
+.gVol_yougotmail_edit {
+	color: rgb(102, 102, 102) !important; padding-left: 15px !important; float: left;
+}
+.gVol_yougotmail_prev {
+	color: rgb(102, 102, 102); padding-left: 10px; cursor: pointer;
+}
+.gVol_yougotmail_next {
+	color: rgb(102, 102, 102); padding-left: 10px; cursor: pointer;
+}
+.gVol_yougotmail_prevNext {
+	padding-top: 10px; float: right;
+}
+.gVol_yougotmail_next.gVol_yougotmail_disabled {
+	color: rgb(153, 153, 153);
+}
+.gVol_yougotmail_prev.gVol_yougotmail_disabled {
+	color: rgb(153, 153, 153);
+}
+.loading-indicator {
+	width: 25px; height: 25px;
+}
+.loading-indicator-overlay {
+	opacity: 0.6; background-color: rgb(255, 255, 255);
+}
+#gVol_UserServices_eligibleServices {
+	margin-top: -3px; float: right;
+}
+#gVol_UserServices_eligibleServices img.gVol_editiconImg {
+	margin-bottom: 5px;
+}
+.gVol_userFavorites_edit img.gVol_editiconImg {
+	margin-bottom: 5px;
+}
+#gVol_UserServices_eligibleServices:link {
+	font: 11px/25px Arial; color: rgb(0, 35, 160); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+#gVol_UserServices_eligibleServices:active {
+	font: 11px/25px Arial; color: rgb(0, 35, 160); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+#gVol_UserServices_eligibleServices:visited {
+	font: 11px/25px Arial; color: rgb(0, 35, 160); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+#gVol_UserServices_eligibleServices:hover {
+	color: rgb(255, 160, 0); text-decoration: none;
+}
+.jqModal {
+	bottom: 2px; position: relative;
+}
+.jqmOverlay {
+	background-color: rgb(0, 0, 0);
+}
+.jqContent {
+	width: 375px; height: 132px; font-weight: normal; white-space: normal; -ms-overflow-y: auto;
+}
+.jqContent a {
+	text-decoration: underline;
+}
+.jqContent p {
+	margin: 5px 0px 0px;
+}
+.jqContent ul {
+	padding-left: 24px; list-style-type: disc;
+}
+.jqContent ul li {
+	
+}
+.jqContent ol {
+	padding-left: 24px; list-style-type: decimal;
+}
+.jqContent ol {
+	list-style-position: outside;
+}
+.jqContent ul {
+	list-style-position: outside;
+}
+.jqContent img {
+	max-height: 100%; max-width: 365px;
+}
+.ano-popHeader {
+	width: 100%;
+}
+.ano-popTitle {
+	width: 355px; text-align: left; -ms-word-wrap: break-word;
+}
+.ano-popClose {
+	top: 0px; right: 0px; float: right; position: absolute;
+}
+.gv-srch-results {
+	margin: 0px; padding: 10px 0px 1px 10px !important; width: auto !important; background-color: rgb(255, 255, 255) !important; _background-color: #fff; _margin: 0px 0px 0px 0px;
+}
+.gv-srch-noresults {
+	margin: 0px; padding: 30px 10px 15px; width: auto; text-align: left; min-height: 90px; background-color: rgb(255, 255, 255) !important;
+}
+.gv-srch-description {
+	font: 12px/1.6em Arial; margin: 0px 10px 0px 0px; width: 93% !important; color: rgb(51, 51, 51); white-space: normal; position: relative; -ms-word-break: normal; font-size-adjust: none; font-stretch: normal; _width: 93%;
+}
+.GVOL-gv-srch-resultsRowAlternateEven {
+	font: bold 11px/1.6em Arial; font-size-adjust: none; font-stretch: normal; background-color: rgb(255, 255, 255);
+}
+.GVOL-gv-srch-resultsRowAlternateOdd {
+	font: bold 11px/1.6em Arial; font-size-adjust: none; font-stretch: normal; background-color: rgb(255, 255, 255);
+}
+.srch-Icon {
+	font: bold 14px/1.6em Arial; color: rgb(0, 35, 160); text-decoration: none; font-size-adjust: none; font-stretch: normal; background-color: rgb(153, 0, 0);
+}
+.GVOL-gv-srch-results {
+	font: bold 11px/1.6em Arial; width: 661px; padding-top: 5px; padding-right: 20px; padding-left: 10px; margin-right: 20px; margin-left: 7px; font-size-adjust: none; font-stretch: normal; background-color: rgb(255, 255, 255);
+}
+.gv-srch-URLCustom {
+	width: 580px !important; overflow: hidden; white-space: normal;
+}
+.gv-srch-URLCustom a:link {
+	font: 11px/1.6em Arial; width: 600px !important; color: rgb(0, 35, 160); overflow: hidden; padding-top: 40px; text-decoration: none; white-space: normal; font-size-adjust: none; font-stretch: normal;
+}
+.gv-srch-URLCustom a:active {
+	font: 11px/1.6em Arial; width: 600px !important; color: rgb(0, 35, 160); overflow: hidden; padding-top: 40px; text-decoration: none; white-space: normal; font-size-adjust: none; font-stretch: normal;
+}
+.gv-srch-URLCustom a:visited {
+	font: 11px/1.6em Arial; width: 600px !important; color: rgb(0, 35, 160); overflow: hidden; padding-top: 40px; text-decoration: none; white-space: normal; font-size-adjust: none; font-stretch: normal;
+}
+.gv-srch-URLCustom a:hover {
+	color: rgb(255, 160, 0); text-decoration: none;
+}
+.gv-srch-TitleCustom a:link {
+	font: bold 12px/1.6em Arial; top: 0px; color: rgb(0, 35, 160); text-decoration: none; position: relative; font-size-adjust: none; font-stretch: normal;
+}
+.gv-srch-TitleCustom a:active {
+	font: bold 12px/1.6em Arial; top: 0px; color: rgb(0, 35, 160); text-decoration: none; position: relative; font-size-adjust: none; font-stretch: normal;
+}
+.gv-srch-TitleCustom a:visited {
+	font: bold 12px/1.6em Arial; top: 0px; color: rgb(0, 35, 160); text-decoration: none; position: relative; font-size-adjust: none; font-stretch: normal;
+}
+.gv-srch-TitleCustom a:hover {
+	color: rgb(255, 160, 0); text-decoration: none;
+}
+p.gv-srch-Metadata {
+	font: 11px/1.6em Arial; left: -10px; top: -11px; width: 600px !important; text-align: left; color: rgb(51, 51, 51); overflow: hidden; padding-bottom: 0px; white-space: normal; position: relative; font-size-adjust: none; font-stretch: normal;
+}
+.visa-srch-stats {
+	font: 11px/1.6em Arial; width: 350px; color: rgb(102, 102, 102); padding-top: 10px; padding-bottom: 7px; padding-left: 10px; margin-left: 0px; font-size-adjust: none; font-stretch: normal;
+}
+.visa-srch-noresults {
+	font: 11px/1.6em Arial; padding: 10px 5px 10px 10px; color: rgb(102, 102, 102); margin-left: 0px; font-size-adjust: none; font-stretch: normal;
+}
+.visa-srch-stats b {
+	padding-right: 3px; font-style: italic;
+}
+#tat-PromoWrapper {
+	background: rgb(255, 255, 255); margin: 7px; width: 148px; height: 200px;
+}
+.cfi-link a:link {
+	font: 12px/1.6em Arial; color: rgb(0, 35, 160); padding-top: 10px; padding-right: 5px; text-decoration: none; float: right; display: block; font-size-adjust: none; font-stretch: normal;
+}
+.cfi-link a:active {
+	font: 12px/1.6em Arial; color: rgb(0, 35, 160); padding-top: 10px; padding-right: 5px; text-decoration: none; float: right; display: block; font-size-adjust: none; font-stretch: normal;
+}
+.cfi-link a:visited {
+	font: 12px/1.6em Arial; color: rgb(0, 35, 160); padding-top: 10px; padding-right: 5px; text-decoration: none; float: right; display: block; font-size-adjust: none; font-stretch: normal;
+}
+.cfi-link a:hover {
+	color: rgb(255, 160, 0); text-decoration: none;
+}
+.cfi-description {
+	font: 12px/1.6em Arial; margin: 0px; width: 140px; color: rgb(102, 102, 102); padding-top: 15px; text-decoration: none !important; float: left; display: block; list-style-image: none; font-size-adjust: none; font-stretch: normal;
+}
+#tat-PromoWrapper a:hover {
+	color: rgb(255, 160, 0); text-decoration: none;
+}
+.tat-background_whitevi {
+	background-color: rgb(255, 255, 255);
+}
+.tat-MainTitle {
+	font: 14px/1.6em Arial; width: 136px; color: rgb(102, 102, 102); padding-top: 14px; padding-bottom: 5px; padding-left: 10px; font-size-adjust: none; font-stretch: normal; background-color: rgb(255, 255, 255);
+}
+.tat-PromoTitle {
+	font: 14px/1.6em Arial; width: 148px; color: rgb(0, 35, 160); padding-top: 10px; padding-bottom: 10px; padding-left: 10px; font-size-adjust: none; font-stretch: normal; background-color: rgb(255, 255, 255);
+}
+.tat-line {
+	width: 128px; height: 0px; padding-right: 0px; margin-left: 10px; border-top-color: rgb(0, 35, 160); border-top-width: 1px; border-top-style: solid;
+}
+tat-body {
+	margin: 10px auto; width: 90%;
+}
+#tat-c {
+	width: 148px; padding-bottom: 15px; padding-left: 5px; background-color: rgb(255, 255, 255);
+}
+#tat-a {
+	width: auto; color: rgb(102, 102, 102); padding-left: 5px; float: left;
+}
+#tat-b {
+	font: 12px/1.6em Arial; color: rgb(102, 102, 102); padding-right: 0px; padding-left: 5px; margin-left: 0px; font-size-adjust: none; font-stretch: normal;
+}
+#tat-b li {
+	font: 12px/1.6em Arial; margin: 0px; color: rgb(0, 35, 160); padding-top: 5px; display: block; list-style-image: none; font-size-adjust: none; font-stretch: normal;
+}
+.tat-LinkClick a {
+	font: 12px/1.6em Arial; color: rgb(0, 35, 160) !important; padding-top: 7px; text-decoration: none !important; font-size-adjust: none; font-stretch: normal;
+}
+.tat-LinkClick a:link {
+	margin: 0px; padding-top: 7px; display: block; list-style-image: none;
+}
+.tat-LinkClick a:hover {
+	color: rgb(255, 160, 0); text-decoration: none;
+}
+.tat-LinkDescription {
+	font: 12px/5px Arial; margin: 0px; color: rgb(102, 102, 102); padding-top: 5px; text-decoration: none; display: block; list-style-image: none; font-size-adjust: none; font-stretch: normal;
+}
+.cfi-link {
+	font: 12px/1.6em Arial; color: rgb(0, 35, 160); font-size-adjust: none; font-stretch: normal;
+}
+.cfi-link a {
+	font: 12px/1.6em Arial; color: rgb(0, 35, 160); padding-top: 10px; text-decoration: none; float: right; display: block; font-size-adjust: none; font-stretch: normal;
+}
+.cfi-link a:hover {
+	color: rgb(255, 160, 0); text-decoration: none;
+}
+.cfi-link a:visited {
+	color: rgb(0, 35, 160);
+}
+.is_current {
+	font: bold 12px/1.6em Arial; color: rgb(102, 102, 102); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+#SRP .g-srch-WPBody .is_current {
+	font: 11px/1.6em Arial; color: rgb(102, 102, 102); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.pageActive .is_current {
+	font: 11px/1.6em Arial; color: rgb(102, 102, 102); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.is_current a:active {
+	font: 11px/1.6em Arial; color: rgb(102, 102, 102); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+#SRP .g-srch-WPBody .is_current {
+	font: 11px/1.6em Arial; color: rgb(102, 102, 102); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.paging_nextPage {
+	font: 11px/1.6em Arial; color: rgb(0, 35, 160) !important; text-decoration: none; margin-left: 10px; font-size-adjust: none; font-stretch: normal;
+}
+.g-srch-Page g-srch-Page-bg a {
+	font: 11px/1.6em Arial; color: rgb(0, 35, 160); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.g-srch-Page g-srch-Page-bg a:link {
+	font: 11px/1.6em Arial; color: rgb(0, 35, 160); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.g-srch-Page g-srch-Page-bg a:visited {
+	font: 11px/1.6em Arial; color: rgb(0, 35, 160); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.g-srch-WPBody a:link {
+	font: 11px/1.6em Arial; color: rgb(0, 35, 160); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.g-srch-Page g-srch-Page-bg a:active {
+	font: 11px/1.6em Arial; color: rgb(0, 35, 160); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.g-srch-Page g-srch-Page-bg div {
+	margin: 0px; padding: 0px 10px 0px 0px; text-align: right;
+}
+.g-srch-Page-bg {
+	margin: 0px; padding: 0px 10px 0px 0px; text-align: center;
+}
+.g-srch-WPBody a:visited {
+	font: 11px/1.6em Arial; color: rgb(0, 35, 160); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.g-srch-WPBody a {
+	font: 11px/1.6em Arial; text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.linestyle {
+	font-size: 11px;
+}
+.g-srch-WPBody {
+	background-position: right; width: 100%; height: 20px; text-align: right; right: 0px; padding-top: 10px; padding-left: 0px; margin-right: 0px; white-space: normal; position: relative; background-color: rgb(255, 255, 255);
+}
+#mpsearch-wrapper {
+	margin: 12px 7px 2px; width: 295px; padding-right: 7px; padding-left: 12px; background-color: rgb(255, 255, 255) !important;
+}
+#mptip-wrapper {
+	width: 295px; padding-right: 7px; padding-bottom: 20px; padding-left: 12px; margin-right: 7px; margin-left: 7px; display: block; min-height: 120px; background-color: rgb(242, 244, 250) !important; _padding-right: 5px;
+}
+#mpcfi-wrapper {
+	padding: 10px 7px 20px 12px; width: 295px; margin-right: 7px; margin-bottom: 0px !important; margin-left: 7px; display: block; background-color: rgb(242, 244, 250) !important; _padding-right: 2px;
+}
+.st-description {
+	font: 12px/1.6em Arial; margin: 0px; width: 297px; color: rgb(102, 102, 102); padding-top: 10px; text-decoration: none !important; display: block; list-style-image: none; font-size-adjust: none; font-stretch: normal; background-color: rgb(242, 244, 250) !important;
+}
+.st-description a {
+	color: rgb(0, 35, 160) !important;
+}
+.st-description p {
+	font: 12px/1.6em Arial; margin: 0px; width: 290px; min-height: 100px; font-size-adjust: none; font-stretch: normal; _margin: 0px;
+}
+.st-description strong em i {
+	line-height: normal;
+}
+.st-description strong {
+	font-weight: bold !important;
+}
+#institution {
+	font: 12px/1.6em Arial; width: 100%; padding-top: 15px; padding-bottom: 10px; margin-right: 7px; margin-bottom: 7px; font-size-adjust: none; font-stretch: normal; background-color: rgb(255, 255, 255) !important; _padding-top: 5px;
+}
+.service_list p {
+	background: rgb(238, 238, 238); font: 11px/1.6em Arial; width: 100%; color: rgb(102, 102, 102); padding-top: 10px; padding-bottom: 10px; font-size-adjust: none; font-stretch: normal;
+}
+.service_list strong {
+	font: 12px/1.6em Arial; margin: 10px 0px 0px 10px; vertical-align: bottom; font-size-adjust: none; font-stretch: normal;
+}
+.service_list {
+	font: 12px/1.6em Arial; width: 286px; padding-left: 0px; margin-right: 7px; border-right-color: rgb(204, 204, 204); border-bottom-color: rgb(204, 204, 204); border-left-color: rgb(204, 204, 204); border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; font-size-adjust: none; font-stretch: normal;
+}
+.service_head {
+	font: 13px/1.6em Arial; margin: 0px; padding: 5px 6px 0px 10px; width: 270px; height: 20px; position: relative; cursor: pointer; font-size-adjust: none; font-stretch: normal;
+}
+#WebPartWPQ14 .service_head {
+	font: 13px/1.6em Arial; margin: 0px; padding: 5px 6px 0px 10px; width: 270px; height: 20px; border-top-color: rgb(204, 204, 204); border-top-width: 1px; border-top-style: solid; position: relative; cursor: pointer; font-size-adjust: none; font-stretch: normal;
+}
+.service_body {
+	font: 12px/1.6em Arial !important; padding: 0px 10px 15px; text-transform: capitalize; font-size-adjust: none !important; font-stretch: normal !important;
+}
+.service_body_first {
+	background: rgb(253, 253, 253); font: 12px/1.6em Arial !important; padding: 5px 10px 15px; text-transform: capitalize; font-size-adjust: none !important; font-stretch: normal !important;
+}
+.str-lefttitle {
+	font: bold 13px/1.3em Arial; width: 254px !important; color: rgb(102, 102, 102); vertical-align: bottom; float: left; font-size-adjust: none; font-stretch: normal;
+}
+.str-leftimage {
+	width: 16px; height: 16px; float: right; background-image: url("/_layouts/gvolsharepointbranding/images/PlusDot.gif"); background-repeat: no-repeat;
+}
+.str-leftimage-minus {
+	width: 16px; height: 16px; float: right; background-image: url("/_layouts/gvolsharepointbranding/images/MinusDot.gif"); background-repeat: no-repeat;
+}
+.active {
+	background: rgb(238, 238, 238);
+}
+#Best-Bets-PromoWrapper {
+	width: 624px; height: auto; padding-top: 10px; padding-right: 0px; padding-left: 10px; margin-left: 0px; float: left; min-height: 209px; background-image: none; background-repeat: no-repeat; background-color: rgb(255, 255, 255);
+}
+.Best-Bets-MainTitle {
+	font: 14px/1.6em Arial; width: 490px; color: rgb(102, 102, 102); padding-top: 14px; padding-bottom: 5px; padding-left: 0px; float: left; font-size-adjust: none; font-stretch: normal;
+}
+.Best-Bets-SubHeadertext {
+	font: 12px/1.6em Arial; width: 140px; color: rgb(102, 102, 102); font-size-adjust: none; font-stretch: normal;
+}
+.Best-Bets-CardWrapper {
+	width: 143px; padding-top: 5px; margin-right: 7px; margin-left: 7px; float: left;
+}
+.Best-Bets-seemore a {
+	font: 14px/1.6em Arial; width: 100px; text-align: right; color: rgb(0, 35, 160); padding-top: 10px; padding-bottom: 5px; padding-left: 0px; text-decoration: none !important; float: left; font-size-adjust: none; font-stretch: normal;
+}
+.Best-Bets-seemore a:link {
+	font: 14px/1.6em Arial; width: 100px; text-align: right; color: rgb(0, 35, 160); padding-top: 10px; padding-bottom: 5px; padding-left: 0px; text-decoration: none !important; float: left; font-size-adjust: none; font-stretch: normal;
+}
+.Best-Bets-seemore a:visited {
+	font: 14px/1.6em Arial; width: 100px; text-align: right; color: rgb(0, 35, 160); padding-top: 10px; padding-bottom: 5px; padding-left: 0px; text-decoration: none !important; float: left; font-size-adjust: none; font-stretch: normal;
+}
+.Best-Bets-seemore a:active {
+	font: 14px/1.6em Arial; width: 100px; text-align: right; color: rgb(0, 35, 160); padding-top: 10px; padding-bottom: 5px; padding-left: 0px; text-decoration: none !important; float: left; font-size-adjust: none; font-stretch: normal;
+}
+.Best-Bets-seemore a:hover {
+	color: rgb(255, 160, 0); text-decoration: none;
+}
+.Best-Bets-headerlink a {
+	font: 12px/1.6em Arial; margin: 0px; color: rgb(0, 35, 160) !important; text-decoration: none !important; display: block; list-style-image: none; font-size-adjust: none; font-stretch: normal;
+}
+.Best-Bets-headerlink a:hover {
+	color: rgb(255, 160, 0); text-decoration: none;
+}
+.Best-Bets-PromoTitle {
+	font: 14px/1.6em Arial; width: 300px; color: rgb(0, 35, 160); padding-top: 5px; padding-bottom: 10px; padding-left: 10px; font-size-adjust: none; font-stretch: normal; background-color: rgb(255, 255, 255);
+}
+.Best-Bets-dropdown {
+	padding-top: 10px; padding-right: 5px;
+}
+.Best-Bets-dropdown select {
+	width: 145px; color: rgb(102, 102, 102); font-size: 11px;
+}
+#Best-Bets-leftcolumn {
+	width: 300px; float: left;
+}
+#Best-Bets-rightcolumn {
+	width: 300px;
+}
+.Best-Bets-Line {
+	width: 593px; height: 2px; margin-left: 0px; border-top-color: rgb(0, 35, 160); border-top-width: 1px; border-top-style: solid; float: left;
+}
+Best-Bets-body {
+	margin: 10px auto; width: 90%;
+}
+#Best-Bets-c {
+	width: 630px; padding-left: 5px;
+}
+#Best-Bets-a {
+	width: auto; color: rgb(102, 102, 102); float: left;
+}
+#Best-Bets-a img {
+	
+}
+#Best-Bets-b {
+	font: 12px/1.6em Arial; width: 140px; color: rgb(102, 102, 102); font-size-adjust: none; font-stretch: normal;
+}
+#Best-Bets-bshort {
+	font: bold 12px/1.6em Arial; width: 300px; color: rgb(102, 102, 102); padding-bottom: 10px; float: left; font-size-adjust: none; font-stretch: normal;
+}
+.Best-Bets-LinksWrapper {
+	width: 130px; padding-top: 5px; margin-right: 7px; margin-left: 7px; float: left;
+}
+.Best-Bets-LinkCardSelect {
+	margin: 0px; width: 135px; color: rgb(102, 102, 102); padding-top: 5px; padding-bottom: 5px; font-size: 12px; float: left; display: block;
+}
+.Best-Bets-LinkCardSelect a:hover {
+	color: rgb(255, 160, 0); text-decoration: none;
+}
+.Best-Bets-bottomHolder {
+	font: 12px/1.6em Arial; margin: 0px; width: 600px; color: rgb(102, 102, 102) !important; padding-top: 2px; padding-bottom: 2px; padding-left: 10px; text-decoration: none !important; float: left; display: block; list-style-image: none; font-size-adjust: none; font-stretch: normal;
+}
+.Best-Bets-DescriptionText {
+	margin: 0px; width: 600px; color: rgb(102, 102, 102) !important; line-height: 1.6em; padding-bottom: 2px; padding-left: 0px; font-family: Arial; font-size: 12px !important; font-style: normal; font-variant: normal; font-weight: normal; text-decoration: none !important; list-style-image: none; font-size-adjust: none; font-stretch: normal;
+}
+.Best-Bets-TopTitle {
+	margin: 0px; width: 130px; color: rgb(102, 102, 102) !important; line-height: 1.6em; padding-top: 8px; padding-bottom: 2px; font-family: Arial; font-size: 12px !important; font-style: normal; font-variant: normal; font-weight: bold; text-decoration: none !important; float: left; display: block; list-style-image: none; font-size-adjust: none; font-stretch: normal;
+}
+.Best-Bets-LightTitle {
+	margin: 0px; width: 130px; color: rgb(153, 153, 153) !important; line-height: 1.6em; padding-top: 2px; padding-bottom: 2px; font-family: Arial; font-size: 12px !important; font-style: normal; font-variant: normal; font-weight: bold; text-decoration: none !important; float: left; display: block; list-style-image: none; font-size-adjust: none; font-stretch: normal;
+}
+.Best-Bets-LinkClick a img {
+	border: 0px currentColor; padding-left: 5px;
+}
+.Best-Bets- a:link {
+	font: 12px/1.6em Arial; margin: 0px; color: rgb(0, 35, 160) !important; text-decoration: none !important; float: left; display: block; list-style-image: none; font-size-adjust: none; font-stretch: normal;
+}
+.Best-Bets-LinkClick a:hover {
+	font: 12px/1.6em Arial; margin: 0px; color: rgb(255, 160, 0) !important; text-decoration: none !important; float: left; display: block; list-style-image: none; font-size-adjust: none; font-stretch: normal;
+}
+#Best-Bets-b2 {
+	font: 12px/1.6em Arial; width: 150px; color: rgb(102, 102, 102); padding-right: 10px; margin-left: 10px; font-size-adjust: none; font-stretch: normal;
+}
+#Best-Bets-b a {
+	font: 12px/1.6em Arial; color: rgb(102, 102, 102); padding-top: 10px; font-size-adjust: none; font-stretch: normal;
+}
+#Best-Bets-b li {
+	font: 12px/1.6em Arial; margin: 0px; color: rgb(0, 35, 160); padding-top: 5px; display: block; list-style-image: none; font-size-adjust: none; font-stretch: normal;
+}
+.Best-Bets-border {
+	border: 1px solid rgb(102, 102, 102); width: 98%; margin-bottom: 10px;
+}
+#Best-Bets-PromoWrapperInner {
+	padding: 10px; border: 0px solid rgb(102, 102, 102); width: 100%; margin-right: auto; margin-bottom: 10px; margin-left: auto;
+}
+.Best-Bets-newTitle {
+	font: bold 12px/1.6em Arial; width: 450px; color: rgb(0, 35, 160); padding-top: 14px; padding-bottom: 5px; padding-left: 0px; text-decoration: none; float: left; font-size-adjust: none; font-stretch: normal;
+}
+#Best-Bets-clear {
+	clear: both;
+}
+.did-you-m {
+	font: 11px/1.2em Arial; color: rgb(102, 102, 102); padding-left: 20px; font-size-adjust: none; font-stretch: normal;
+}
+.did-you-m a {
+	font: italic bold 11px/1.2em Arial; color: rgb(0, 35, 160); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.did-you-m a:link {
+	font: italic bold 11px/1.2em Arial; color: rgb(0, 35, 160); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.did-you-m a:active {
+	font: italic bold 11px/1.2em Arial; color: rgb(0, 35, 160); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.did-you-m a:visited {
+	font: italic bold 11px/1.2em Arial; color: rgb(0, 35, 160); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.did-you-m a:hover {
+	font: italic bold 11px/1.2em Arial; color: rgb(255, 160, 0); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.hide-descript a {
+	font: 11px/1.6em Arial; text-align: right; color: rgb(0, 35, 160); padding-right: 15px; text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.hide-descript a:hover {
+	font: 11px/1.6em Arial; text-align: right; color: rgb(255, 160, 0); padding-right: 15px; text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.hide-descript {
+	font: 11px/1.6em Arial; padding: 10px 0px 10px 10px; height: 10px; text-align: right; color: rgb(102, 102, 102); margin-right: 7px; font-size-adjust: none; font-stretch: normal; background-color: rgb(255, 255, 255) !important;
+}
+.ms-ToolPaneOuter {
+	position: relative; z-index: 1000 !important;
+}
+.ms-PartSpacingVertical {
+	margin-top: 0px;
+}
+#indexcolumns h1 {
+	font: bold 22px/normal Arial; margin: 0px 0px 8px; color: rgb(247, 182, 0); text-transform: capitalize; padding-bottom: 10px; font-size-adjust: none; font-stretch: normal;
+}
+#indexcolumns a {
+	padding: 0px 17px 0px 9px; color: rgb(0, 35, 160); font-size: 15px; text-decoration: none;
+}
+a.disableatozindex {
+	color: rgb(204, 204, 204) !important; font-weight: normal; cursor: default;
+}
+#indexcolumns a.disableatozindex:hover {
+	color: rgb(204, 204, 204) !important; font-weight: normal; cursor: default;
+}
+#indexcolumns a:link {
+	color: rgb(0, 35, 160);
+}
+#indexcolumns a:hover {
+	color: rgb(255, 160, 0);
+}
+.indexatoz {
+	margin: 0px; padding: 6px 6px 6px 14px; width: 934px; border-top-color: rgb(204, 204, 204); border-bottom-color: rgb(204, 204, 204); border-top-width: 1px; border-bottom-width: 1px; border-top-style: solid; border-bottom-style: solid; background-color: rgb(249, 249, 249);
+}
+.indexatoz li {
+	margin: 0px; padding: 0px; display: inline;
+}
+.indexatoz li span {
+	margin: 0px 4px 0px 0px; padding: 0px; top: -11px; position: relative;
+}
+#CategoryContainer {
+	padding: 0px; width: 900px; margin-left: 18px;
+}
+#Category-indexcolumnview {
+	font: 11px/1.6em Arial; width: 300px; color: rgb(0, 35, 160); padding-right: 20px; float: left; position: relative; font-size-adjust: none; font-stretch: normal;
+}
+#Category-indexcolumnMid {
+	font: 11px/1.6em Arial; width: 300px; color: rgb(0, 35, 160); padding-right: 20px; float: left; position: relative; font-size-adjust: none; font-stretch: normal;
+}
+#Category-indexcolumnRight {
+	font: 11px/1.6em Arial; width: 230px; color: rgb(0, 35, 160); float: right; position: relative; font-size-adjust: none; font-stretch: normal;
+}
+.Category-indexSubHeading {
+	font: 15px/1.6em Arial; padding: 5px; color: rgb(153, 153, 153); list-style-type: none; font-size-adjust: none; font-stretch: normal;
+}
+.Category-indexList {
+	font: 11px/1.6em Arial; margin: -21px 0px 30px 75px; padding: 0px; width: 880px; color: rgb(0, 35, 160); overflow: hidden; list-style-type: none; font-size-adjust: none; font-stretch: normal;
+}
+.Category-indexList li {
+	margin: 2px 25px 2px 2px; width: 30%; line-height: 1.5em; float: left; display: inline;
+}
+.Category-indexList li a {
+	margin: 0px; padding: 0px; color: rgb(0, 35, 160); text-decoration: none;
+}
+.Category-indexList li a:hover {
+	margin: 0px; padding: 0px; color: rgb(255, 160, 0); text-decoration: none;
+}
+.Category-item {
+	margin: 5px 0px 10px 22px; line-height: 1; padding-top: 0px; list-style-type: none;
+}
+.Category-item a {
+	margin: 0px; padding: 0px; color: rgb(0, 35, 160); text-decoration: none;
+}
+.Category-item a:hover {
+	margin: 0px; padding: 0px; color: rgb(255, 160, 0); text-decoration: none;
+}
+.AToZIndex-indexcolumnview {
+	font: 11px/1.6em Arial; padding: 20px 0px 0px; width: 930px; color: rgb(0, 35, 160); margin-top: 20px; font-size-adjust: none; font-stretch: normal;
+}
+.indexcolumnview {
+	margin: 0px 14px 5px 0px; width: 250px; float: left;
+}
+.indexcolumnview h3 {
+	font: 12px/22px Arial; color: rgb(102, 102, 102); padding-top: 20px; font-size-adjust: none; font-stretch: normal;
+}
+.indexcolumnview ul {
+	margin: 10px 0px 5px; width: 100%; text-indent: 5px; float: left;
+}
+.indexcolumnview li {
+	margin: 10px 0px 5px; top: 8px; text-indent: 0px; padding-top: 3px; position: relative;
+}
+.indexcolumnview1 {
+	margin: 0px 14px 5px 0px; width: 250px; float: left;
+}
+.Category-indexcolumnview1 {
+	margin: -235px 14px 5px 0px; width: 300px; float: left; position: relative;
+}
+.indexcolumnview1 h3 {
+	font: 12px/1.6em Arial; color: rgb(102, 102, 102); padding-top: 20px; font-size-adjust: none; font-stretch: normal;
+}
+.Category-indexcolumnview1 h3 {
+	font: 12px/1.6em Arial; color: rgb(102, 102, 102); padding-top: 20px; font-size-adjust: none; font-stretch: normal;
+}
+.indexcolumnview1 ul {
+	margin: 10px 0px 5px; width: 100%; text-indent: 5px; float: left;
+}
+.Category-indexcolumnview1 ul {
+	margin: 10px 0px 5px; width: 100%; text-indent: 5px; float: left;
+}
+.indexcolumnview1 li {
+	margin: 10px 0px 5px; top: 8px; text-indent: 0px; padding-top: 3px; position: relative;
+}
+.Category-indexcolumnview1 li {
+	margin: 10px 0px 5px; top: 8px; text-indent: 0px; padding-top: 3px; position: relative;
+}
+.indexcolumnview2 {
+	width: 250px; margin-top: 0px; float: left;
+}
+.Category-indexcolumnview2 {
+	width: 300px; margin-top: -240px; float: right; position: relative;
+}
+.indexcolumnview2 h3 {
+	font: 12px/1.6em Arial; color: rgb(102, 102, 102); padding-top: 20px; font-size-adjust: none; font-stretch: normal;
+}
+.Category-indexcolumnview2 h3 {
+	font: 12px/22px Arial; color: rgb(102, 102, 102); padding-top: 20px; font-size-adjust: none; font-stretch: normal;
+}
+.indexcolumnview2 ul {
+	margin: 10px 0px 5px; width: 100%; text-indent: 5px; float: left;
+}
+.Category-indexcolumnview2 ul {
+	margin: 10px 0px 5px; width: 100%; text-indent: 5px; float: left;
+}
+.indexcolumnview2 li {
+	margin: 0px 5px; top: 8px; text-indent: 0px; padding-top: 3px; position: relative;
+}
+.Category-indexcolumnview2 li {
+	margin: 10px 0px 5px; top: 8px; text-indent: 0px; padding-top: 3px; position: relative;
+}
+ul.SHP-ListItems {
+	top: 0px; width: 300px; color: rgb(0, 35, 160); padding-bottom: 10px; padding-left: 20px; float: left; list-style-type: disc; position: relative;
+}
+li.SHP-ListItemsindex {
+	top: 0px; padding-left: 3px; position: relative;
+}
+a.SHP-ListItemsindex {
+	top: 0px; line-height: 1.6em; padding-left: 3px; font-family: Arial; font-size: inherit; font-style: normal; font-variant: normal; font-weight: normal; position: relative; font-size-adjust: none; font-stretch: normal;
+}
+a.SHP-ListItemsindex:link {
+	margin: 0px; padding: 5px 0px 0px; color: rgb(0, 35, 160); line-height: 1.6em; font-family: Arial; font-size: inherit; font-style: normal; font-variant: normal; font-weight: normal; font-size-adjust: none; font-stretch: normal;
+}
+a.SHP-ListItemsindex:hover {
+	margin: 0px; padding: 0px; color: rgb(255, 160, 0); line-height: 1.6em; font-family: Arial; font-size: inherit; font-style: normal; font-variant: normal; font-weight: normal; font-size-adjust: none; font-stretch: normal;
+}
+.SHP-ListItemsindex p {
+	margin: 0px; padding: 0px; color: rgb(0, 35, 160); line-height: 1.6em; font-family: Arial; font-size: inherit; font-style: normal; font-variant: normal; font-weight: normal; font-size-adjust: none; font-stretch: normal;
+}
+ul.SHP-ListItems1 {
+	top: 0px; width: 300px; color: rgb(0, 35, 160); padding-bottom: 10px; padding-left: 20px; float: left; list-style-type: disc; position: relative;
+}
+.SHP-ListItemsindex1 p {
+	margin: 0px; padding: 0px; color: rgb(0, 35, 160); line-height: 1.6em; font-family: Arial; font-size: inherit; font-style: normal; font-variant: normal; font-weight: normal; font-size-adjust: none; font-stretch: normal;
+}
+li.SHP-ListItemsindex1 {
+	top: 0px; padding-left: 3px; position: relative;
+}
+a.SHP-ListItemsindex1 {
+	top: 0px; line-height: 1.6em; padding-left: 3px; font-family: Arial; font-size: inherit; font-style: normal; font-variant: normal; font-weight: normal; position: relative; font-size-adjust: none; font-stretch: normal;
+}
+a.SHP-ListItemsindex1:link {
+	margin: 0px; padding: 5px 0px; color: rgb(0, 35, 160); line-height: 1.6em; font-family: Arial; font-size: inherit; font-style: normal; font-variant: normal; font-weight: normal; font-size-adjust: none; font-stretch: normal;
+}
+a.SHP-ListItemsindex1:hover {
+	color: rgb(255, 160, 0); text-decoration: none;
+}
+ul.SHP-ListItems2 {
+	top: 0px; width: 300px; color: rgb(0, 35, 160); padding-bottom: 10px; padding-left: 20px; float: left; list-style-type: disc; position: relative;
+}
+.SHP-ListItemsindex2 p {
+	margin: 0px; padding: 0px; color: rgb(0, 35, 160); line-height: 1.6em; font-family: Arial; font-size: inherit; font-style: normal; font-variant: normal; font-weight: normal; font-size-adjust: none; font-stretch: normal;
+}
+li.SHP-ListItemsindex2 {
+	top: 0px; padding-left: 3px; position: relative;
+}
+a.SHP-ListItemsindex2 {
+	top: 0px; line-height: 1.6em; padding-left: 3px; font-family: Arial; font-size: inherit; font-style: normal; font-variant: normal; font-weight: normal; position: relative; font-size-adjust: none; font-stretch: normal;
+}
+a.SHP-ListItemsindex2:link {
+	margin: 0px; padding: 5px 0px; color: rgb(0, 35, 160); line-height: 1.6em; font-family: Arial; font-size: inherit; font-style: normal; font-variant: normal; font-weight: normal; font-size-adjust: none; font-stretch: normal;
+}
+a.SHP-ListItemsindex2:hover {
+	color: rgb(255, 160, 0); text-decoration: none;
+}
+.facetedresults {
+	margin: 0px 0px 27px; padding: 0px 3px 0px 0px; width: 32px !important; float: left; _width: 32px; _padding: 0px 0px 0px 0px;
+}
+#Product-Selector-PromoWrapper {
+	font: 12px/1.6em Arial; width: 980px; height: auto; padding-right: 0px; padding-bottom: 11px !important; padding-left: 0px; float: left; position: relative; font-size-adjust: none; font-stretch: normal; background-color: rgb(255, 255, 255);
+}
+.Product-Selector-MainTitle {
+	width: 505px; color: rgb(102, 102, 102); padding-top: 14px; padding-bottom: 5px; padding-left: 25px; font-family: Arial; font-size: 15px; font-weight: bold; display: inline; background-color: rgb(255, 255, 255);
+}
+.Product-Selector-Line {
+	width: 980px; height: 10px; margin-left: 10px; border-top-color: rgb(0, 35, 160); border-top-width: 1px; border-top-style: solid;
+}
+#Product-Selector-c {
+	width: 960px; height: auto; overflow: hidden; margin-left: 20px; border-top-color: rgb(153, 153, 153); border-top-width: 1px; border-top-style: solid; background-color: rgb(249, 249, 249);
+}
+.Product-Selector-LinksWrapper-First {
+	font: 13px/1.6em Arial; margin: 0px 10px 0px 0px !important; padding: 5px 0px 30px !important; width: 200px; height: 100%; border-right-color: rgb(242, 242, 242); border-right-width: 1px; border-right-style: solid; float: left; display: inline-block; white-space: pre-line; font-size-adjust: none; font-stretch: normal; background-color: rgb(249, 249, 249);
+}
+.Product-Selector-LinksWrapper-Last {
+	font: 13px/1.6em Arial; margin: 0px 10px 0px 0px !important; padding: 5px 0px 30px !important; width: 200px; float: right; display: inline-block; white-space: pre-line; font-size-adjust: none; font-stretch: normal; _padding: 5px 0px 30px 0px;
+}
+.Product-Selector-LinksWrapper {
+	font: 13px/1.6em Arial; margin: 0px !important; padding: 5px 10px !important; width: 230px; height: 100%; float: left; display: inline-block; font-size-adjust: none; font-stretch: normal; background-color: rgb(249, 249, 249);
+}
+.Product-Selector-LinkCardSelect {
+	font: 13px/1.2em Arial; width: 205px; color: rgb(102, 102, 102) !important; text-decoration: none !important; margin-left: 10px !important; vertical-align: middle; float: left; display: inline-table; list-style-image: none; font-size-adjust: none; font-stretch: normal;
+}
+.Product-Selector-DescriptionText {
+	font: 12px/1.6em Arial; color: rgb(102, 102, 102) !important; margin-left: 10px; font-size-adjust: none; font-stretch: normal;
+}
+.Product-Selector-TopTitle {
+	font: bold 15px/1.6em Arial; margin: 0px 0px 0px 10px; color: rgb(0, 0, 0) !important; padding-top: 2px; float: left; display: block; font-size-adjust: none; font-stretch: normal;
+}
+.Product-Selector-LinkCardSelect label {
+	font: 12px/1.6em Arial !important; text-indent: -16px; padding-left: 15px; display: block; font-size-adjust: none !important; font-stretch: normal !important;
+}
+.Product-Selector-LinkCardSelect input {
+	margin: -3px 3px 3px 0px; padding: 0px; top: 1px; width: 13px; line-height: 0; vertical-align: bottom; position: relative;
+}
+.Product-Selector- a:link {
+	font: 12px/1.6em Arial; color: rgb(0, 35, 160); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+#Product-Selector-PromoWrapper .controls {
+	width: 165px; right: 10px; bottom: 10px; float: right; position: absolute;
+}
+#Product-Selector-PromoWrapper .controls a.clearall {
+	top: 5px; text-align: center; color: rgb(0, 35, 160); font-size: 12px; font-weight: bold; text-decoration: none; display: block; position: absolute;
+}
+.category-fif-findbutton {
+	margin: 3px 15px 0px 0px; padding: 5px 10px 7px 15px; border: 0px solid currentColor; height: 31px; color: white; line-height: 22px; font-size: 13px; font-weight: bold; float: right; display: inline;
+}
+.cat-findbutton-icon {
+	background: url("/_layouts/GVOLSharePointBranding/Images/binocular.png") no-repeat 1px 0px rgb(247, 182, 21); margin: 5px 0px 0px 4px; width: 18px; height: 15px; display: inline-block;
+}
+.findbutton {
+	background: rgb(247, 182, 21);
+}
+.findbuttonActive {
+	background: rgb(116, 116, 116); cursor: pointer;
+}
+.findbuttoninactive {
+	background: url("/_layouts/gvolsharepointbranding/images/sprites_gray.gif") no-repeat -234px -302px; border-color: inherit; font: 13px/1.6em Arial; width: 73px; height: 25px; color: rgb(231, 231, 231); float: right; display: block; cursor: default; font-size-adjust: none; font-stretch: normal;
+}
+.findbuttonDisable {
+	background: rgb(204, 204, 204);
+}
+#SubCategoryContent {
+	font: 12px/1.6em Arial; margin: 0px 0px 0px 5px; padding: 0px; width: 100%; color: rgb(102, 102, 102); font-size-adjust: none; font-stretch: normal;
+}
+#SubCategoryContent p {
+	font: 12px/normal Arial !important; margin: 0px 7px 20px 0px; color: rgb(102, 102, 102); font-size-adjust: none !important; font-stretch: normal !important;
+}
+#SubCategoryContent .capital {
+	text-transform: capitalize; font-size: 20px;
+}
+#SubCategoryContent h1 {
+	font: 22px/1.6em Arial; margin: 0px 0px 20px; font-size-adjust: none; font-stretch: normal;
+}
+#subcat-index-card-sel-PromoWrapper {
+	margin: 0px 0px 14px; padding: 0px; float: left; min-height: 205px; background-color: rgb(255, 255, 255);
+}
+.subcat-index-card-sel-MainTitle {
+	width: 505px; color: rgb(0, 35, 160); padding-top: 10px; padding-bottom: 5px; padding-left: 10px; font-family: Arial; font-weight: bold; float: left; background-color: rgb(255, 255, 255);
+}
+.subcat-index-card-sel-MainTitle a {
+	color: rgb(0, 35, 160);
+}
+.subcat-index-card-sel-MainTitle a:link {
+	color: rgb(0, 35, 160);
+}
+.subcat-index-card-sel-seemore a {
+	font: 14px/1.6em Arial; width: 100px; height: 14px; text-align: right; color: rgb(102, 102, 102); padding-top: 10px; padding-bottom: 5px; padding-left: 10px; text-decoration: none !important; float: left; visibility: hidden; font-size-adjust: none; font-stretch: normal; background-color: rgb(255, 255, 255); _margin-bottom: -9px;
+}
+.subcat-index-card-sel-seemore a:hover {
+	color: rgb(255, 160, 0); text-decoration: none;
+}
+.subcat-index-card-sel-headerlink a:link {
+	font: 12px/1.6em Arial; color: rgb(0, 35, 160); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.subcat-index-card-sel-headerlink a:active {
+	font: 12px/1.6em Arial; color: rgb(0, 35, 160); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.subcat-index-card-sel-headerlink a:visited {
+	font: 12px/1.6em Arial; color: rgb(0, 35, 160); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.subcat-index-card-sel-headerlink a:hover {
+	color: rgb(255, 160, 0); text-decoration: none;
+}
+.subcat-index-card-sel-PromoTitle {
+	font: 14px/1.6em Arial; width: 300px; color: rgb(0, 35, 160); padding-top: 5px; padding-bottom: 10px; padding-left: 10px; font-size-adjust: none; font-stretch: normal; background-color: rgb(255, 255, 255);
+}
+.subcat-index-card-sel-dropdown {
+	padding-top: 10px; padding-right: 5px;
+}
+.subcat-index-card-sel-dropdown select {
+	width: 145px; font-size: 11px; font-color: #666;
+}
+.subcat-index-card-sel-Line {
+	width: 628px !important; height: 10px; margin-right: 9px; margin-left: 9px; border-top-color: rgb(0, 35, 160); border-top-width: 1px; border-top-style: solid; float: left; _margin-left: 2px;
+}
+subcat-index-card-sel-body {
+	margin: 10px auto; width: 90%;
+}
+#subcat-index-card-sel-c {
+	width: 620px; background-color: rgb(255, 255, 255);
+}
+#subcat-index-card-sel-c {
+	padding-left: 5px;
+}
+#subcat-index-card-sel-a {
+	width: auto !important; color: rgb(102, 102, 102); padding-bottom: 15px; padding-left: 5px; float: left;
+}
+#subcat-index-card-sel-b {
+	font: 12px/normal Arial; margin: -10px 10px 0px 0px; width: 300px; height: 135px; color: rgb(102, 102, 102); float: left; font-size-adjust: none; font-stretch: normal;
+}
+#subcat-index-card-sel-b p {
+	line-height: normal;
+}
+#subcat-index-card-sel-bshort {
+	font: bold 12px/1.6em Arial; width: 150px; color: rgb(102, 102, 102); padding-bottom: 10px; float: left; font-size-adjust: none; font-stretch: normal;
+}
+.subcat-index-card-sel-LinkClick a:link {
+	font: 12px/1em Arial; margin: 0px 10px 4px 0px; width: 150px; color: rgb(0, 35, 160); float: left; display: block; font-size-adjust: none; font-stretch: normal;
+}
+.subcat-index-card-sel-LinkClick a:active {
+	font: 12px/1em Arial; margin: 0px 10px 4px 0px; width: 150px; color: rgb(0, 35, 160); float: left; display: block; font-size-adjust: none; font-stretch: normal;
+}
+.subcat-index-card-sel-LinkClick a:visited {
+	font: 12px/1em Arial; margin: 0px 10px 4px 0px; width: 150px; color: rgb(0, 35, 160); float: left; display: block; font-size-adjust: none; font-stretch: normal;
+}
+.subcat-index-card-sel-LinkClick a:hover {
+	color: rgb(255, 160, 0); text-decoration: none;
+}
+.subcat-index-card-sel-LinkClick a img {
+	border: 0px currentColor; padding-bottom: 3px; padding-left: 3px; vertical-align: middle;
+}
+.sectionpro a:link {
+	font: 12px/1.6em Arial; color: rgb(0, 35, 160) !important; text-decoration: none !important; float: left; display: block; font-size-adjust: none; font-stretch: normal;
+}
+#subcat-index-card-sel-b2 {
+	font: 12px/1.6em Arial; width: 150px; color: rgb(102, 102, 102); padding-right: 10px; margin-left: 10px; font-size-adjust: none; font-stretch: normal;
+}
+#subcat-index-card-sel-b a {
+	font: 12px/1.6em Arial; color: rgb(102, 102, 102); padding-top: 10px; font-size-adjust: none; font-stretch: normal;
+}
+#subcat-index-card-sel-b li {
+	font: 12px/1.6em Arial; margin: 0px; color: rgb(0, 35, 160); padding-top: 5px; display: block; list-style-image: none; font-size-adjust: none; font-stretch: normal;
+}
+#subcat-index-card-sel-clear {
+	clear: both;
+}
+#AllContentWrapper {
+	width: 647px; margin-top: 8px; background-color: rgb(255, 255, 255);
+}
+#scp-PromoWrapper {
+	width: 317px; float: left; background-color: rgb(255, 255, 255);
+}
+.scp-MainTitle {
+	font: bold 15px/14px Arial; width: 300px; color: rgb(247, 182, 0); padding-top: 10px; padding-bottom: 5px; padding-left: 10px; font-size-adjust: none; font-stretch: normal; background-color: rgb(255, 255, 255);
+}
+.scp-PromoTitle {
+	font: 14px/1.6em Arial; width: 300px; color: rgb(0, 35, 160); padding-top: 5px; padding-bottom: 10px; padding-left: 10px; font-size-adjust: none; font-stretch: normal; background-color: rgb(255, 255, 255);
+}
+.scp-dropdown {
+	margin: 0px 5px; padding: 2px 5px 0px 0px !important;
+}
+#scp-b .scp-dropdown {
+	margin: 0px 10px 0px 0px; padding: 10px 5px 0px 0px !important;
+}
+select.scp-dropdown {
+	width: 140px; color: rgb(102, 102, 102); font-size: 11px;
+}
+.scp-dropdown select {
+	width: 300px !important; color: rgb(102, 102, 102); font-size: 11px;
+}
+.scp-Line {
+	width: 304px; height: 0px; margin-left: 10px; border-top-color: rgb(229, 229, 255); border-top-width: 2px; border-top-style: solid;
+}
+scp-body {
+	margin: 10px auto; width: 90%;
+}
+#scp-c {
+	width: 310px; padding-bottom: 15px; background-color: rgb(255, 255, 255);
+}
+#scp-a {
+	width: auto; color: rgb(102, 102, 102); padding-top: 10px; padding-left: 5px; float: left; _padding-top: 0px;
+}
+#scp-b {
+	font: 12px/normal Arial; color: rgb(102, 102, 102); padding-top: 10px; padding-right: 10px; padding-left: 5px; margin-left: 150px; font-size-adjust: none; font-stretch: normal; _padding-top: 0px;
+}
+#scp-c {
+	padding-left: 5px;
+}
+#scp-b li {
+	font: 12px/1.6em Arial; margin: 0px; color: rgb(0, 35, 160); padding-top: 5px; display: block; list-style-image: none; font-size-adjust: none; font-stretch: normal;
+}
+.scp-LinkClick a {
+	font: 12px/1.6em Arial; margin: 0px; color: rgb(0, 35, 160); padding-top: 5px; text-decoration: none; display: block; list-style-image: none; font-size-adjust: none; font-stretch: normal;
+}
+.scp-LinkClick img {
+	padding-left: 10px; text-decoration: none;
+}
+#scp-clear {
+	clear: both;
+}
+.Lg-Promo-Image {
+	margin: 0px 0px 14px; width: 310px; height: 233px;
+}
+.Lg-Promo-Image img {
+	border: currentColor;
+}
+#NFL_Pro-PromoWrapper {
+	margin: 0px 0px 0px 10px; width: 310px;
+}
+.NFL_Pro-MainTitle {
+	font: 14px/1.6em Arial; width: 310px; color: rgb(102, 102, 102); padding-top: 10px; padding-bottom: 5px; padding-left: 10px; font-size-adjust: none; font-stretch: normal; background-color: rgb(255, 255, 255);
+}
+.NFL_Pro-PromoTitle {
+	font: bold 14px/1.6em Arial; width: 300px; color: rgb(102, 102, 102); padding-top: 10px; padding-bottom: 10px; padding-left: 10px; text-decoration: none; font-size-adjust: none; font-stretch: normal; background-color: rgb(255, 255, 255);
+}
+.NFL_Pro-PromoTitle a {
+	color: rgb(0, 35, 160) !important; text-decoration: none;
+}
+.NFL_Pro-PromoTitle a:visited {
+	color: rgb(0, 35, 160); text-decoration: none;
+}
+.NFL_Pro-PromoTitle a:hover {
+	color: rgb(255, 160, 0) !important; text-decoration: none;
+}
+.NFL_Pro-Line {
+	width: 310px; height: 0px; margin-left: 10px; border-top-color: rgb(0, 35, 160); border-top-width: 1px; border-top-style: solid;
+}
+NFL_Pro-body {
+	margin: 10px auto; width: 90%;
+}
+#NFL_Pro-c {
+	margin: -10px 0px 0px; width: 310px; line-height: normal; padding-bottom: 5px; background-color: rgb(255, 255, 255); _margin: 0px 0px 0px 0px;
+}
+#NFL_Pro-c ul.arrowbullets {
+	margin-bottom: 0px;
+}
+#NFL_Pro-a {
+	width: auto; color: rgb(102, 102, 102); line-height: normal; float: left;
+}
+#NFL_Pro-b {
+	font: 12px/normal Arial; color: rgb(102, 102, 102); padding-right: 10px; margin-left: 155px; font-size-adjust: none; font-stretch: normal;
+}
+#NFL_Pro-b li {
+	font: 12px/normal Arial; margin: 0px; color: rgb(0, 35, 160); display: block; list-style-image: none; font-size-adjust: none; font-stretch: normal;
+}
+.NFL_Pro-LinkClick a:link {
+	font: 12px/1.6em Arial; margin: 7px 10px 0px 0px !important; padding: 7px 0px 0px !important; width: auto; color: rgb(0, 35, 160); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.NFL_Pro-LinkClick a:active {
+	font: 12px/1.6em Arial; margin: 7px 10px 0px 0px !important; padding: 7px 0px 0px !important; width: auto; color: rgb(0, 35, 160); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.NFL_Pro-LinkClick a:visited {
+	font: 12px/1.6em Arial; margin: 7px 10px 0px 0px; padding: 7px 0px 0px !important; width: auto; color: rgb(0, 35, 160) !important; text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.NFL_Pro-LinkClick a:hover {
+	color: rgb(255, 160, 0) !important; text-decoration: none;
+}
+.NFL_Pro-LinkClick img {
+	top: 0px; padding-left: 10px; text-decoration: none; margin-top: 5px; vertical-align: top; position: relative;
+}
+#NFL_Pro-clear {
+	clear: both;
+}
+#rtw-wrapperHeader2 {
+	width: 305px; padding-top: 7px; padding-right: 7px; padding-left: 12px; margin-top: 7px; margin-right: 10px; margin-left: 7px; background-color: rgb(255, 255, 255);
+}
+.rtw-MainTitle2 {
+	color: rgb(102, 102, 102) !important; padding-top: 10px !important; padding-bottom: 5px !important; font-family: Arial, sans-serif !important; font-size: 14px !important; background-color: rgb(255, 255, 255) !important;
+}
+.rtw-Line {
+	width: 298px; height: 10px; padding-right: 0px; border-top-color: rgb(0, 35, 160); border-top-width: 1px; border-top-style: solid;
+}
+#rtwsearch-wrapper {
+	margin: 7px; width: 305px; padding-right: 7px; padding-bottom: 20px; padding-left: 12px; background-color: rgb(255, 255, 255) !important;
+}
+.rtw-visainformation a:link {
+	font: 12px/1.6em Arial; margin: 0px; color: rgb(0, 35, 160) !important; padding-top: 5px; padding-bottom: 5px; text-decoration: none !important; display: block; list-style-image: none; font-size-adjust: none; font-stretch: normal;
+}
+.rtw-visainformation a:hover {
+	color: rgb(255, 160, 0) !important; text-decoration: none;
+}
+.rtw-visainformation a:visited {
+	font: 12px/1.6em Arial; margin: 0px; color: rgb(0, 35, 160); padding-top: 5px; padding-bottom: 5px; text-decoration: none !important; display: block; list-style-image: none; font-size-adjust: none; font-stretch: normal;
+}
+#rtw-clear {
+	clear: both;
+}
+#luw-wrapperHeader2 {
+	width: 300px; padding-top: 7px; padding-right: 0px; padding-left: 10px; margin-top: 7px; margin-right: 10px; margin-left: 0px; background-color: rgb(255, 255, 255);
+}
+.luw-MainTitle2 {
+	padding: 10px 0px 5px 10px !important; width: 310px; color: rgb(247, 182, 0) !important; font-family: Arial, sans-serif !important; font-size: 16px !important; display: none; background-color: rgb(255, 255, 255) !important;
+}
+.luw-Line {
+	width: 318px; height: 6px; padding-right: 0px; padding-bottom: 0px; font-size: 6px; margin-left: -5px; border-top-color: rgb(235, 235, 235); border-top-width: 2px; border-top-style: solid; display: none;
+}
+.luw-visadetails a:link {
+	color: rgb(0, 35, 160) !important; font-size: 14px;
+}
+.luw-visadetails a:visited {
+	color: rgb(0, 35, 160) !important; font-size: 14px;
+}
+.luw-visadetails a:hover {
+	color: rgb(247, 182, 0) !important;
+}
+.luw-visadetails {
+	font: 12px/normal Arial; margin: 0px; padding: 5px 0px 14px 10px; width: 280px; color: rgb(102, 102, 102); font-size-adjust: none; font-stretch: normal;
+}
+.luw-featured {
+	width: 326px; background-color: rgb(255, 255, 255);
+}
+.luw-visadetails p {
+	left: -10px; top: -10px; line-height: normal; position: relative;
+}
+#luwsearch-wrapper {
+	margin: 0px; padding: 0px; width: 310px;
+}
+.luw-visainformation a {
+	font: 14px/1.2em Arial; margin: 0px; padding: 0px 10px; color: rgb(0, 35, 160) !important; text-decoration: none !important; display: block; list-style-image: none; font-size-adjust: none; font-stretch: normal;
+}
+.luw-visainformation a:link {
+	font: 14px/1.2em Arial; margin: 0px; padding: 0px 10px; color: rgb(0, 35, 160) !important; text-decoration: none !important; display: block; list-style-image: none; font-size-adjust: none; font-stretch: normal;
+}
+.luw-visainformation a:active {
+	font: 14px/1.2em Arial; margin: 0px; padding: 0px 10px; color: rgb(0, 35, 160) !important; text-decoration: none !important; display: block; list-style-image: none; font-size-adjust: none; font-stretch: normal;
+}
+.luw-visainformation a:visited {
+	font: 14px/1.2em Arial; margin: 0px; padding: 0px 10px; color: rgb(0, 35, 160) !important; text-decoration: none !important; display: block; list-style-image: none; font-size-adjust: none; font-stretch: normal;
+}
+.luw-visainformation a:hover {
+	color: rgb(255, 160, 0) !important; text-decoration: none;
+}
+#luw-clear {
+	clear: both;
+}
+.gVol-No-userFavoritesText {
+	font: 12px/1.6em Arial; margin: 0px 0px 0px 20px; left: 10px; top: 16px; position: relative; font-size-adjust: none; font-stretch: normal;
+}
+.gVol-No-userServicesText {
+	font: 12px/normal Arial; margin: 10px 0px 0px; left: 0px; position: relative; font-size-adjust: none; font-stretch: normal;
+}
+.gVol-No-userServicesText td {
+	font: 12px/normal Arial; font-size-adjust: none; font-stretch: normal;
+}
+.gVol-No-userServicesText .noservicestext_td {
+	padding-top: 22px;
+}
+input[type=radio] {
+	vertical-align: baseline;
+}
+input.radio {
+	vertical-align: baseline;
+}
+input[type=checkbox] {
+	vertical-align: baseline;
+}
+input.checkbox {
+	vertical-align: baseline;
+}
+input[type=text] {
+	width: 85%; display: block;
+}
+input.text {
+	width: 85%; display: block;
+}
+label {
+	width: 85%; display: block;
+}
+div.label {
+	width: 85%; display: block;
+}
+div.search-date-container.correctPadding input[type=text] {
+	
+}
+#mpsearch-wrapper label {
+	font: 12px/1.6em Arial; width: 85%; display: block; font-size-adjust: none; font-stretch: normal;
+}
+div.label {
+	font: 12px/1.6em Arial; width: 85%; display: block; font-size-adjust: none; font-stretch: normal;
+}
+div.ms-PartSpacingHorizontal {
+	display: none;
+}
+.sectionlanding-mastertable a:link {
+	color: rgb(0, 35, 160) !important; text-decoration: none !important;
+}
+.sectionlanding-mastertable a:visited {
+	color: rgb(0, 35, 160) !important; text-decoration: none !important;
+}
+.sectionlanding-mastertable a:hover {
+	color: rgb(247, 182, 0); text-decoration: none;
+}
+.sectionlanding-mastertable a:active {
+	color: rgb(247, 182, 0) !important; text-decoration: none !important;
+}
+.sectionlanding-mastertable {
+	width: 990px;
+}
+.sectionlanding-alert {
+	padding: 0px 0px 0px 20px; height: 38px; vertical-align: middle;
+}
+.sectionlanding-subtable {
+	padding-bottom: 14px;
+}
+.sectionlanding-nav {
+	height: 575px; padding-right: 0px; margin-bottom: 5px; margin-left: 25px; border-top-color: rgb(204, 204, 204); border-top-width: 1px; border-top-style: solid; display: inline-block; max-width: 167px;
+}
+.sectionlanding-nav .jScrollPaneScrollable.jScrollPaneContainer {
+	margin-right: 1px;
+}
+.sectionlanding-hero {
+	width: 498px; height: 512px; border-top-color: rgb(204, 204, 204); border-right-color: rgb(204, 204, 204); border-top-width: 1px; border-right-width: 1px; border-top-style: solid; border-right-style: solid;
+}
+.sectionlanding-rightsection {
+	border-top-color: rgb(204, 204, 204); border-top-width: 1px; border-top-style: solid; min-width: 295px;
+}
+.sectionlanding-bottomrow {
+	width: 958px; padding-bottom: 14px;
+}
+.sectionlanding-bottomrow table {
+	width: 100%;
+}
+.sectionlanging-contentpromosmall {
+	width: 310px; padding-right: 14px;
+}
+.sectionlanding-contentpromolarge {
+	width: 793px;
+}
+.sectionlanding-rightcolumn {
+	width: 793px; height: 512px; bottom: 10px; padding-top: 0px; vertical-align: top; border-left-color: rgb(127, 127, 127); border-left-width: 1px; border-left-style: solid;
+}
+.thumbnail {
+	width: 95px; height: 71px;
+}
+.thumbnailjumbo {
+	width: 133px; height: 120px;
+}
+.thumbnailonecolumn {
+	width: 220px; height: 165px;
+}
+.promo_s_box {
+	background: rgb(255, 255, 255); padding: 10px; overflow: hidden; display: block;
+}
+.promo_l_box {
+	background: rgb(255, 255, 255); margin: 0px !important; padding: 10px !important; width: 615px; height: 165px; bottom: 0px !important; overflow: hidden; display: block; position: relative; _margin: 0px 0px 0px 15px;
+}
+.promo_l_box a {
+	color: rgb(0, 35, 160) !important;
+}
+.promo_l_box2 {
+	background: rgb(255, 255, 255); margin: 0px !important; padding: 10px !important; width: 615px; height: 186px; bottom: 0px; overflow: hidden; display: block; position: relative; _margin: 0px 0px 0px 12px;
+}
+.promo_l_box2 a {
+	color: rgb(0, 35, 160) !important;
+}
+.promo_l_box-Large {
+	margin: 0px !important; padding: 10px !important; width: 615px; height: 186px; overflow: hidden; display: block; position: relative; background-color: rgb(255, 255, 255) !important; _margin: 0px 0px 0px 12px;
+}
+.promo_s_box {
+	width: 293px; min-height: 165px;
+}
+.promo_s_box a {
+	color: rgb(0, 35, 160) !important;
+}
+.promo_title {
+	font: 14px/normal Arial; height: auto !important; color: rgb(0, 35, 160); padding-bottom: 10px; font-size-adjust: none; font-stretch: normal;
+}
+.promo_link {
+	color: rgb(0, 35, 160); line-height: 22px; margin-top: 10px;
+}
+.promo_typebox {
+	font: 12px/normal Arial; color: rgb(102, 102, 102); font-size-adjust: none; font-stretch: normal;
+}
+.promo_typebox ul {
+	margin: 10px 0px 0px; padding: 0px; color: rgb(0, 35, 160); line-height: 22px; list-style-type: none; list-style-image: none;
+}
+.promo_typebox li a {
+	margin: 0px; padding: 0px;
+}
+.promo_typebox li a:hover {
+	color: rgb(255, 160, 0); text-decoration: none;
+}
+li.promo_typebox::after {
+	padding-left: 2px; content: url("/_layouts/gvolsharepointbranding/images/vs_caret.png");
+}
+.promo_s_type {
+	line-height: normal; margin-left: 144px;
+}
+.promo_s_type p {
+	line-height: normal;
+}
+.promo_l_type {
+	width: 380px; line-height: normal;
+}
+.promo_l_type a {
+	color: rgb(0, 35, 160) !important;
+}
+.promo_l_type p {
+	line-height: normal;
+}
+.promo_s_graphic {
+	float: left;
+}
+.promo_l_graphic {
+	width: 220px; height: 165px; float: right;
+}
+.promo_subsect {
+	color: rgb(51, 51, 51); line-height: 22px; font-weight: bold;
+}
+.test {
+	margin: 0px; list-style-image: none;
+}
+li.test::before {
+	display: inline;
+}
+.rightc_box {
+	width: 293px; height: auto; position: relative;
+}
+.staff_rightc_box {
+	margin: 10px 0px 0px !important; width: 229px; height: auto; bottom: 0px !important; position: relative;
+}
+.rightc_box-contentlinks {
+	margin: 10px 0px 0px !important; width: 229px; height: auto; bottom: 0px !important; position: relative;
+}
+.c_typebox {
+	background: 0px 0px rgb(255, 255, 255); font: 12px/normal Arial; padding: 8px 8px 3px 0px; width: 140px; text-align: left; color: rgb(102, 102, 102); margin-bottom: 14px; font-size-adjust: none; font-stretch: normal;
+}
+.Tips-WpTypeBox {
+	background: 0px 0px rgb(255, 255, 255); font: 12px/normal Arial; padding: 14px 0px 8px !important; width: 288px; height: auto; text-align: left; color: rgb(102, 102, 102); margin-top: 1px; margin-left: 5px; font-size-adjust: none; font-stretch: normal;
+}
+.Tips-WpTypeBox .c_subtitle {
+	margin: 0px 0px 10px 10px; width: auto !important; color: rgb(102, 102, 102); line-height: 22px; font-size: 16px; font-weight: bold; border-bottom-color: rgb(204, 204, 204); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.Tips-WpTypeBox .ContentLinks-typebox ul li {
+	margin: 15px 5px 5px 10px; padding: 0px !important; color: rgb(0, 35, 160); line-height: 14px; list-style-type: none; list-style-image: none;
+}
+.Tips-WpTypeBox ul li {
+	margin: 15px 5px 5px 10px; padding: 0px !important; color: rgb(0, 35, 160); line-height: 14px; list-style-type: none; list-style-image: none;
+}
+.Tips-WpTypeBox ul li {
+	width: 250px;
+}
+.ContentLinks-typebox {
+	background: rgb(255, 255, 255); font: 12px/normal Arial; padding: 8px 4px; width: 223px; text-align: left; color: rgb(102, 102, 102); font-size-adjust: none; font-stretch: normal;
+}
+.c_typebox-staff {
+	background: rgb(255, 255, 255); font: 12px/normal Arial; padding: 8px 4px; width: 223px; text-align: left; color: rgb(102, 102, 102); font-size-adjust: none; font-stretch: normal;
+}
+.Staff-typebox {
+	background: rgb(255, 255, 255); font: 12px/normal Arial; padding: 8px 4px; width: 223px; text-align: left; color: rgb(102, 102, 102); font-size-adjust: none; font-stretch: normal;
+}
+.section_typebox {
+	background: rgb(255, 255, 255); font: 12px/normal Arial; margin: 10px 0px 0px; padding: 8px 10px; width: 130px; text-align: left; color: rgb(102, 102, 102); font-size-adjust: none; font-stretch: normal;
+}
+.Incentivesection_typebox {
+	background: rgb(255, 255, 255); font: 12px/normal Arial; margin: 0px 0px 0px 10px !important; padding: 14px 10px 2px 5px; width: 278px; height: 152px !important; text-align: left; color: rgb(102, 102, 102); font-size-adjust: none; font-stretch: normal; -moz-margin: 0px 0px 0px 0px;
+}
+.multilink_typebox {
+	background: rgb(255, 255, 255); font: 12px/normal Arial; margin: 10px 0px 0px; padding: 8px 0px 8px 10px; width: 140px; text-align: left; color: rgb(102, 102, 102); font-size-adjust: none; font-stretch: normal;
+}
+.multilink_typebox {
+	background: 0px 0px rgb(255, 255, 255); font: 12px/normal Arial; margin: 10px 0px 0px; padding: 8px 0px 0px; width: 148px; text-align: left; color: rgb(102, 102, 102); font-size-adjust: none; font-stretch: normal;
+}
+.MainLinks-typebox {
+	background: rgb(255, 255, 255); font: 12px/normal Arial; margin: 12px 0px 0px !important; padding: 8px 0px 8px 4px; width: 227px; height: 190px !important; text-align: left; color: rgb(102, 102, 102); min-height: 202px !important; font-size-adjust: none; font-stretch: normal; _height: 203px; -moz-margin: 12px 0px 0px 0px; _min-height: 190px;
+}
+.MainLinks-typebox ul li {
+	margin: 0px; padding: 10px 0px 0px 10px; text-align: left;
+}
+.multilink_typebox ul li {
+	margin: 0px; padding: 10px 0px 0px 10px; text-align: left;
+}
+.multicmsc_box {
+	background: 0px 0px rgb(255, 255, 255); font: 12px/normal Arial; margin: 0px; padding: 8px 0px; width: 148px; height: auto; text-align: left; color: rgb(102, 102, 102); font-size-adjust: none; font-stretch: normal;
+}
+.c_typebox a {
+	margin: 0px; padding: 0px; color: rgb(0, 35, 160) !important; text-decoration: none; vertical-align: baseline;
+}
+.c_typebox a:visited {
+	margin: 0px; padding: 0px; color: rgb(0, 35, 160) !important; text-decoration: none; vertical-align: baseline;
+}
+.Staff-typebox a {
+	margin: 0px; padding: 0px; color: rgb(0, 35, 160); text-decoration: none; vertical-align: baseline;
+}
+.ContentLinks-typebox a {
+	margin: 0px; padding: 0px; color: rgb(0, 35, 160); text-decoration: none; vertical-align: baseline;
+}
+.Tips-WpTypeBox a {
+	margin: 0px; color: rgb(0, 35, 160) !important; padding-left: 0px !important; text-decoration: none; vertical-align: baseline;
+}
+.Tips-WpTypeBox a:visited {
+	margin: 0px; padding: 0px 0px 0px 8px; color: rgb(0, 35, 160) !important; text-decoration: none; vertical-align: baseline;
+}
+.ContentLinks-typebox img {
+	margin: 0px; padding: 0px; color: rgb(0, 35, 160); text-decoration: none; vertical-align: baseline;
+}
+.Tips-WpTypeBox img {
+	margin: 0px; padding: 0px 8px 0px 0px; color: rgb(0, 35, 160); text-decoration: none; vertical-align: middle; float: right;
+}
+.c_typebox img {
+	margin: 0px; padding: 0px; color: rgb(0, 35, 160); text-decoration: none; vertical-align: baseline;
+}
+.Staff-typebox ul {
+	margin: 0px; padding: 0px; color: rgb(0, 35, 160); line-height: 22px; list-style-type: none; list-style-image: none;
+}
+.ContentLinks-typebox ul {
+	margin: 0px; padding: 0px; color: rgb(0, 35, 160); list-style-type: none; list-style-image: none;
+}
+.Tips-WpTypeBox ul {
+	margin: 0px; padding: 0px; color: rgb(0, 35, 160); list-style-type: none; list-style-image: none;
+}
+.c_typebox ul {
+	margin: 0px; padding: 0px; color: rgb(0, 35, 160); line-height: 22px; list-style-type: none; list-style-image: none;
+}
+.Staff-typebox li {
+	margin: 0px; line-height: 22px; padding-top: 10px !important; padding-right: 0px; padding-left: 10px;
+}
+.ContentLinks-typebox li {
+	margin: 0px; padding: 0px 0px 0px 10px !important; line-height: 22px;
+}
+.Tips-WpTypeBox li {
+	margin: 0px; padding: 0px 0px 0px 10px !important; line-height: 22px;
+}
+.ContentLinks-typebox li:hover {
+	color: rgb(255, 160, 0); text-decoration: none;
+}
+.Tips-WpTypeBox li:hover {
+	color: rgb(255, 160, 0); text-decoration: none;
+}
+.c_typebox-staff a {
+	margin: 10px 0px; color: rgb(0, 35, 160); text-decoration: none; vertical-align: baseline;
+}
+.c_typebox-staff ul {
+	margin: 0px; padding: 0px; color: rgb(0, 35, 160); line-height: 22px; list-style-type: none; list-style-image: none;
+}
+.c_typebox-staff li {
+	margin: 0px; line-height: 22px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px !important; padding-left: 10px;
+}
+.c_typebox-staff li:hover {
+	color: rgb(255, 160, 0); text-decoration: none;
+}
+.gVol_ContentCar_Image {
+	width: 552px; height: 325px; margin-bottom: 14px; float: left; position: relative;
+}
+.gVol_ContentCar_backgroundGr {
+	width: 498px; float: left; background-color: rgb(255, 255, 255);
+}
+.gVol_ContentCar_Image .gVol_ContentCar_text p {
+	font: 12px/1.6em Arial; color: rgb(102, 102, 102); padding-right: 10px; padding-left: 10px; font-size-adjust: none; font-stretch: normal;
+}
+.gVol_ContentCar_HeaderText {
+	font: 12px/normal Arial; width: 483px; color: rgb(0, 35, 160); padding-top: 16px; padding-bottom: 1px; padding-left: 10px; float: left; position: relative; font-size-adjust: none; font-stretch: normal;
+}
+#gVol_ContentCar_topRowContainer {
+	width: 493px; padding-top: 0px; padding-right: 5px; padding-bottom: 2px; float: left;
+}
+.gVol_ContentCar_next {
+	margin-top: 4px;
+}
+.gVol_ContentCar_next img {
+	padding-top: 5px; cursor: pointer; _PADDING-TOP: 7px;
+}
+.gVol_ContentCar_prev img {
+	padding-top: 5px; cursor: pointer; _PADDING-TOP: 7px;
+}
+.gVol_ContentCar_HeaderText .gVol_ContentCar_title {
+	color: rgb(102, 102, 102); line-height: 16px; font-family: Arial; font-weight: bold; text-decoration: inherit; display: none !important; opacity: 0 !important;
+}
+.gVol_ContentCar_HeaderText .gVol_ContentCar_displayed {
+	display: block !important; filter: none !important; opacity: 1 !important;
+}
+.gVol_ContentCar_HeaderText .gVol_ContentCar_title a {
+	color: rgb(0, 62, 169); line-height: 20px; overflow: hidden; font-family: Arial; font-size: 16px !important; font-weight: bold; text-decoration: inherit;
+}
+.gVol_ContentCar_Headertext .gVol_ContentCar_title a:visited {
+	color: rgb(102, 102, 102); font-family: inherit; font-size: inherit; text-decoration: inherit;
+}
+.gVol_ContentCar_Headertext .gVol_ContentCar_title a:hover {
+	color: rgb(247, 182, 0); font-family: inherit; font-size: inherit; text-decoration: inherit;
+}
+#gVol_ContentCar_movement {
+	width: 80px; text-align: right; color: gray; margin-top: -12px; float: right;
+}
+#gVol_ContentCar_movement span {
+	padding: 0px 2px; color: rgb(204, 204, 204); line-height: 21px; font-family: Arial; font-size: 20px; vertical-align: middle; cursor: pointer;
+}
+#gVol_ContentCar_gallery .gVol_ContentCar_slide {
+	display: none; position: relative; z-index: 1; opacity: 0;
+}
+#gVol_ContentCar_gallery .gVol_ContentCar_current {
+	display: block !important; opacity: 1 !important;
+}
+#gVol_ContentCar_movement .gVol_ContentCar_active {
+	color: rgb(247, 182, 0); cursor: default !important;
+}
+#gVol_ContentCar_gallery img {
+	border-width: thin medium; border-style: solid none; border-color: rgb(247, 182, 0) rgb(0, 255, 0); width: 552px;
+}
+#gVol_ContentCar_gallery {
+	width: 493px; height: 465px; float: left; position: relative; _height: 475px;
+}
+#sectionnav {
+	background: rgb(255, 255, 255); margin: 0px 0px 14px; width: 167px; -ms-overflow-x: hidden; max-width: 167px; _height: 355px; _overflow-y: auto;
+}
+#sectionnav .secnavcontainer a {
+	padding: 12px 0px 12px 5px; width: 124px; color: rgb(102, 102, 102); line-height: 18px; font-family: Arial, sans-serif; font-size: 12px; text-decoration: none; display: block;
+}
+#sectionnav .secnavcontainer a:link {
+	padding: 12px 0px 12px 5px; width: 124px; color: rgb(102, 102, 102); line-height: 18px; font-family: Arial, sans-serif; font-size: 12px; text-decoration: none; display: block;
+}
+#sectionnav .secnavcontainer a:visited {
+	padding: 12px 0px 12px 5px; width: 124px; color: rgb(102, 102, 102); line-height: 18px; font-family: Arial, sans-serif; font-size: 12px; text-decoration: none; display: block;
+}
+#sectionnav .secnavcontainer a:hover {
+	color: rgb(247, 182, 0);
+}
+#sectionnav .secnavcontainer a:hover:link {
+	color: rgb(247, 182, 0);
+}
+#sectionnav .secnavcontainer a:hover:visited {
+	color: rgb(247, 182, 0);
+}
+#sectionnav .secnavcontainer {
+	border-width: 0px 0px 1px; border-style: none none solid; border-color: currentColor currentColor rgb(204, 204, 204); margin: 0px; padding: 0px; width: 100%; height: auto; line-height: 28px; list-style-image: none;
+}
+#sectionnav .snavnode {
+	border-left-color: transparent; border-left-width: 6px; border-left-style: solid; position: relative;
+}
+#sectionnav .selected.snavnode {
+	font-weight: bold; border-left-color: rgb(247, 182, 0);
+}
+#sectionnav .selected.snavnode > a {
+	color: rgb(247, 182, 0); padding-left: 4px;
+}
+#sectionnav .snavnode:hover > a {
+	color: rgb(247, 182, 0);
+}
+#sectionnav .selected.snavnode > a.selected-parent {
+	color: rgb(51, 51, 51); font-weight: bold;
+}
+#sectionnav .selected.snavnode > a.selected-parent:hover {
+	color: rgb(247, 182, 0);
+}
+#sectionnav #sectionnavsubcategory {
+	border-left-color: rgb(247, 182, 0); border-left-width: 6px; border-left-style: solid;
+}
+#sectionnav .snavsubnode {
+	border-top-color: rgb(204, 204, 204); border-top-width: 1px; border-top-style: dashed; position: relative;
+}
+#sectionnav #sectionnavsubcategory .snavsubnode > a {
+	width: 130px; padding-left: 25px;
+}
+#sectionnav .snavsubnode > a.activelink {
+	color: rgb(247, 182, 0);
+}
+#sectionnav .snavsubnode > a.activelink::before {
+	left: 10px; top: 12px; font-family: FontAwesome !important; position: absolute; content: "\f054";
+}
+#sectionnav .withSubCollapsed {
+	margin: 10px; border: currentColor; left: auto; top: 2px; width: 1em; height: 1em; right: 0px; line-height: 1; font-family: FontAwesome !important; font-size: 17px; font-weight: normal; position: absolute; cursor: pointer !important; pointer-events: auto !important;
+}
+#sectionnav .withSubExpanded {
+	margin: 10px; border: currentColor; left: auto; top: 2px; width: 1em; height: 1em; right: 0px; line-height: 1; font-family: FontAwesome !important; font-size: 17px; font-weight: normal; position: absolute; cursor: pointer !important; pointer-events: auto !important;
+}
+#sectionnav .withSubCollapsed {
+	background: url("/_layouts/GVOLSharePointBranding/Images/plus_link.PNG") no-repeat 1px;
+}
+#sectionnav .withSubExpanded {
+	background: url("/_layouts/GVOLSharePointBranding/Images/minus_expand.PNG") no-repeat 1px 0px;
+}
+#sectionnav .snavnode:hover .withSubCollapsed {
+	background: url("/_layouts/GVOLSharePointBranding/Images/plus_hover.PNG") no-repeat 2px 1px;
+}
+#sectionnav .selected.snavnode > a .withSubCollapsed {
+	background: url("/_layouts/GVOLSharePointBranding/Images/plus_hover.PNG") no-repeat 2px 1px;
+}
+#sectionnav .noSub {
+	width: 20px; display: inline;
+}
+.sectionnav-scroll#sectionnav {
+	background: rgb(255, 255, 255); margin: 0px 0px 10px; width: 148px; height: 571px; -ms-overflow-x: hidden; -ms-overflow-y: auto; min-width: 167px; _min-height: 379px;
+}
+.infobar_box {
+	font: 11px/normal Arial, Helvetica, sans-serif; padding: 0px 0px 0px 7px; width: 300px; height: 53px; color: rgb(102, 102, 102); margin-top: 2px; vertical-align: top; float: right; display: block; position: relative; font-size-adjust: none; font-stretch: normal;
+}
+.infobar_about {
+	padding-right: 4px;
+}
+.infobar_lefttext {
+	border: 1px currentColor; top: 30px; height: 15px; right: 10px; padding-top: 5px; margin-left: 14px; vertical-align: middle; position: absolute;
+}
+.infobar_imgcont {
+	top: -2px; right: 10px; padding-top: 5px; float: right; position: absolute;
+}
+.SHP-BtnImg {
+	padding: 10px;
+}
+.footer {
+	background: rgb(255, 255, 255); padding-bottom: 20px; border-top-color: rgb(26, 31, 113); border-top-width: 5px; border-top-style: solid; min-height: 196px; min-width: 990px;
+}
+.footer div.footer-container {
+	margin: 30px auto 0px; width: 955px; min-height: 135px;
+}
+.footer div.column {
+	margin: 0px 20px 27px 0px; width: 218px; float: left; display: block; _margin-bottom: 47px;
+}
+.footer div.column li {
+	margin-bottom: 8px;
+}
+.footer .footer-heading {
+	margin: 0px 0px 12px; padding: 0px; color: rgb(102, 102, 102); font-size: 13px; font-weight: normal;
+}
+.footer a {
+	font: 11px/normal Arial; color: rgb(153, 153, 153); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.footer a:link {
+	font: 11px/normal Arial; color: rgb(153, 153, 153); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.footer a:active {
+	font: 11px/normal Arial; color: rgb(153, 153, 153); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.footer a:visited {
+	font: 11px/normal Arial; color: rgb(153, 153, 153); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.footer a:hover {
+	color: rgb(255, 160, 0);
+}
+.footer-divider {
+	height: 0px; clear: both; margin-bottom: 15px; border-top-color: rgb(208, 208, 208); border-top-width: 1px; border-top-style: solid;
+}
+.footer div.copyright {
+	margin: 0px auto; width: 1000px; color: rgb(153, 153, 153); clear: both; font-family: Arial; font-size: 11px;
+}
+.copyright p {
+	margin: 0px; padding: 0px; line-height: 1.3em;
+}
+.Image-carslideTitle a:link {
+	color: rgb(255, 160, 0); text-decoration: none !important;
+}
+.Image-carslideTitle a:active {
+	color: rgb(255, 160, 0); text-decoration: none !important;
+}
+.Image-carslideTitle a:visited {
+	color: rgb(255, 160, 0); text-decoration: none !important;
+}
+.Image-carslideTitle a:hover {
+	color: rgb(255, 160, 0) !important; text-decoration: none !important;
+}
+.ms-WPBody a:link {
+	color: rgb(0, 35, 160); _color: #0023a0;
+}
+a:active {
+	color: rgb(0, 35, 160); _color: #0023a0;
+}
+a:visited {
+	color: rgb(0, 35, 160); _color: #0023a0;
+}
+.ms-WPBody a:hover {
+	color: rgb(247, 182, 0); text-decoration: none !important;
+}
+.ms-WPBody a:hover:link {
+	color: rgb(247, 182, 0); text-decoration: none !important;
+}
+.ms-WPBody a:hover:visited {
+	color: rgb(247, 182, 0); text-decoration: none !important;
+}
+.r-Surveybutton {
+	margin: 5px 0px 0px;
+}
+.divAddFavorite {
+	display: none;
+}
+.divEditFavorite {
+	display: none;
+}
+.divDeleteFavorite {
+	display: none;
+}
+div.PopUp-AddFavorite {
+	left: 50px; top: 50px; width: 400px; position: absolute; -ms-overflow-x: hidden !important; -ms-overflow-y: hidden !important;
+}
+.gs-Line {
+	display: none;
+}
+.FeedBck_multicmsc_box {
+	background: rgb(255, 255, 255); font: 12px/normal Arial; margin: 0px; padding: 0px 0px 8px; width: 148px; text-align: left; color: rgb(102, 102, 102); font-size-adjust: none; font-stretch: normal;
+}
+.ms-dlgFrame {
+	overflow: hidden !important; _overflow: hidden;
+}
+.ms-dlgFrameContainer {
+	width: auto !important; overflow: hidden !important;
+}
+.ms-dlgContent {
+	overflow: hidden !important; _overflow: hidden;
+}
+.FIFContainer-Desc {
+	margin: 15px 10px 0px 5px; left: 0px; clear: both; position: relative;
+}
+.FIFImageContainer {
+	margin: 0px 3px 0px 0px; width: 32px; height: 60px;
+}
+.Custom-TrbleCode {
+	margin: 5px 0px; width: 580px; display: none;
+}
+.tabledetail {
+	margin: 10px 0px 10px 20px;
+}
+.tablefeature {
+	margin: 10px 0px 10px 20px;
+}
+#mp-topicsBody .mp-visainformation {
+	font: 11px/1.2em Arial !important; padding-top: 3px !important; margin-left: 10px !important; float: left !important; font-size-adjust: none !important; font-stretch: normal !important; _margin-left: 0px;
+}
+.mp-visanumbers {
+	font: 11px/1.2em Arial !important; padding-top: 3px !important; margin-left: 10px !important; float: left !important; font-size-adjust: none !important; font-stretch: normal !important; _margin-left: 0px;
+}
+.hr-line {
+	margin: 0px 0px 7px; padding: 0px 0px 3px; width: 100%; height: auto; border-bottom-color: rgb(255, 160, 0); border-bottom-width: 2px; border-bottom-style: solid;
+}
+#NFL_Pro-b p {
+	margin: 0px;
+}
+#NFL_Pro-b a {
+	color: rgb(0, 35, 160);
+}
+#NFL_Pro-b a:active {
+	
+}
+#NFL_Pro-b a:visited {
+	color: rgb(0, 35, 160);
+}
+#NFL_Pro-b a:hover {
+	color: rgb(255, 160, 0);
+}
+#NFL_Pro-b .NFL_Pro-LinkClick a:link {
+	font: 12px/1.6em Arial; margin: 14px 10px 4px 0px; width: auto; color: rgb(0, 35, 160); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+.NFL_Pro-LinkClick a:active {
+	font: 12px/1.6em Arial; margin: 14px 10px 4px 0px; width: auto; color: rgb(0, 35, 160); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+#NFL_Pro-b .NFL_Pro-LinkClick a:visited {
+	font: 12px/1.6em Arial; margin: 14px 10px 4px 0px; width: auto; color: rgb(0, 35, 160); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+#NFL_Pro-b .NFL_Pro-LinkClick img {
+	top: 0px; padding-left: 3px; text-decoration: none; margin-top: 5px; vertical-align: top; position: relative; _margin-top: 3px;
+}
+#ContentPage {
+	font: 12px/1.4em Arial, sans-serif; padding: 0px 0px 20px 10px; width: 790px; color: rgb(102, 102, 102); min-height: 320px; font-size-adjust: none; font-stretch: normal; background-color: rgb(255, 255, 255);
+}
+.sectionlanding-hero #ContentPage {
+	font: 12px/1.4em Arial, sans-serif; padding: 16px 0px 20px 10px; width: 783px; color: rgb(102, 102, 102); border-left-color: currentColor; border-left-width: medium; border-left-style: none; min-height: 319px; font-size-adjust: none; font-stretch: normal; background-color: rgb(255, 255, 255);
+}
+#ContentPage p {
+	margin: 20px 20px 20px 0px !important; line-height: 18px;
+}
+#ContentPage .capital {
+	text-transform: capitalize; font-size: 20px;
+}
+#ContentPage h1 {
+	margin: 0px 0px 20px; font-family: Arial, Helvetica, sans-serif; font-size: 19px;
+}
+#ContentPage h2 {
+	color: rgb(61, 61, 61); line-height: 1.6em; font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: bold; margin-top: 20px; margin-bottom: 15px;
+}
+#ContentPage ul {
+	margin: 10px 0px 20px -4px;
+}
+#ContentPage div.MediaContainer {
+	margin: 0px 0px 60px 25px; width: 26em;
+}
+#ContentPage div.MediaContainer h2 {
+	border-bottom-color: rgb(51, 51, 51); border-bottom-width: 1px; border-bottom-style: solid;
+}
+#ContentPage a:link {
+	color: rgb(0, 35, 160); line-height: normal; text-decoration: underline !important;
+}
+#ContentPage a:visited {
+	color: rgb(0, 35, 160); line-height: normal; text-decoration: underline !important;
+}
+#ContentPage a:hover {
+	color: rgb(247, 182, 0); line-height: normal; text-decoration: underline !important;
+}
+#ContentPage h3 {
+	color: rgb(61, 61, 61); line-height: 1.1em; font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: bold; margin-top: 21px; margin-bottom: 13px;
+}
+#ContentPage h4 {
+	color: rgb(51, 51, 51); padding-bottom: 3px; font-weight: bold;
+}
+#ContentPage ul li {
+	margin: 0px 15px 10px 48px; line-height: normal; vertical-align: middle; list-style-type: disc;
+}
+#ContentPage ol li ul li {
+	margin: 0px 0px 10px 48px; line-height: normal; vertical-align: middle; list-style-type: disc !important; list-style-position: outside !important;
+}
+#ContentPage strong {
+	font-family: Arial; font-weight: 600 !important; vertical-align: baseline;
+}
+#ContentPage span {
+	line-height: 18px !important;
+}
+#ContentPage ul li.circle {
+	margin: 0px 0px 10px 70px; line-height: normal; vertical-align: middle; list-style-type: disc;
+}
+#ContentPage ol li {
+	list-style: decimal !important; margin: 0px 10px 10px 47px; line-height: normal; vertical-align: middle;
+}
+.tableDataSTD {
+	margin: 0px 0px 20px; border: 2px solid rgb(229, 229, 229); font-size: 12px;
+}
+.tableDataSTD th {
+	padding: 8px; line-height: normal; font-family: Arial !important; font-size: 12px;
+}
+.tableDataSTD td {
+	padding: 8px; line-height: normal; font-family: Arial !important; font-size: 12px;
+}
+.tableDataSTD td {
+	text-align: left; color: rgb(102, 102, 102) !important; font-size: 12px; vertical-align: top; border-top-color: rgb(229, 229, 229); border-right-color: rgb(229, 229, 229); border-top-width: 1px; border-right-width: 2px; border-top-style: solid; border-right-style: solid;
+}
+.tableDataSTD td p {
+	color: rgb(102, 102, 102) !important; font-size: 12px; vertical-align: top; border-top-color: rgb(221, 225, 242); border-right-color: rgb(221, 225, 242); border-top-width: 1px; border-right-width: 1px; border-top-style: solid; border-right-style: solid;
+}
+.tableDataSTD td em {
+	line-height: normal !important; font-size: 12px;
+}
+.tableDataSTD td i {
+	line-height: normal !important; font-size: 12px;
+}
+.tableDataSTD td ul li {
+	line-height: normal !important; font-size: 12px;
+}
+.tableDataSTD th {
+	padding: 0px 0px 0px 9px; height: 45px; color: rgb(102, 102, 102); font-family: Arial; font-size: 14px !important; font-weight: bold; vertical-align: middle; border-left-color: rgb(255, 255, 255); border-left-width: 2px; border-left-style: solid; background-color: rgb(229, 229, 229);
+}
+.tableDataSTD tr:first-child {
+	border: 2px solid rgb(229, 229, 229);
+}
+.tableDataSTD th:first-child {
+	border-left-color: currentColor; border-left-width: medium; border-left-style: none;
+}
+tr.row1 {
+	background-color: rgb(255, 255, 255);
+}
+.footnote {
+	color: rgb(102, 102, 102); font-family: Arial; font-size: 10px;
+}
+.promo_s_type ul li {
+	margin: 0px 0px 6px; line-height: 1.4em;
+}
+.promo_l_type ul li {
+	margin: 0px 0px 6px; line-height: 1.4em;
+}
+#WebPartWPQ4 .c_typebox {
+	padding: 0px 0px 10px;
+}
+._invisibleIfEmpty .multilink_typebox {
+	padding: 0px 0px 10px;
+}
+#scp-b p {
+	margin: 0px; padding: 0px; line-height: normal;
+}
+#NFL_Pro-PromoWrapper .NFL_Pro-PromoTitle {
+	padding: 7px 0px 13px !important;
+}
+#mp-search ol.mp-searchlist {
+	font: 11px/1.6em Arial !important; margin: 10px 0px 0px 5px; list-style-type: decimal; list-style-position: inside; font-size-adjust: none !important; font-stretch: normal !important;
+}
+#mp-search ol.mp-searchlist li a {
+	font: bold 11px/normal Arial !important; color: rgb(0, 35, 160); text-decoration: none; font-size-adjust: none !important; font-stretch: normal !important;
+}
+#mp-search ol.mp-searchlist li {
+	padding: 0px 0px 6px !important;
+}
+._invisibleIfEmpty .c_typebox li {
+	margin: 5px 0px 5px 10px !important; padding: 0px !important; color: rgb(102, 102, 102); line-height: 14px !important; list-style-type: none; list-style-image: none;
+}
+._invisibleIfEmpty .c_typebox li a {
+	color: rgb(0, 35, 160);
+}
+._invisibleIfEmpty .c_typebox li a:hover {
+	color: rgb(255, 160, 0);
+}
+._invisibleIfEmpty .c_typebox li a:visited {
+	color: rgb(0, 62, 169);
+}
+.anchors a {
+	text-decoration: underline;
+}
+.anchorlnk {
+	line-height: 17px !important; margin-top: 5px;
+}
+.leftc_graphic {
+	padding: 0px 0px 0px 10px;
+}
+.sc1_space {
+	padding-right: 10px;
+}
+#mailsubject {
+	margin: 0px 3px; color: rgb(0, 35, 160); font-weight: normal; text-decoration: underline !important;
+}
+#mailsubject:hover {
+	color: inherit;
+}
+.visa-srch-stats-special {
+	font: 11px/1.6em Arial; width: auto; color: rgb(102, 102, 102); padding-top: 10px; padding-bottom: 10px; padding-left: 10px; margin-left: 0px; font-size-adjust: none; font-stretch: normal;
+}
+.visa-srch-stats-special b {
+	padding-right: 3px;
+}
+.l-Line {
+	height: 10px;
+}
+.tableDataSTD_NoBgBorder {
+	margin: 0px 0px 20px;
+}
+.tableDataSTD_NoBgBorder th {
+	padding: 6px 6px 8px; line-height: normal; font-family: Arial !important;
+}
+.tableDataSTD_NoBgBorder td {
+	padding: 6px 6px 8px; line-height: normal; font-family: Arial !important;
+}
+.tableDataSTD_NoBgBorder td {
+	color: rgb(102, 102, 102) !important; font-size: 12px !important; vertical-align: top;
+}
+.tableDataSTD_NoBgBorder td p {
+	color: rgb(102, 102, 102) !important; font-size: 12px !important; vertical-align: top;
+}
+.tableDataSTD_NoBgBorder th {
+	text-align: center; color: rgb(61, 61, 61); font-family: Arial; font-size: 12px !important; font-weight: bold;
+}
+.tableDataSTD_NoBgBorder td ul li {
+	line-height: normal !important; font-size: 12px;
+}
+.tableDataSTD_NoBgBorder td ol li {
+	line-height: normal !important; font-size: 12px;
+}
+.tableDataSTD td ol li {
+	line-height: normal !important; font-size: 12px;
+}
+#contentcarslide1 .contentcontainer .containerright ul {
+	margin: 0px; padding: 0px 0px 0px 16px !important; border: 0px currentColor; text-align: left; line-height: 1; font-family: Arial; font-size: 100%; font-style: inherit; font-weight: inherit; list-style-type: disc !important; list-style-position: outside !important;
+}
+#contentcarslide1 .contentcontainer .containerright ul li {
+	padding-bottom: 5px; vertical-align: bottom !important;
+}
+#gVol_userFavorites_userFavoritesContainer h4 {
+	line-height: normal;
+}
+.promo_s_type img {
+	padding-left: 3px;
+}
+.promo_l_type img {
+	padding-left: 3px;
+}
+#DtopicListItems {
+	padding: 20px 0px; width: 958px; border-top-color: rgb(153, 153, 153); border-bottom-color: rgb(229, 229, 229); border-top-width: 1px; border-bottom-width: 1px; border-top-style: solid; border-bottom-style: solid;
+}
+.DtopicListLinkItem {
+	margin: 2px 10px; width: 215px; display: inline-block;
+}
+.DtopicListLinkItem .DtopicListLinks {
+	margin: 5px 10px; width: 15px; height: 15px;
+}
+.DtopicListLinkItem label {
+	line-height: 25px; font-weight: normal; display: inline;
+}
+.DtopicListLinkItem span.DtopicActiveText {
+	font-weight: bold;
+}
+.DtopicListLinks {
+	margin: 10px 10px 0px 0px; padding: 0px 7px 0px 0px; width: 145px; height: auto; color: rgb(0, 35, 160); line-height: 14px; overflow: hidden; float: left; display: inline-block;
+}
+.DtopicListLinks a:link {
+	color: rgb(0, 35, 160); text-decoration: none;
+}
+.DtopicListLinks a:active {
+	color: rgb(0, 35, 160); text-decoration: none;
+}
+.DtopicListLinks a:visited {
+	color: rgb(0, 35, 160); text-decoration: none;
+}
+.DtopicActive.DtopicListLinks {
+	color: rgb(255, 170, 0); font-weight: bold; cursor: default;
+}
+.rowSeprator {
+	width: 600px; height: 5px; float: left;
+}
+#Category-indexcolumn_common {
+	font: 11px/1.6em Arial; width: 290px; color: rgb(0, 35, 160); padding-right: 10px; float: left; position: relative; font-size-adjust: none; font-stretch: normal;
+}
+.sectionlanding-contentpromosmall {
+	width: 318px;
+}
+#normalfav {
+	font: bold 11px/1.2em Arial; width: auto; color: rgb(221, 221, 221) !important; padding-top: 5px; text-decoration: none; display: block; position: relative; font-size-adjust: none; font-stretch: normal;
+}
+#normalservices {
+	font: bold 11px/1.2em Arial; left: 20px; width: auto; color: rgb(221, 221, 221) !important; text-decoration: none; display: block; position: relative; font-size-adjust: none; font-stretch: normal;
+}
+.dyn_prof_H {
+	margin: 12px 0px 0px 20px; padding: 10px; border: 1px solid rgb(255, 255, 255); width: 941px; height: 20px; display: block; background-color: rgb(255, 160, 0);
+}
+.dyn_prof_H a {
+	border: 0px solid red; text-decoration: none; margin-left: 10px;
+}
+.dyn_prof_H img {
+	border: 0px solid red; text-decoration: none; margin-left: 10px;
+}
+.labeldyn {
+	color: rgb(255, 255, 255); font-family: Arial; font-size: 20px; font-weight: bold; display: inline;
+}
+.fltright {
+	float: right;
+}
+.dyn_label {
+	width: 150px; float: left;
+}
+.dyn_detail {
+	width: 620px; height: 20px; text-align: center; color: rgb(255, 255, 255); overflow: hidden; padding-top: 3px; font-size: 11px; font-weight: bold; float: left; -ms-text-overflow: ellipsis;
+}
+#vblDyn {
+	cursor: default;
+}
+#countryNameDyn {
+	cursor: default;
+}
+#vblSubDyn {
+	cursor: default;
+}
+.jScrollPaneContainer {
+	overflow: hidden; position: relative; z-index: 1;
+}
+.jScrollPaneTrack {
+	background-position: 0px 0px; top: 0px; width: 5px !important; height: 100%; right: 0px; position: absolute; cursor: pointer; background-image: url("/_layouts/gvolsharepointbranding/images/scroll-bg.png"); background-attachment: scroll; background-repeat: repeat-y; background-color: transparent;
+}
+#manageServicesPanel .jScrollPaneTrack {
+	background-image: none !important;
+}
+#Mylinks .jScrollPaneTrack {
+	background-image: none !important;
+}
+.jScrollPaneDrag {
+	background: url("/_layouts/gvolsharepointbranding/images/scroll-drag.png") no-repeat left rgb(102, 102, 102) !important; width: 4px !important; overflow: hidden; position: absolute; cursor: pointer;
+}
+.jScrollPaneDragTop {
+	left: 0px; top: 0px; overflow: hidden; position: absolute;
+}
+.jScrollPaneDragBottom {
+	left: 0px; bottom: 0px; overflow: hidden; position: absolute;
+}
+a.jScrollArrowUp {
+	background: url("/_layouts/gvolsharepointbranding/images/scroll-arrows.png") no-repeat 0px 3px !important; top: 0px; width: 6px !important; height: 9px; right: 0px; text-indent: -2000px; overflow: hidden; display: block; position: absolute; z-index: 1;
+}
+a.jScrollArrowDown {
+	background: url("/_layouts/gvolsharepointbranding/images/scroll-arrows.png") no-repeat 0px -12px !important; width: 6px !important; height: 9px; right: 0px; bottom: 0px; text-indent: -2000px; overflow: hidden; display: block; position: absolute; z-index: 1;
+}
+.holder {
+	margin-right: 0px; float: left;
+}
+.rightc_box .scroll {
+	width: 265px !important; height: 120px; overflow: auto; padding-right: 0px; float: left; background-color: rgb(255, 255, 255);
+}
+.rightc_box .jScrollPaneContainer {
+	width: 288px !important;
+}
+#gVol_sectionFeature ul li a {
+	width: 215px; display: block;
+}
+.Tips-WpTypeBox ul li a {
+	width: 215px; display: block;
+}
+.Incentivesection_typebox .scroll {
+	width: 214px;
+}
+.Tips-WpTypeBox .scroll {
+	width: 223px;
+}
+.scroll-pane {
+	width: 200px; height: 200px; color: white; overflow: auto; float: left; background-color: rgb(45, 45, 45);
+}
+.scroll-pane1 {
+	width: 208px; height: 120px; overflow: auto; padding-right: 10px; float: left; background-color: rgb(255, 255, 255);
+}
+.scroll-pane2 {
+	width: 284px; height: 340px; color: white; overflow: auto; padding-right: 28px; padding-left: 33px; float: left; background-color: rgb(45, 45, 45);
+}
+.scroll-pane3 {
+	width: 220px; height: 340px; color: white; overflow: auto; padding-right: 28px; padding-left: 33px; float: left; background-color: rgb(45, 45, 45);
+}
+.scroll-pane-offer {
+	width: 326px; height: 240px; color: white; overflow: auto; padding-right: 28px; padding-left: 33px; float: left; background-color: rgb(45, 45, 45);
+}
+.scroll-pane-faq {
+	width: 638px; height: 744px; color: white; overflow: auto; padding-right: 28px; padding-left: 33px; float: left; background-color: rgb(45, 45, 45);
+}
+.scroll-pane-service-agreement {
+	width: 442px; height: 365px; color: white; overflow: auto; padding-right: 28px; padding-left: 0px; float: left; background-color: rgb(45, 45, 45);
+}
+.scroll-pane-plugin-agreement {
+	width: 417px; height: 365px; color: white; overflow: auto; padding-right: 28px; padding-left: 0px; float: left; background-color: rgb(45, 45, 45);
+}
+.wide {
+	width: 400px;
+}
+.super-wide {
+	width: 700px;
+}
+.tall {
+	height: 400px;
+}
+#pane1 {
+	height: 350px;
+}
+#pane2 {
+	height: 350px;
+}
+#pane3 {
+	height: 350px;
+}
+#pane4 {
+	height: 250px;
+}
+#pane5 {
+	height: 754px;
+}
+#pane6 {
+	height: 375px;
+}
+#pane7 {
+	height: 375px;
+}
+.gutt-seprator {
+	height: 351px; display: block;
+}
+#gVol_sectionFeature ul li {
+	margin-bottom: 10px !important;
+}
+.containerright strong {
+	font-size: 12px; font-weight: 700 !important; vertical-align: bottom; _font-weight: bold; _font: normal 12px/1.6em Arial;
+}
+.Surveyoverlay {
+	left: 0px; top: 0px; width: 100%; height: 100%; position: fixed; z-index: 10001; opacity: 0.5; background-color: rgb(0, 0, 0);
+}
+.surveyButtons {
+	border-color: inherit; text-align: center; color: rgb(255, 255, 255); line-height: 27px; font-family: Arial, sans-serif; font-size: 14px; font-style: inherit; font-weight: bold; border-collapse: collapse; cursor: pointer; border-spacing: 0; background-attachment: scroll;
+}
+.buttonlarge {
+	background: url("/_layouts/GVOLSSBranding/Images/Gvol_spriterel2.png") no-repeat -150px -8px; width: 183px; height: 27px;
+}
+.buttonlargeactive {
+	background: url("/_layouts/GVOLSSBranding/Images/Gvol_spriterel2.png") no-repeat -150px -42px; width: 183px; height: 27px;
+}
+.buttonmedium {
+	background: url("/_layouts/GVOLSSBranding/Images/Gvol_spriterel2.png") no-repeat -9px -8px; width: 130px; height: 27px;
+}
+.buttonmediumactive {
+	background: url("/_layouts/GVOLSSBranding/Images/Gvol_spriterel2.png") no-repeat -9px -42px; width: 130px; height: 27px;
+}
+.SurveyDialog {
+	width: 780px; height: 520px; color: rgb(51, 51, 51); display: none; visibility: visible; position: absolute; -ms-overflow-x: hidden; -ms-overflow-y: hidden; background-attachment: scroll; background-color: rgb(255, 255, 255);
+}
+.surveylink {
+	color: rgb(0, 62, 169) !important; padding-right: 55px; font-size: 20px; text-decoration: none; vertical-align: baseline; cursor: pointer;
+}
+.yellowcolor {
+	color: rgb(247, 182, 0) !important;
+}
+.surveylink:hover {
+	color: rgb(247, 182, 0) !important;
+}
+#survey_contact a:hover {
+	color: rgb(247, 182, 0) !important;
+}
+.arrow-rgt {
+	margin-top: 2px; display: inline-block;
+}
+#lnkRemindLater {
+	padding-top: 9px; display: inline-block;
+}
+#lnkCancel {
+	padding-top: 9px; display: inline-block;
+}
+#survey_contact {
+	right: 30px; bottom: 26px; color: rgb(102, 102, 102); font-size: 16px; position: absolute;
+}
+#survey_contact a {
+	padding-left: 5px;
+}
+.surveybtn {
+	background: rgb(247, 182, 0); width: 200px; height: 40px; text-align: center; color: rgb(255, 255, 255) !important; line-height: 39px; font-family: Arial; font-size: 20px; font-weight: bold; text-decoration: none; margin-right: 30px; float: right; box-shadow: 0px 10px 30px 0px rgba(153,153,153,1) !important;
+}
+.survey-close {
+	margin: 15px 20px 0px 0px; font-size: 12px; float: right; cursor: pointer;
+}
+.survey_feedback {
+	padding: 17px 0px 0px 30px; color: rgb(153, 153, 153); line-height: 19px;
+}
+.surveybtn:hover {
+	background: rgb(247, 182, 0); color: rgb(255, 255, 255) !important; text-decoration: none; box-shadow: 0px 10px 30px 0px rgba(153,153,153,1) !important;
+}
+.Surveypara a {
+	color: rgb(0, 62, 169) !important;
+}
+.SurveyparaBold a {
+	color: rgb(0, 62, 169) !important;
+}
+.rqSrvDialog {
+	margin: 0px auto; left: 0px; top: 50px; right: 0px; display: none; z-index: 10002; box-shadow: 0px 10px 30px rgba(51,51,51,1) !important;
+}
+.Surveypara {
+	background: url("/_layouts/gvolsharepointbranding/images/vol_image_survey.jpg") no-repeat; height: 300px; color: rgb(255, 255, 255); line-height: 37px; padding-left: 30px; font-size: 30px;
+}
+.bodyText1 {
+	width: 500px; padding-top: 32px; padding-bottom: 65px;
+}
+.SurveyparaBold {
+	font-size: 12px; font-weight: bold; margin-bottom: 15px;
+}
+.surveyFooter {
+	padding: 16px 0px 0px 30px;
+}
+.surveyTitle {
+	background: linear-gradient(to right, rgba(22, 31, 98, 1) 0%, rgba(13, 35, 120, 1) 37%, rgba(1, 42, 156, 1) 100%); height: 95px; color: rgb(247, 182, 0); padding-left: 30px; font-size: 38px;
+}
+.surveyWrapper > p {
+	margin: 0px;
+}
+.surveyTitle > span {
+	padding-top: 39px; display: inline-block;
+}
+.arrowbulletitem > a {
+	color: rgb(0, 62, 169);
+}
+.arrowbulletitem {
+	background-position: 0px 4px; margin: 0px 0px 0px 3px !important; padding: 0px 0px 5px 12px !important; line-height: 14px !important; background-image: url("/_layouts/gvolsharepointbranding/images/Pagination_Arrow_Orange_Right.png"); background-repeat: no-repeat;
+}
+#subcat-index-card-sel-li {
+	font: 12px/normal Arial; width: 172px; color: rgb(102, 102, 102); float: left; font-size-adjust: none; font-stretch: normal;
+}
+.arrowbullets .arrowbulletitem a {
+	line-height: 18px;
+}
+#scp-b a:link {
+	color: rgb(0, 35, 160);
+}
+#scp-b a:active {
+	color: rgb(0, 35, 160);
+}
+#scp-b a:visited {
+	color: rgb(0, 35, 160);
+}
+#scp-b a:hover:link {
+	color: rgb(247, 182, 0);
+}
+#scp-b a:hover:active {
+	color: rgb(247, 182, 0);
+}
+#scp-b a:hover:visited {
+	color: rgb(247, 182, 0);
+}
+#masterAlertOverlay {
+	left: 0px; top: 0px; width: 100%; height: 100%; position: fixed; z-index: 12000 !important; opacity: 0.5; background-color: rgb(68, 68, 68);
+}
+.masterAlertDialog {
+	background: url("/_layouts/gvolsharepointbranding/images/Announcements_Box_bg.gif") repeat-x right top; padding: 12px; border: 1px solid rgb(110, 110, 110); width: 325px; height: 175px; color: rgb(51, 51, 51); margin-left: 0px; visibility: visible; position: absolute; -ms-overflow-x: hidden; -ms-overflow-y: auto;
+}
+.alertDialogHeader {
+	width: 100%;
+}
+.alertDialogTitle {
+	width: 325px; text-align: left; -ms-word-wrap: break-word;
+}
+.masterAlertDialogContent {
+	width: 325px; font-family: Arial, sans-serif; font-size: 12px; font-weight: normal;
+}
+.alertButtonFooter {
+	left: 0px; width: 100%; text-align: right; bottom: 25px; position: absolute;
+}
+.alertButtons {
+	border-color: inherit; text-align: center; color: rgb(255, 255, 255); line-height: 27px; font-family: Arial, sans-serif; font-size: 14px; font-style: inherit; font-weight: bold; border-collapse: collapse; cursor: pointer; border-spacing: 0; background-attachment: scroll;
+}
+.alertbuttonsmall {
+	background: url("/_layouts/gvolsharepointbranding/images/Gvol_spriterel2.png") no-repeat -344px -8px; border-color: inherit; width: 71px; height: 27px; text-align: center; color: rgb(255, 255, 255); line-height: 27px; font-family: Arial, sans-serif; font-size: 14px; font-weight: bold; display: inline-block; cursor: pointer;
+}
+.alertDialogCancelLink {
+	color: rgb(0, 62, 169) !important; line-height: 1.6em; font-weight: bold; text-decoration: none; vertical-align: baseline; cursor: pointer;
+}
+#btnOKmaster {
+	margin-right: 30px;
+}
+#btnCancelmaster {
+	margin-right: 30px;
+}
+.alert-hr-line {
+	margin: 0px 0px 7px; padding: 0px 0px 3px; width: 100%; height: auto; border-bottom-color: rgb(0, 51, 153); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.masterRqSrvDialog {
+	left: 290px; top: 190px; display: none; z-index: 12002 !important;
+}
+#search2 {
+	display: none;
+}
+#search3 {
+	display: none;
+}
+.specialFont {
+	margin-left: 12px;
+}
+#gvolSearch a {
+	color: rgb(26, 31, 122);
+}
+.specialFont {
+	color: rgb(26, 31, 122);
+}
+#gvolSearch .suggestiontext {
+	font-style: italic; font-weight: bolder; text-decoration: underline;
+}
+.wrongtext {
+	font-style: italic; font-weight: bolder;
+}
+#gvolSearch li {
+	list-style: none;
+}
+#gvolSearch .title {
+	color: rgb(247, 182, 0); font-size: 17px;
+}
+#gvolSearch .footer-title {
+	color: rgb(247, 182, 0); font-size: 17px; font-weight: bolder;
+}
+#gvolSearch .linestyle li {
+	
+}
+#gvolSearch .margin-top {
+	margin-top: 5px;
+}
+#gvolSearch .bottom {
+	margin: 30px 0px;
+}
+#gvolSearch .paging {
+	text-align: center; margin-top: 40px;
+}
+.float-right {
+	float: right;
+}
+.glyphicon-search.glyphicon {
+	opacity: 0.5;
+}
+.searchBox {
+	padding: 15px 20px 5px;
+}
+.searchBox input {
+	background: rgb(242, 242, 242); border-radius: 25px; border: 1px currentColor; width: 250px; margin-right: -25px;
+}
+.paging span {
+	padding: 5px;
+}
+.paging .active {
+	color: rgb(26, 31, 122) !important; font-weight: bold !important; border-bottom-color: rgb(247, 182, 0) !important; border-bottom-width: 5px !important; border-bottom-style: solid !important;
+}
+.paging .next {
+	border-bottom-color: currentColor !important; border-bottom-width: medium !important; border-bottom-style: none !important;
+}
+.paging .disabled {
+	color: rgb(229, 229, 229) !important; font-weight: bold !important;
+}
+.item-details {
+	margin: 0px !important; width: 100%; font-size: 12px;
+}
+.btn-warning {
+	border-color: rgb(247, 182, 0); border-radius: 25px; width: 175px; color: rgb(255, 255, 255); background-color: rgb(247, 182, 0);
+}
+.margin-left {
+	margin-left: -40px;
+}
+#filters {
+	color: rgb(51, 51, 51); font-size: 12px; font-weight: normal;
+}
+label {
+	color: rgb(51, 51, 51); font-size: 12px; font-weight: normal;
+}
+#filters .title {
+	padding: 10px 0px; color: rgb(0, 0, 0); font-size: 14px; font-weight: bold;
+}
+#filters .input-group button {
+	height: 24px;
+}
+#filters .input-group input {
+	height: 24px;
+}
+#hideFilters {
+	border: 0px currentColor; margin-top: -7px;
+}
+#hideFilters:hover {
+	background: none; border: 0px currentColor;
+}
+.filter-seperator {
+	height: 28px !important;
+}
+.filter-seperator-bot {
+	height: 28px !important; margin-top: -10px;
+}
+#filterBlock {
+	width: 100px;
+}
+#filters .item-text {
+	color: rgb(102, 102, 102) !important;
+}
+.popover {
+	max-width: 450px;
+}
+.footer-directory-container {
+	width: 960px; margin-top: 10px;
+}
+.footer-directory-container ul {
+	width: 220px; line-height: 20.5px; font-size: 12px; margin-left: -25px;
+}
+.item-details h5 {
+	margin-bottom: 4px;
+}
+.img-responsive {
+	margin-top: 10px;
+}
+.item-heading {
+	font-size: 16px; font-weight: 500;
+}
+.item-text {
+	color: rgb(102, 102, 102); font-size: 12px;
+}
+.underline {
+	text-decoration: underline;
+}
+.margin-top-30 {
+	margin-top: 30px;
+}
+.filter-check {
+	margin-right: 5px !important;
+}
+.filter-ckeckset li {
+	padding: 5px;
+}
+#filters .first-box {
+	margin-top: -10px; border-right-color: rgb(229, 229, 229); border-right-width: 1px; border-right-style: solid;
+}
+.thick-border {
+	border: 1px solid rgb(229, 229, 229);
+}
+.thicker-border {
+	border: 3px solid rgb(229, 229, 229);
+}
+.close-button {
+	background: url("/_layouts/GVOLSharePointBranding/Images/trash-icon.png") no-repeat rgb(255, 255, 255); border: 0px currentColor; width: 10px; height: 12px; margin-top: 3px; float: right; display: inline-block; cursor: pointer;
+}
+.close-button:hover {
+	background: url("/_layouts/GVOLSharePointBranding/Images/trash-icon.png") no-repeat 0px -18px rgb(255, 255, 255); border: 0px currentColor; width: 11px; height: 12px; margin-top: 3px; float: right; display: inline-block; cursor: pointer;
+}
+.close-button:active {
+	background: url("/_layouts/GVOLSharePointBranding/Images/trash-icon.png") no-repeat 0px -18px rgb(255, 255, 255); border: 0px currentColor; width: 11px; height: 12px; margin-top: 3px; float: right; display: inline-block; cursor: pointer;
+}
+.modal-footer {
+	text-align: center !important;
+}
+.modal-body {
+	text-align: center !important;
+}
+.table > thead > tr > td {
+	line-height: 1.4285; vertical-align: top; border-top-color: rgb(255, 255, 255) !important; border-top-width: 2px !important; border-top-style: solid !important;
+}
+.table > tbody > tr > td {
+	line-height: 1.4285; vertical-align: top; border-top-color: rgb(255, 255, 255) !important; border-top-width: 2px !important; border-top-style: solid !important;
+}
+.table > tfoot > tr > td {
+	line-height: 1.4285; vertical-align: top; border-top-color: rgb(255, 255, 255) !important; border-top-width: 2px !important; border-top-style: solid !important;
+}
+.table > thead > tr > th {
+	line-height: 1.4285; vertical-align: top; border-top-color: rgb(229, 229, 229) !important; border-right-color: rgb(229, 229, 229); border-bottom-color: rgb(229, 229, 229); border-left-color: rgb(229, 229, 229); border-top-width: 2px !important; border-right-width: 2px; border-bottom-width: 4px; border-left-width: 2px; border-top-style: solid !important; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;
+}
+.table > tbody > tr > th {
+	line-height: 1.4285; vertical-align: top; border-top-color: rgb(229, 229, 229) !important; border-right-color: rgb(229, 229, 229); border-bottom-color: rgb(229, 229, 229); border-left-color: rgb(229, 229, 229); border-top-width: 2px !important; border-right-width: 2px; border-bottom-width: 4px; border-left-width: 2px; border-top-style: solid !important; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;
+}
+.table > tfoot > tr > th {
+	line-height: 1.4285; vertical-align: top; border-top-color: rgb(229, 229, 229) !important; border-right-color: rgb(229, 229, 229); border-bottom-color: rgb(229, 229, 229); border-left-color: rgb(229, 229, 229); border-top-width: 2px !important; border-right-width: 2px; border-bottom-width: 4px; border-left-width: 2px; border-top-style: solid !important; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;
+}
+.table .noleft {
+	border-left-color: currentColor !important; border-left-width: medium !important; border-left-style: none !important;
+}
+.table .noright {
+	border-right-color: currentColor !important; border-right-width: medium !important; border-right-style: none !important;
+}
+#showAll-modal .modal-body {
+	padding: 0px; color: rgb(128, 128, 128); border-top-color: currentColor; border-bottom-color: rgb(229, 229, 229) !important; border-top-width: medium; border-bottom-width: 1px !important; border-top-style: none; border-bottom-style: solid !important; min-height: 150px !important;
+}
+table thead th {
+	font-weight: normal;
+}
+#filterSearch {
+	width: 200px; margin-top: -15px;
+}
+#filterSearch .search {
+	padding: 2px 10px; border: 1px solid rgb(153, 153, 153); width: 130px;
+}
+#filterSearch .button {
+	padding: 2px 10px; border: 1px solid rgb(153, 153, 153); left: -3px; color: rgb(255, 255, 255); position: relative; background-color: rgb(153, 153, 153);
+}
+.datebox {
+	margin: 0px 5px 5px; width: 100px;
+}
+.datetext {
+	margin: 5px 5px 5px 0px;
+}
+.dateicon {
+	margin: 5px; cursor: pointer;
+}
+#search-title-container {
+	border-bottom-color: rgb(153, 153, 153); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.save-search-footer-link {
+	margin-left: 35px;
+}
+.Product-Selector-Hide-Filter {
+	width: 145px; height: 33px; color: white; line-height: 25px; padding-top: 4px; padding-left: 15px; font-size: 13px; font-weight: bold; float: right;
+}
+.Product-Selector-SupportingTitle {
+	font: 11px/1.6em Arial; width: 100%; color: rgb(102, 102, 102); padding-top: 14px; margin-bottom: 11px; margin-left: 25px; display: inline-block; font-size-adjust: none; font-stretch: normal;
+}
+span#lblLastLogOnDateOnGVOL {
+	margin: 2px 0px; color: rgb(102, 102, 102); font-family: Arial; font-size: 10px; float: right; display: inline-block;
+}
+.itempreviewPotrait {
+	width: 76px; height: 76px;
+}
+.itempreviewPotrait a {
+	text-decoration: none; display: block;
+}
+.itempreviewPotrait a span {
+	background: url("/_layouts/GVOLSharePointBranding/Images/potrait-preview.png") no-repeat center; margin: 0px 10px 0px 0px; height: 79px; position: relative; z-index: 100; opacity: 1;
+}
+.itempreviewPotrait a span {
+	display: block;
+}
+.clear {
+	clear: both;
+}
+.itempreviewLandscape {
+	width: 96px; height: 76px;
+}
+.itempreviewLandscape a span {
+	background: url("/_layouts/GVOLSharePointBranding/Images/landscape-preview.png") no-repeat center; margin: 0px 30px 0px 0px; height: 80px; position: relative; z-index: 200; opacity: 1;
+}
+.itempreviewLandscape a span {
+	display: block;
+}
+.fragment {
+	padding: 10px 4px 4px 15px; border: 2px solid rgb(39, 43, 130); width: 960px; height: auto; color: rgb(102, 102, 102); overflow: hidden; font-family: Arial; font-size: 12px; text-decoration: none; margin-bottom: 15px; margin-left: 20px; display: block; box-sizing: border-box; background-color: rgb(242, 243, 255);
+}
+span#close {
+	color: rgb(124, 127, 130); line-height: 15px; padding-top: 0px; padding-right: 5px; font-size: 16px; font-weight: bolder; float: right; display: inline-block; cursor: pointer;
+}
+div.fragment p {
+	margin: 0px 0px 7px; padding-right: 30px;
+}
+div.fragment a {
+	text-decoration: underline;
+}
+.fragment:hover {
+	box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+}
+#alert-close {
+	padding: 4px 5px; color: rgb(124, 127, 130); font-size: 16px; float: right; display: inline-block; cursor: pointer;
+}
+#gvolOnlineHelpRightColoumn {
+	width: auto; height: 508px; overflow: hidden;
+}
+#gvolOnlineHelpRightColoumn .headingFormat {
+	color: rgb(102, 102, 102); padding-top: 20px; padding-bottom: 3px; font-size: 16px; font-weight: bold; margin-left: 15px; border-bottom-color: rgb(204, 204, 204); border-bottom-width: 1px; border-bottom-style: solid;
+}
+#gvolOnlineHelpRightColoumn #Title1 .headingFormat {
+	padding-top: 16px;
+}
+#gvolOnlineHelpRightColoumn .wrapper {
+	margin: 10px 2px 2px 15px; width: 245px; overflow: hidden; display: inline-block;
+}
+#gvolOnlineHelpRightColoumn .nf-nolink {
+	color: rgb(102, 102, 102) !important;
+}
+#gvolOnlineHelpRightColoumn .link_div {
+	width: 215px; font-size: 12px; margin-top: 3px; float: left;
+}
+#gvolOnlineHelpRightColoumn a:link {
+	color: rgb(0, 62, 169); text-decoration: none;
+}
+#gvolOnlineHelpRightColoumn a:hover {
+	color: rgb(247, 182, 0); text-decoration: none;
+}
+#gvolOnlineHelpRightColoumn .icon_div .expend {
+	background: url("/_layouts/GVOLSharePointBranding/Images/expend.PNG") no-repeat center; width: 23px; height: 21px; float: right;
+}
+#gvolOnlineHelpRightColoumn .icon_div .ieIcon {
+	background: url("/_layouts/gvolsharepointbranding/images/file-icon_web_16x16.png") no-repeat center; width: 21px; height: 21px; float: right;
+}
+#gvolOnlineHelpRightColoumn .icon_div .pdfIcon {
+	background: url("/_layouts/GVOLSharePointBranding/Images/file-icon_pdf_16x16.png") no-repeat center; width: 21px; height: 21px; float: right;
+}
+#gvolOnlineHelpRightColoumn .icon_div .docIcon {
+	background: url("/_layouts/GVOLSharePointBranding/Images/file-icon_word_16x16.png") no-repeat center; width: 21px; height: 21px; float: right;
+}
+#gvolOnlineHelpRightColoumn .icon_div .xlsIcon {
+	background: url("/_layouts/GVOLSharePointBranding/Images/file-icon_xls_16x16.png") no-repeat center; width: 21px; height: 21px; float: right;
+}
+#gvolOnlineHelpRightColoumn .icon_div .zipIcon {
+	background: url("/_layouts/GVOLSharePointBranding/Images/file-icon_zip_16x16.png") no-repeat center; width: 21px; height: 21px; float: right;
+}
+#gvolOnlineHelpRightColoumn .icon_div .pptIcon {
+	background: url("/_layouts/GVOLSharePointBranding/Images/file-icon_ppt_16x16.png") no-repeat center; width: 21px; height: 21px; float: right;
+}
+.bottomPanelContainer div.feedback {
+	background: url("/_layouts/GVOLSharePointBranding/Images/envelop.png") no-repeat left; color: rgb(102, 102, 102); padding-left: 30px; font-size: 14px; font-weight: bold; float: left;
+}
+.bottomPanelContainer div.technicalHelp {
+	background: url("/_layouts/GVOLSharePointBranding/Images/tech_help21x21.PNG") no-repeat left; color: rgb(102, 102, 102); padding-left: 30px; font-size: 14px; font-weight: bold; float: right;
+}
+.bottomPanelContainer div.feedback a {
+	color: rgb(26, 31, 113); font-weight: bold; text-decoration: none !important;
+}
+.bottomPanelContainer div.technicalHelp a {
+	color: rgb(26, 31, 113); font-weight: bold; text-decoration: none !important;
+}
+.bottomPanelContainer div.feedback a:hover {
+	color: rgb(247, 182, 0); font-family: inherit; font-size: inherit; text-decoration: inherit;
+}
+.bottomPanelContainer div.technicalHelp a:hover {
+	color: rgb(247, 182, 0); font-family: inherit; font-size: inherit; text-decoration: inherit;
+}
+.bottomPanelContainer {
+	padding-top: 20px; padding-bottom: 40px; padding-left: 10px;
+}
+.sectionlanding-bottomrow div.bottomPanelContainer {
+	border-top-color: rgb(204, 204, 204); border-top-width: 1px; border-top-style: solid;
+}
+.mostPopular_Page_OuterDiv {
+	width: 303px; height: 307px; overflow: hidden; border-left-color: rgb(174, 174, 174); border-left-width: 1px; border-left-style: solid; display: inline-block;
+}
+.mostPopular_Documents_OuterDiv {
+	width: 303px; height: 307px; overflow: hidden; border-left-color: rgb(174, 174, 174); border-left-width: 1px; border-left-style: solid; display: inline-block;
+}
+.mostPopular_Search_OuterDiv {
+	width: 303px; height: 307px; overflow: hidden; border-left-color: rgb(174, 174, 174); border-left-width: 1px; border-left-style: solid; display: inline-block;
+}
+.ms-wpContentDivSpace .jScrollPaneContainer {
+	height: 308px !important; margin-top: -1px;
+}
+.bottom-bord {
+	border-bottom-color: rgb(174, 174, 174); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.force-mp-hgt {
+	
+}
+.ContentpageNoLeftSection {
+	width: 100% !important; border-left-color: currentColor; border-left-width: medium; border-left-style: none;
+}
+.fullScreenContent {
+	width: 974px !important; padding-left: 25px !important;
+}
+.noRightColumn {
+	width: 974px !important; padding-left: 25px !important;
+}
+.noLeftAndRightSection {
+	width: 976px; border-right-color: currentColor; border-left-color: currentColor; border-right-width: medium; border-left-width: medium; border-right-style: none; border-left-style: none;
+}
+div.cate_fifDateValidateMsgStyle#fifDateValidationMsg {
+	width: 100%; color: red; margin-right: 10px; margin-left: -10px; float: left;
+}
+.cate_seperatorLine {
+	width: 320px; margin-left: 5px; border-top-color: rgb(229, 229, 229); border-top-width: 1px; border-top-style: solid;
+}
+.ms-dlgTitleText {
+	color: rgb(247, 182, 0); line-height: 4; overflow: hidden; padding-left: 2px; font-family: Arial, sans-serif; font-size: 17px; font-weight: bold; margin-left: 20px; border-bottom-color: rgb(204, 204, 204); border-bottom-width: 3px; border-bottom-style: solid; float: left; -ms-text-overflow: ellipsis;
+}
+.ms-dlgTitle {
+	background: rgb(255, 255, 255) !important; height: 78px !important; overflow: hidden; white-space: nowrap;
+}
+.ms-dlgCloseBtn span {
+	top: 10px; right: 10px;
+}
+.ms-dlgCloseBtn span {
+	border: currentColor;
+}
+.ms-dlgCloseBtn span:hover {
+	background: none; border: currentColor;
+}
+.checkboxSpanTextBold {
+	font-weight: bold;
+}
+#contentcarslide1 .containertop {
+	color: rgb(102, 102, 102);
+}
+button span {
+	left: 0px; top: 0px; position: relative;
+}
+.back-to-top .arrow-up {
+	top: -1px; height: 12px; padding-left: 5px; position: relative;
+}
+.back-to-top {
+	font-size: 14px; float: right;
+}
+.back-to-top a:link {
+	color: rgb(26, 31, 113);
+}
+.back-to-top a:visited {
+	color: rgb(26, 31, 113);
+}
+.back-to-top a:active {
+	color: rgb(26, 31, 113);
+}
+.back-to-top a:hover:link {
+	color: rgb(247, 182, 0);
+}
+.back-to-top a:hover:visited {
+	color: rgb(247, 182, 0);
+}
+.back-to-top a:hover:active {
+	color: rgb(247, 182, 0);
+}
+.sbHolder {
+	width: 233px; height: 25px; font-family: Arial, sans-serif !important; font-size: 13px !important; font-weight: normal; float: right; position: relative; background-color: rgb(238, 238, 238);
+}
+.sbSelector {
+	left: 0px; top: 0px; width: 170px; height: 30px; line-height: 25px; text-indent: 10px; overflow: hidden; font-weight: bold !important; display: block; position: absolute;
+}
+.sbSelector {
+	color: rgb(50, 50, 50) !important;
+}
+.sbToggle {
+	background: url("/_layouts/GVOLSharePointBranding/Images/select-icons.png") no-repeat 0px -116px; top: 0px; width: 30px; height: 30px; right: 0px; display: block; position: absolute;
+}
+.sbToggle:hover {
+	background: url("/_layouts/GVOLSharePointBranding/Images/select-icons.png") no-repeat 0px -167px;
+}
+.sbToggleOpen {
+	background: url("/_layouts/GVOLSharePointBranding/Images/select-icons.png") no-repeat 0px -16px;
+}
+.sbToggleOpen:hover {
+	background: url("/_layouts/GVOLSharePointBranding/Images/select-icons.png") no-repeat 0px -66px;
+}
+.sbHolderDisabled {
+	border: 1px solid rgb(81, 81, 81); background-color: rgb(60, 60, 60);
+}
+.sbHolderDisabled .sbHolder {
+	
+}
+.sbHolderDisabled .sbToggle {
+	
+}
+.sbHolder .sbSelector {
+	width: auto;
+}
+.sbOptions {
+	list-style: none; margin: 0px; padding: 0px; border: 1px solid rgb(81, 81, 81); left: -1px; top: 30px; width: 211px; position: absolute; z-index: 201; -ms-overflow-x: hidden; -ms-overflow-y: auto; background-color: rgb(196, 196, 196);
+}
+.sbOptionsOpen {
+	
+}
+.sbOptions a {
+	padding: 3px 0px 3px 3px; border-bottom-color: rgb(81, 81, 81); border-bottom-width: 1px; border-bottom-style: dotted; display: block;
+}
+.sbOptions li {
+	border-bottom-color: rgb(81, 81, 81); border-bottom-width: 1px; border-bottom-style: dotted;
+}
+.sbOptions li.last {
+	border-bottom-color: currentColor; border-bottom-width: medium; border-bottom-style: none;
+}
+.sbOptions li .sbOption {
+	padding: 5px 0px 5px 9px; width: 100%; height: 100%; display: block; cursor: pointer;
+}
+.sbOptions .sbOption:hover {
+	color: rgb(50, 50, 50); background-color: rgb(235, 235, 235);
+}
+.sbOptions :focus {
+	color: rgb(50, 50, 50); background-color: rgb(235, 235, 235);
+}
+.sbOptions .sbFocus {
+	color: rgb(50, 50, 50); background-color: rgb(235, 235, 235);
+}
+.sbOptions .sbDisabled {
+	padding: 3px 0px 3px 3px; color: rgb(153, 153, 153); border-bottom-color: rgb(81, 81, 81); border-bottom-width: 1px; border-bottom-style: dotted; display: block;
+}
+.sbOptions .sbGroup {
+	padding: 7px 0px 7px 3px; color: rgb(50, 50, 50); font-weight: bold; border-bottom-color: rgb(81, 81, 81); border-bottom-width: 1px; border-bottom-style: dotted; display: block;
+}
+.sbOptions .sbSub {
+	padding-left: 17px;
+}
+.items-per-page .sbHolder {
+	width: 60px;
+}
+.items-per-page .sbSelector {
+	width: 60px;
+}
+.items-per-page .sbOptions {
+	width: 60px;
+}
+.items-per-page .sbOptions li a {
+	text-align: center;
+}
+#a-zColumnize .letter-head {
+	color: rgb(247, 182, 0); font-size: 250%;
+}
+#a-zColumnize .indexItem {
+	padding-top: 20px; border-top-color: rgb(204, 204, 204); border-top-width: 2px; border-top-style: solid;
+}
+#site-columnize {
+	padding-top: 10px; margin-top: 0px;
+}
+.site-index-cont h1 {
+	padding-bottom: 0px !important; border-bottom-color: rgb(204, 204, 204); border-bottom-width: 1px; border-bottom-style: solid;
+}
+#site-columnize .letter-head {
+	color: rgb(117, 120, 123); font-size: 160%; margin-bottom: 7px; border-bottom-color: rgb(204, 204, 204); border-bottom-width: 2px; border-bottom-style: solid;
+}
+#site-columnize .indexItem {
+	padding-bottom: 30px; padding-left: 20px;
+}
+#site-columnize .column {
+	padding-right: 3px;
+}
+#fltTop {
+	right: 175px; bottom: 275px; display: none; position: fixed; z-index: 9999;
+}
+.dynamictopic-backtotop .back-to-top {
+	padding-bottom: 10px;
+}
+.buttonControlsAddFav .medium {
+	background: rgb(116, 116, 116) !important; border-color: inherit; width: 120px; height: 30px; color: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 13px; cursor: pointer;
+}
+.buttonControlsAddFav .mediumActive {
+	border-color: inherit; width: 120px; height: 30px; color: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 16px; cursor: pointer;
+}
+.Add-Fav-OkBtn .small {
+	background: rgb(116, 116, 116) !important; border-color: inherit; width: 50px; height: 30px; color: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 16px; display: inline-block; cursor: pointer;
+}
+.Add-Fav-OkBtn .smallActive {
+	border-color: inherit; width: 50px; height: 30px; color: rgb(255, 255, 255); font-family: Arial, sans-serif; font-size: 16px; display: inline-block; cursor: pointer;
+}
+.qtip-bootstrap .qtip-titlebar {
+	padding: 14px 0px 3px 17px !important; border: currentColor !important; color: rgb(26, 31, 113) !important; font-size: 15px !important; background-color: rgb(255, 255, 255) !important;
+}
+.qtip-bootstrap .qtip-icon .ui-icon {
+	line-height: 28px !important;
+}
+.qtip-bootstrap {
+	box-shadow: 0px 0px 20px #666 !important;
+}
+.smallloader {
+	background: url("/_layouts/GVOLSharePointBranding/Images/small-loader.gif") no-repeat center !important; color: white;
+}
+.port-no-preview img {
+	padding: 11px 0px 0px 12px !important;
+}
+.nopreview {
+	padding: 11px 0px 0px 12px !important;
+}
+div#sectionPageTopTitle {
+	padding: 33px 20px 0px 25px; color: rgb(247, 182, 0); font-family: Arial; font-size: 16px; font-weight: bold;
+}
+.SupportingTitle-smallText {
+	font-size: 12px;
+}
+.noPaddingTop {
+	padding-top: 0px !important;
+}
+#aboutbar {
+	display: none;
+}
+.contentIndicator {
+	text-align: left; color: rgb(239, 132, 0); padding-left: 4px; font-size: 12px; font-weight: bold; vertical-align: baseline; display: none;
+}
+#ContentPage .contentIndicator {
+	line-height: normal !important;
+}
+.vol_help {
+	background: url("/_layouts/GVOLSharePointBranding/Images/vol_icon_help_sm.png"); margin: 1.5px 0px 0px 8px; width: 12px; height: 12px; display: inline-block; cursor: pointer;
+}
+.mozilla_trgt .vol_help {
+	margin: 2px 0px 0px 7px;
+}
+.mozilla_trgt .jScrollPaneContainer .mozilla_trgt .mostPopular_Documents_OuterDiv {
+	height: 290px;
+}
+.mozilla_trgt .mostPopular_Search_OuterDiv {
+	height: 290px;
+}
+.mostPopular_Documents_OuterDiv .mp-visainformation {
+	padding-bottom: 0px;
+}
+.mozilla_trgt .force-mp-hgt {
+	height: 286px !important;
+}
+#translCntr {
+	padding: 5px 15px 5px 13px; border: 2px solid rgb(26, 31, 113); width: 930px; font-size: 12px; margin-top: 10px; margin-left: 21px; display: none; background-color: rgb(242, 243, 255);
+}
+.note-icon {
+	padding-right: 13px;
+}
+.trans-ms-second {
+	padding-left: 4px;
+}
+.hide {
+	display: none !important;
+}
+.show {
+	display: block !important;
+}
+.section-trans-aval {
+	left: -320px !important;
+}
+.car-trans-indi {
+	margin-left: 0px !important;
+}
+.car-trans-aval {
+	top: 150px; position: absolute;
+}
+#pagecontent {
+	margin: 0px auto; width: 1000px; background-color: rgb(255, 255, 255);
+}
+#logoTable {
+	margin: 0px auto;
+}
+#navTable {
+	margin: 0px auto;
+}
+.slide-out-div a:link {
+	color: rgb(0, 62, 169);
+}
+.slide-out-div a:visited {
+	color: rgb(0, 62, 169);
+}
+.slide-out-div a:hover {
+	color: rgb(247, 182, 0);
+}
+.row-same-height {
+	width: 100%; display: table; table-layout: fixed;
+}
+.col-top {
+	vertical-align: top;
+}
+.col-same-height {
+	float: none !important; display: table-cell;
+}
+.slide-out-div {
+	background: rgb(255, 255, 255); padding: 0px; border: 1px solid rgb(174, 174, 174); width: 440px; font-family: Arial; z-index: 70000; min-height: 355px;
+}
+.sec-header {
+	padding: 12px 20px 0px 0px; height: 25px; margin-left: 20px; border-bottom-color: rgb(206, 206, 206); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.so-title {
+	width: 70%; color: rgb(247, 182, 0); font-size: 19px; font-weight: bold; float: left;
+}
+.so-close {
+	color: rgb(102, 102, 102); font-size: 12px; float: right; cursor: pointer;
+}
+.sec-content {
+	padding: 0px 10px 0px 20px; width: 410px; float: left;
+}
+.content-desc {
+	height: 45px; padding-top: 12px;
+}
+.content-desc-txt {
+	color: rgb(102, 102, 102); line-height: 17px; font-size: 13px;
+}
+.content-body {
+	margin-bottom: 32px; min-height: 170px;
+}
+.section-left-links {
+	width: 260px;
+}
+.section-right-links {
+	width: 150px; float: left;
+}
+.row-icons {
+	width: 100%; margin-bottom: 17px; float: left;
+}
+:last-child.row-icons {
+	margin-bottom: 0px;
+}
+.row-icons a {
+	width: 100%; text-align: center; float: left;
+}
+.col-typ1 {
+	width: 120px; text-align: center; float: left;
+}
+.col-typ1-icon {
+	width: auto; text-align: center; margin-bottom: 5px;
+}
+.qs-link-txt {
+	line-height: 17px; font-family: Arial; font-size: 12px;
+}
+.qs-link-txt:hover {
+	color: rgb(247, 182, 0);
+}
+.img-row-tiles {
+	margin: 0px auto; width: 50px; height: 50px;
+}
+.sec-right-title {
+	width: 100%; padding-bottom: 8px; margin-bottom: 13px; border-bottom-color: rgb(206, 206, 206); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.title-txt {
+	color: rgb(51, 51, 51); font-size: 14px; font-weight: bold;
+}
+.cont-links {
+	width: 150px; float: left;
+}
+.link-howto {
+	width: 100%; margin-bottom: 15px; float: left;
+}
+:last-child.link-howto {
+	margin-bottom: 0px;
+}
+.cont-links a {
+	width: 130px; margin-left: 8px; float: left;
+}
+.cont-links a:hover {
+	color: rgb(247, 182, 0);
+}
+.link-howto-bullet {
+	padding: 2px 0px 3px; width: 10px; height: 12px; float: left;
+}
+.sec-footer {
+	padding: 17px 10px 10px 18px; width: 94%; border-top-color: rgb(206, 206, 206); border-top-width: 1px; border-top-style: solid; float: left;
+}
+.footer-desc {
+	width: 80px; float: left;
+}
+.footer-data {
+	width: 330px; float: left;
+}
+.footer-data-row {
+	width: 100%; margin-bottom: 5px; float: left;
+}
+.footer-data-row a {
+	padding: 1px 0px 0px; float: left;
+}
+.footer-data-col {
+	padding: 0px 0px 0px 20px; width: 145px; float: left;
+}
+.error-mainctr {
+	padding: 30px 20px; color: rgb(0, 35, 160); font-family: Arial; font-size: 16px; font-weight: bold;
+}
+.error-ul li {
+	
+}
+.error-ul {
+	padding: 10px 0px 0px 30px;
+}
+.error-submsg {
+	padding: 0px 40px; font-size: 13px;
+}
+.error-contact {
+	padding-top: 15px;
+}
+.jspContainer {
+	overflow: hidden; position: relative;
+}
+.jspPane {
+	position: absolute;
+}
+.jspVerticalBar {
+	top: 0px; width: 5px; height: 100%; right: 0px; position: absolute;
+}
+.jspHorizontalBar {
+	background: red; left: 0px; width: 100%; height: 5px; bottom: 0px; position: absolute;
+}
+.jspCap {
+	display: none;
+}
+.jspHorizontalBar .jspCap {
+	float: left;
+}
+.jspTrack {
+	background: url("/_layouts/gvolsharepointbranding/images/scroll-bg.png") repeat-y 0px 0px; top: 9px; width: 5px !important; height: 90%; right: 0px; position: absolute; cursor: pointer;
+}
+.jspDrag {
+	background: url("/_layouts/gvolsharepointbranding/images/scroll-drag.png") no-repeat left rgb(102, 102, 102) !important; left: 0px; top: 0px; width: 4px !important; overflow: hidden; position: absolute; cursor: pointer;
+}
+.jspHorizontalBar .jspTrack {
+	height: 100%; float: left;
+}
+.jspHorizontalBar .jspDrag {
+	height: 100%; float: left;
+}
+.jspArrow {
+	background: rgb(80, 80, 109); margin: 0px; padding: 0px; text-indent: -20000px; display: block; cursor: pointer;
+}
+.jspDisabled.jspArrow {
+	background: rgb(128, 128, 141); cursor: default;
+}
+.jspVerticalBar .jspArrow {
+	height: 16px;
+}
+.jspHorizontalBar .jspArrow {
+	width: 16px; height: 100%; float: left;
+}
+.jspVerticalBar .jspArrow:focus {
+	
+}
+.jspCorner {
+	background: rgb(238, 238, 244); height: 100%; float: left;
+}
+* html .jspCorner {
+	margin: 0px -3px 0px 0px;
+}
+.jspVerticalBar .jspArrowUp {
+	background: url("/_layouts/gvolsharepointbranding/images/scroll-arrows.png") no-repeat 0px 3px !important; top: 0px; width: 6px !important; height: 9px; right: 0px; text-indent: -2000px; overflow: hidden; display: block; position: absolute; z-index: 1;
+}
+.jspVerticalBar .jspArrowDown {
+	background: url("/_layouts/gvolsharepointbranding/images/scroll-arrows.png") no-repeat 0px -12px !important; width: 6px !important; height: 9px; right: 0px; bottom: 0px; text-indent: -2000px; overflow: hidden; display: block; position: absolute; z-index: 1;
+}
+.ms-wpContentDivSpace .jspScrollable {
+	height: 307px !important; margin-top: -1px;
+}
+.mostPopular_Page_OuterDiv {
+	padding: 15px 5px 10px 0px;
+}
+.mostPopular_Documents_OuterDiv {
+	padding: 15px 5px 10px 0px;
+}
+.mostPopular_Search_OuterDiv {
+	padding: 15px 5px 10px 0px;
+}
+.sectionnav-scroll#sectionnav .jspVerticalBar {
+	width: 5px; right: 1px;
+}
+#manageServices {
+	border: 1px solid rgb(230, 230, 230);
+}
+#manageServicesPanel .jspTrack {
+	top: 0px; background-image: none !important;
+}
+#Mylinks .jspTrack {
+	top: 0px; background-image: none !important;
+}

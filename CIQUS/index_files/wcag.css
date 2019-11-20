@@ -1,0 +1,369 @@
+.clearfix::after {
+	height: 0px; clear: both; font-size: 0px; display: block; visibility: hidden; content: " ";
+}
+.screen-reader-only {
+	left: -9999px !important; top: -9999px !important; position: absolute;
+}
+.hide-from-both {
+	display: none; visibility: hidden;
+}
+.hide-from-everyone {
+	display: none; visibility: hidden;
+}
+.right {
+	float: right;
+}
+.left {
+	float: left;
+}
+.clearfix::after {
+	height: 0px; clear: both; font-size: 0px; display: block; visibility: hidden; content: " ";
+}
+#skipToContent {
+	left: 50%; top: 5px; text-align: center; font-size: 1em; font-weight: 700; text-decoration: underline; display: block; z-index: 21030; background-color: rgb(239, 239, 239) !important;
+}
+.skipActive#skipToContent {
+	background: rgb(255, 255, 255); margin: 0px 0px 0px -7.5em; padding: 0.7em 0px; height: 1em;
+}
+#skipToContent {
+	color: rgb(0, 35, 160); outline-width: 0px;
+}
+#skipToContent:hover {
+	color: rgb(255, 160, 0);
+}
+.contentinner .page-header {
+	color: rgb(102, 102, 102) !important;
+}
+#logoTable #shpvisalogo > a > img {
+	float: none !important;
+}
+#logoTable #shpvisalogo > a:focus {
+	
+}
+#logoTable #gVol_VisaTagline {
+	text-align: right;
+}
+#logoTable #gVol_VisaTagline > a > img {
+	float: none !important;
+}
+#logoTable #gVol_VisaTagline > a:focus {
+	
+}
+.sbHolder .sbSelector {
+	width: 100%; cursor: pointer;
+}
+#myInfoBussInfo .myprofile_sectionlanding-nav {
+	padding: 0px; top: 19px; width: 7%; display: block; position: relative;
+}
+.sectionlanding-nav {
+	float: left;
+}
+.REPLACED.SS-centercolumn {
+	float: left; min-height: 580px;
+}
+.tabs legend {
+	position: absolute;
+}
+.tabs legend + span {
+	margin-left: 200px;
+}
+#ctl00_logoffbutton {
+	display: none; visibility: hidden;
+}
+#ctl00_btnLink {
+	display: none; visibility: hidden;
+}
+#ctl00_ProfilebtnLink1 {
+	display: none; visibility: hidden;
+}
+#navTable {
+	height: 40px; position: relative;
+}
+*:focus {
+	outline-width: 0px; box-shadow: none;
+}
+.commercial *:focus {
+	outline-width: thin;
+}
+.commercial input[type=text]:focus {
+	border-color: antiquewhite; outline: 0px; box-shadow: 0px 0px 3px;
+}
+.commercial input[type=password]:focus {
+	border-color: antiquewhite; outline: 0px; box-shadow: 0px 0px 3px;
+}
+.commercial .link:focus {
+	color: rgb(255, 160, 0);
+}
+.commercial #primary-navigation .primary-navigation-link:focus {
+	color: rgb(247, 182, 0); border-bottom-color: rgb(247, 182, 0);
+}
+.commercial #primary-navigation #primary-navigation-item-home .primary-navigation-link:focus {
+	background: url("/_layouts/gvolsharepointbranding/images/home-hover.png") no-repeat 14px 4px; border-bottom-color: transparent;
+}
+.commercial .footer a:focus {
+	color: rgb(255, 160, 0);
+}
+.commercial a:focus {
+	color: rgb(255, 160, 0);
+}
+.commercial .link:focus {
+	color: rgb(255, 160, 0) !important;
+}
+.commercial #ProfileMenu .menuitemradio a:focus {
+	color: rgb(255, 255, 255); background-color: rgb(102, 102, 102);
+}
+.commercial #ProfileMenu .menuitem-active.menuitem-hasmenu:focus {
+	border: 1px solid rgb(204, 204, 204); color: rgb(247, 182, 0);
+}
+.commercial #sectionnav [role=menuitem] a:focus {
+	color: rgb(255, 160, 0);
+}
+.commercial #sectionnav [role=menuitemradio] a:focus {
+	color: rgb(255, 160, 0);
+}
+.commercial #sectionnav [role=menuitem] a:focus .withSubCollapsed {
+	
+}
+.commercial #sectionnav [role=menuitem] a:focus .withSubExpanded {
+	
+}
+.commercial #sectionnav [role=menuitem] a .withSubCollapsed:focus {
+	color: rgb(255, 160, 0);
+}
+.commercial #sectionnav [role=menuitem] a .withSubExpanded:focus {
+	color: rgb(255, 160, 0);
+}
+.commercial #myInfoBussInfo .ss-link:focus {
+	color: rgb(255, 160, 0);
+}
+.commercial #myEmailAccInfo .ss-link:focus {
+	color: rgb(255, 160, 0);
+}
+.commercial #myPasswordInfo .ss-link:focus {
+	color: rgb(255, 160, 0);
+}
+.commercial #userNameInfo .ss-link:focus {
+	color: rgb(255, 160, 0);
+}
+.commercial #securityQuesInfo .ss-link:focus {
+	color: rgb(255, 160, 0);
+}
+.commercial #myJobInfo .ss-link:focus {
+	color: rgb(255, 160, 0);
+}
+body.high-contrast #s4-searcharea #onetIDGoSearch:focus::before {
+	color: rgb(178, 98, 0);
+}
+body.high-contrast #s4-searcharea #onetIDGoSearch:hover {
+	color: rgb(178, 98, 0);
+}
+body.high-contrast #s4-searcharea #onetIDGoSearch:focus {
+	color: rgb(178, 98, 0);
+}
+body.high-contrast #sectionnav [role=menuitem] a:hover {
+	color: rgb(178, 98, 0);
+}
+body.high-contrast #sectionnav [role=menuitemradio] a:hover {
+	color: rgb(178, 98, 0);
+}
+body.high-contrast #sectionnav [role=menuitem] a:focus {
+	color: rgb(178, 98, 0);
+}
+body.high-contrast #sectionnav [role=menuitemradio] a:focus {
+	color: rgb(178, 98, 0);
+}
+body.high-contrast #sectionnav [role=menuitem] a .withSubCollapsed:focus {
+	color: rgb(178, 98, 0);
+}
+body.high-contrast #sectionnav [role=menuitem] a .withSubExpanded:focus {
+	color: rgb(178, 98, 0);
+}
+body.high-contrast #sectionnav [role=menuitem] a .withSubCollapsed:hover {
+	color: rgb(178, 98, 0);
+}
+body.high-contrast #sectionnav [role=menuitem] a .withSubExpanded:hover {
+	color: rgb(178, 98, 0);
+}
+body.high-contrast #sectionnav [role=menuitem].selected > a {
+	color: rgb(178, 98, 0);
+}
+body.high-contrast #sectionnav .secnavcontainer a:hover {
+	color: rgb(178, 98, 0);
+}
+body.high-contrast #sectionnav .selected.snavnode > a.selected-parent:hover {
+	color: rgb(178, 98, 0);
+}
+body.high-contrast #sectionnav .selected.snavnode > a {
+	color: rgb(178, 98, 0);
+}
+body.high-contrast #sectionnav .snavnode:hover > a {
+	color: rgb(178, 98, 0);
+}
+body.high-contrast #sectionnav .snavsubnode > a.activelink {
+	color: rgb(178, 98, 0);
+}
+body.high-contrast .footer a:hover {
+	color: rgb(178, 98, 0);
+}
+body.high-contrast .footer a:focus {
+	color: rgb(178, 98, 0);
+}
+body.high-contrast #myInfoBussInfo .ss-link:focus {
+	color: rgb(178, 98, 0);
+}
+body.high-contrast #myEmailAccInfo .ss-link:focus {
+	color: rgb(178, 98, 0);
+}
+body.high-contrast #myPasswordInfo .ss-link:focus {
+	color: rgb(178, 98, 0);
+}
+body.high-contrast #userNameInfo .ss-link:focus {
+	color: rgb(178, 98, 0);
+}
+body.high-contrast #securityQuesInfo .ss-link:focus {
+	color: rgb(178, 98, 0);
+}
+body.high-contrast #myJobInfo .ss-link:focus {
+	color: rgb(178, 98, 0);
+}
+body.high-contrast .profile-header {
+	color: rgb(178, 98, 0);
+}
+body.high-contrast #skipToContent:hover {
+	color: rgb(178, 98, 0);
+}
+body.high-contrast .link:focus {
+	color: rgb(178, 98, 0);
+}
+body.high-contrast #sectionnav .selected.snavnode > a.selected-parent {
+	color: rgb(51, 51, 51);
+}
+body.high-contrast .menuitem-active::before {
+	color: rgb(178, 98, 0) !important;
+}
+body.high-contrast #ProfileMenu .menuitem-active .menuitem-logoff {
+	color: rgb(178, 98, 0) !important;
+}
+body.high-contrast .validationfocous {
+	color: rgb(238, 0, 0) !important;
+}
+body.high-contrast .req-field {
+	color: rgb(238, 0, 0) !important;
+}
+body.high-contrast .err-container {
+	color: rgb(238, 0, 0) !important;
+}
+body.high-contrast #myInfoBussInfo .sbOptions {
+	background: rgb(255, 255, 255);
+}
+body.high-contrast #securityQuesContent .sbOptions {
+	background: rgb(255, 255, 255);
+}
+body.high-contrast .section-header span small {
+	color: rgb(118, 118, 118) !important;
+}
+body.high-contrast .joblists span.JbListitem small {
+	color: rgb(118, 118, 118) !important;
+}
+body.high-contrast #sectionnav [role=menuitem].selected > a.selected-parent {
+	color: rgb(51, 51, 51);
+}
+body.high-contrast #sectionnav .withSubCollapsed {
+	background: none !important;
+}
+body.high-contrast #sectionnav .withSubExpanded {
+	background: none !important;
+}
+body.high-contrast #sectionnav .withSubCollapsed:hover {
+	color: rgb(247, 182, 0);
+}
+body.high-contrast #sectionnav .withSubExpanded:hover {
+	color: rgb(247, 182, 0);
+}
+body.high-contrast #sectionnav .withSubCollapsed::after {
+	content: "\f196";
+}
+body.high-contrast #sectionnav .withSubExpanded::after {
+	content: "\f147";
+}
+body.high-contrast .footer a {
+	color: rgb(102, 102, 102);
+}
+body.high-contrast .footer div.copyright {
+	color: rgb(102, 102, 102);
+}
+body.high-contrast .approved span {
+	color: rgb(102, 102, 102);
+}
+body.high-contrast #sectionnav .selected.snavnode {
+	border-left-color: rgb(178, 98, 0);
+}
+body.high-contrast #sectionnav #sectionnavsubcategory {
+	border-left-color: rgb(178, 98, 0);
+}
+body.high-contrast input[type=submit] {
+	color: rgb(255, 255, 255) !important; background-image: none !important; background-color: rgb(178, 98, 0) !important;
+}
+body.high-contrast .link-button {
+	color: rgb(255, 255, 255) !important; background-image: none !important; background-color: rgb(178, 98, 0) !important;
+}
+body.high-contrast :-ms-input-placeholder {
+	color: rgb(136, 136, 136) !important;
+}
+.focus-black .menuitem:focus {
+	outline: black dotted 1px;
+}
+.focus-black a:focus {
+	outline: black dotted 1px;
+}
+.focus-black input[type=submit]:focus {
+	outline: black dotted 1px;
+}
+.focus-black .withSubCollapsed:focus {
+	outline: black dotted 1px;
+}
+.focus-black .withSubExpanded:focus {
+	outline: black dotted 1px;
+}
+.focus-black input[type=text]:focus {
+	outline: 0px; box-shadow: 0px 0px 2px #000;
+}
+.focus-black input[type=password]:focus {
+	outline: 0px; box-shadow: 0px 0px 2px #000;
+}
+.focus-black select:focus {
+	outline: 0px; box-shadow: 0px 0px 2px #000;
+}
+.focus-black .sbHolder:focus {
+	outline: 0px; box-shadow: 0px 0px 2px #000;
+}
+.focus-black .sbSelector:focus {
+	outline: 0px; box-shadow: 0px 0px 2px #000;
+}
+.focus-blue input[type=text]:focus {
+	border-color: rgb(77, 144, 254) !important; outline: 0px;
+}
+.focus-blue input[type=password]:focus {
+	border-color: rgb(77, 144, 254) !important; outline: 0px;
+}
+.focus-blue *:focus {
+	outline: rgb(77, 144, 254) solid thin;
+}
+.login-gvol button:focus {
+	outline-width: 0px;
+}
+.login-gvol a:focus {
+	outline-width: 0px;
+}
+.wcag-high-contrast-switch:focus {
+	color: rgb(153, 153, 153) !important;
+}
+.wcag-high-contrast-switch:hover {
+	color: rgb(153, 153, 153) !important;
+}
+body.high-contrast .wcag-high-contrast-switch:focus {
+	color: rgb(102, 102, 102) !important;
+}
+body.high-contrast .wcag-high-contrast-switch:hover {
+	color: rgb(102, 102, 102) !important;
+}
