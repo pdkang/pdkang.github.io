@@ -1,0 +1,1239 @@
+#layout-table {
+	font: 12px/1.6em Arial; padding: 0px; border: 0px currentColor; width: 998px; font-size-adjust: none; font-stretch: normal;
+}
+td.column-wide {
+	width: 668px;
+}
+div.zone1 {
+	margin: 0px 14px 14px 15px;
+}
+div.zone2 {
+	margin: 0px 14px 14px 15px;
+}
+table.zone2 {
+	margin: 0px 14px 14px 15px;
+}
+table.zone3 {
+	margin: 0px 14px 14px 15px;
+}
+div.zone1 .s4-wpcell-plain {
+	background-color: white;
+}
+div.zone2 .s4-wpcell-plain {
+	background-color: white;
+}
+div.zone5 .s4-wpcell-plain {
+	background-color: white;
+}
+div.zone6 .s4-wpcell-plain {
+	background-color: white;
+}
+div.zone7 .s4-wpcell-plain {
+	background-color: white;
+}
+div.zone8 .s4-wpcell-plain {
+	background-color: white;
+}
+div.zone9 .s4-wpcell-plain {
+	background-color: white;
+}
+div.zone1 {
+	margin: 0px 14px 14px 15px; background-color: white;
+}
+table.zone2 {
+	background: url("/_layouts/GVOLSharePointBranding/Images/title_bg.gif") repeat-x rgb(255, 255, 255); margin: 0px 0px 0px 15px !important; padding: 0px; width: 639px !important;
+}
+div.zone3 {
+	width: 300px; float: left;
+}
+div.zone4 {
+	margin: 11px 0px 0px; width: 300px; float: right;
+}
+.r-linewrap {
+	display: none;
+}
+td.column-narrow {
+	width: 330px;
+}
+div.zone5 {
+	width: 310px; margin-bottom: 14px;
+}
+div.zone7 {
+	width: 310px; margin-bottom: 14px;
+}
+div.zone5 {
+	
+}
+div.zone9 {
+	width: 310px; padding-bottom: 17px !important; margin-bottom: 14px; background-color: rgb(255, 255, 255) !important; _padding-bottom: 3px;
+}
+div.zone6 {
+	width: 310px;
+}
+div.zone8 {
+	width: 310px; margin-top: 10px;
+}
+div.gVol_UserServices_appsAndServicesBackgroundGr {
+	font: 11px/1.6em Arial, san-serif; padding: 0px 1px 1px 10px; width: 205px; height: 357px; color: rgb(102, 102, 102); border-top-color: rgb(255, 255, 255); border-bottom-color: rgb(174, 174, 174); border-top-width: 11px; border-bottom-width: 1px; border-top-style: solid; border-bottom-style: solid; display: block; font-size-adjust: none; font-stretch: normal;
+}
+div.gVol_UserServices_servicesHeader {
+	font: bold 14px/normal Arial, san-serif; color: rgb(51, 51, 51); padding-bottom: 2px; border-bottom-color: rgb(174, 174, 174); border-bottom-width: 1px; border-bottom-style: solid; white-space: nowrap; font-size-adjust: none; font-stretch: normal;
+}
+#gVol_UserServices_scrollView {
+	line-height: 15px; font-family: Arial; font-size: 12px; margin-left: 0px; -ms-overflow-y: auto;
+}
+#gVol_UserServices_scrollView > a:first-child {
+	padding-top: 12px;
+}
+#gVol_UserServices_scrollView #tblServices a {
+	padding: 10px 0px 12px; line-height: normal !important; float: left;
+}
+div.gVol_UserServices_appsAndServicesBackgroundGr a:link {
+	font: 11px/1.8em Arial; color: rgb(0, 62, 169); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+div.gVol_UserServices_appsAndServicesBackgroundGr a:active {
+	font: 11px/1.8em Arial; color: rgb(0, 62, 169); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+div.gVol_UserServices_appsAndServicesBackgroundGr a:visited {
+	font: 11px/1.8em Arial; color: rgb(0, 62, 169); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+#gVol_UserServices_scrollView a:link {
+	font: 11px/1.8em Arial; color: rgb(0, 62, 169); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+#gVol_UserServices_scrollView a:active {
+	font: 11px/1.8em Arial; color: rgb(0, 62, 169); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+#gVol_UserServices_scrollView a:visited {
+	font: 11px/1.8em Arial; color: rgb(0, 62, 169); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+div.gVol_UserServices_appsAndServicesBackgroundGr a:hover {
+	color: rgb(247, 182, 0); text-decoration: none;
+}
+#gVol_UserServices_scrollView a:hover {
+	color: rgb(247, 182, 0); text-decoration: none;
+}
+.gVol_ImageCar_Image {
+	border-color: rgb(247, 182, 0); width: 450px; height: 286px; border-top-width: 1px; border-bottom-width: thin; border-top-style: solid; border-bottom-style: solid; float: left; position: relative;
+}
+.gVol_ImageCar_text {
+	left: 0px; width: 381px; height: 50px; bottom: 0px; margin-left: 7px; position: absolute;
+}
+.gVol_ImageCar_text p {
+	color: rgb(102, 102, 102); font-size: 12px; margin-right: 10px; margin-left: 10px;
+}
+.gVol_ImageCar_backgroundGr {
+	font: 11px/1.6em Arial, san-serif; margin: 0px 0px 0px 9px; padding: 0px 15px 5px; width: 381px; height: 345px; color: rgb(102, 102, 102); border-top-color: rgb(255, 255, 255); border-bottom-color: rgb(255, 255, 255); border-top-width: 11px; border-bottom-width: 9px; border-top-style: solid; border-bottom-style: solid; display: block; font-size-adjust: none; font-stretch: normal; box-shadow: 0px 0px 15px 0px #cdcdcd; -moz-box-shadow: 0 0 15px #cdcdcd; -webkit-box-shadow: 0 0 15px #cdcdcd;
+}
+#gVol_ImageCar_topRowContainer {
+	font: bold 14px/normal Arial, san-serif; padding-bottom: 22px; border-bottom-color: rgb(247, 182, 0); border-bottom-width: 1px; border-bottom-style: solid; white-space: nowrap; font-size-adjust: none; font-stretch: normal;
+}
+.gVol_ImageCar_HeaderText {
+	height: 18px; overflow: hidden; float: left;
+}
+.gVol_ImageCar_next {
+	background: url("/_layouts/gvolsharepointbranding/images/vol_arrow_right.png"); top: 6px; width: 17px; height: 19px; margin-left: 10px; display: inline-block; position: relative; cursor: pointer;
+}
+.gVol_ImageCar_next_disabled {
+	background: url("/_layouts/gvolsharepointbranding/images/vol_arrow_right_inactive.png") !important; cursor: default !important;
+}
+.gVol_ImageCar_next img {
+	margin: 0px; padding: 0px; top: 6px; position: relative; cursor: pointer;
+}
+.gVol_ImageCar_prev {
+	background: url("/_layouts/gvolsharepointbranding/images/vol_arrow_left.png"); top: 6px; width: 17px; height: 19px; margin-right: 10px; display: inline-block; position: relative; cursor: pointer;
+}
+.gVol_ImageCar_prev_disabled {
+	background: url("/_layouts/gvolsharepointbranding/images/vol_arrow_left_inactive.png"); cursor: default !important;
+}
+.gVol_ImageCar_prev img {
+	margin: 0px; padding: 0px; top: 6px; position: relative; cursor: pointer;
+}
+.gVol_ImageCar_title {
+	color: rgb(247, 182, 0); display: none; position: relative; opacity: 0;
+}
+.gVol_ImageCar_displayed {
+	color: rgb(247, 182, 0); display: block !important; filter: none !important; position: relative !important; opacity: 1 !important;
+}
+.gVol_ImageCar_title a:link {
+	color: rgb(247, 182, 0) !important; font-size: 14px; font-weight: bold; text-decoration: none;
+}
+.gVol_ImageCar_title a:active {
+	color: rgb(247, 182, 0) !important; font-size: 14px; font-weight: bold; text-decoration: none;
+}
+.gVol_ImageCar_title a:visited {
+	color: rgb(247, 182, 0) !important; font-size: 14px; font-weight: bold; text-decoration: none;
+}
+.gVol_ImageCar_displayed a:link {
+	color: rgb(247, 182, 0) !important; font-size: 14px; font-weight: bold; text-decoration: none;
+}
+.gVol_ImageCar_displayed a:active {
+	color: rgb(247, 182, 0) !important; font-size: 14px; font-weight: bold; text-decoration: none;
+}
+.gVol_ImageCar_displayed a:visited {
+	color: rgb(247, 182, 0) !important; font-size: 14px; font-weight: bold; text-decoration: none;
+}
+.gVol_ImageCar_title a:hover {
+	color: rgb(247, 182, 0) !important; text-decoration: none;
+}
+.gVol_ImageCar_displayed a:hover {
+	color: rgb(247, 182, 0) !important; text-decoration: none;
+}
+.gVol_ImageCar_learnmorebtn {
+	color: rgb(0, 62, 169) !important; font-size: 12px; font-weight: bold; margin-left: 1px; vertical-align: baseline !important;
+}
+.gVol_ImageCar_learnmorebtn a:link {
+	color: rgb(0, 62, 169) !important; line-height: 1px; padding-bottom: 0px; font-size: 12px; font-weight: bold; text-decoration: none !important; vertical-align: middle;
+}
+.gVol_ImageCar_learnmorebtn a:active {
+	color: rgb(0, 62, 169) !important; line-height: 1px; padding-bottom: 0px; font-size: 12px; font-weight: bold; text-decoration: none !important; vertical-align: middle;
+}
+.gVol_ImageCar_learnmorebtn a:visited {
+	color: rgb(0, 62, 169) !important; line-height: 1px; padding-bottom: 0px; font-size: 12px; font-weight: bold; text-decoration: none !important; vertical-align: middle;
+}
+.gVol_ImageCar_learnmorebtn a:hover {
+	color: rgb(247, 182, 0) !important; text-decoration: none !important;
+}
+#gVol_ImageCar_movement {
+	margin: auto; width: 380px; height: 25px; text-align: center; color: gray; padding-top: 4px; position: relative;
+}
+#gVol_ImageCar_movement span {
+	background: url("/_layouts/gvolsharepointbranding/images/sprites_gray.gif") no-repeat -665px -830px; margin: 0px 5px; padding: 0px 3px; width: 12px; height: 25px; color: rgb(204, 204, 204); font-size: 20px; display: inline-block; position: relative; cursor: pointer;
+}
+#gVol_ImageCar_movement span.gVol_ImageCar_active {
+	background: url("/_layouts/gvolsharepointbranding/images/sprites_gray.gif") no-repeat -637px -830px; color: rgb(247, 182, 0); cursor: default;
+}
+#gVol_ImageCar_gallery .gVol_ImageCar_slide {
+	width: 381px; display: none; position: relative; z-index: 1; opacity: 0;
+}
+#gVol_ImageCar_gallery .gVol_ImageCar_current {
+	height: 290px; display: block !important; opacity: 1 !important;
+}
+#gVol_ImageCar_gallery .gVol_ImageCar_slide div.imgtxt {
+	background: rgb(255, 255, 255); padding: 4px 10px 0px; left: 0px; top: 240px; width: 361px !important; color: rgb(102, 102, 102); line-height: normal !important; font-family: Arial; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; position: absolute; z-index: 600; font-size-adjust: none; font-stretch: normal; opacity: 0.75;
+}
+#gVol_ImageCar_gallery .gVol_ImageCar_slide div.imgtxt p {
+	margin: 0px;
+}
+#gVol_ImageCar_gallery .gVol_ImageCar_slide div.imgtxt em {
+	vertical-align: baseline;
+}
+#gVol_ImageCar_gallery .gVol_ImageCar_slide div.imgtxt strong {
+	vertical-align: baseline;
+}
+#gVol_ImageCar_gallery img {
+	width: 381px;
+}
+#gVol_ImageCar_gallery {
+	border-width: 0px medium thin; border-style: solid none; border-color: rgb(247, 182, 0) rgb(0, 255, 0); width: 381px; height: 295px;
+}
+#mp-wrapper {
+	font: 11px/1.6em Arial, san-serif; width: auto; color: rgb(102, 102, 102); padding-top: 5px; border-right-color: white; border-right-width: 10px; border-right-style: solid; display: block; font-size-adjust: none; font-stretch: normal;
+}
+.mp-MainTitle {
+	color: rgb(102, 102, 102) !important; padding-top: 10px !important; padding-bottom: 5px !important; font-family: Arial, sans-serif !important; font-size: 14px !important; background-color: rgb(255, 255, 255) !important;
+}
+.mp-tab {
+	font: 13px/1.6em Arial; padding: 5px 0px; width: 99px; height: 15px; text-align: center; color: rgb(153, 153, 153); float: left; cursor: pointer; font-size-adjust: none; font-stretch: normal; background-image: url("/_layouts/gvolsharepointbranding/images/Blankbackground_Tab.png"); background-repeat: repeat-x;
+}
+.mp-activeTab {
+	font: 13px/1.6em Arial; color: rgb(102, 102, 102); font-size-adjust: none; font-stretch: normal; background-image: url("/_layouts/gvolsharepointbranding/images/Grey_SideButton.png"); background-repeat: repeat-x;
+}
+.mp-tabline {
+	width: 0px; height: 25px; border-left-color: rgb(153, 153, 153); border-left-width: 1px; border-left-style: solid; float: left;
+}
+#mp-tabBodies {
+	width: 290px; padding-bottom: 15px; clear: both; background-color: rgb(255, 255, 255);
+}
+.mp-tabBody {
+	clear: both; display: none;
+}
+.mp-activeBody {
+	font: 12px/1.6em Arial; width: 290px; height: 100%; color: rgb(102, 102, 102); display: block; font-size-adjust: none; font-stretch: normal;
+}
+.mp-visainformation {
+	font: 11px/1.6em Arial; padding-top: 3px; float: left; font-size-adjust: none; font-stretch: normal;
+}
+.mp-visanumbers {
+	font: 11px/1.6em Arial; padding-top: 3px; float: left; font-size-adjust: none; font-stretch: normal;
+}
+.mp-visafileinfo {
+	font: 10px/1.2em Arial; width: 100%; color: rgb(102, 102, 102); padding-top: 3px; padding-bottom: 13px; padding-left: 10px; clear: left; float: left; font-size-adjust: none; font-stretch: normal;
+}
+.mp-visanumbers {
+	width: 20px; color: rgb(102, 102, 102); clear: left;
+}
+.mp-visainformation {
+	width: 250px; padding-bottom: 14px;
+}
+.mp-visainformation a {
+	font: 11px/1.2em Arial !important; color: rgb(0, 62, 169); text-decoration: none; font-size-adjust: none !important; font-stretch: normal !important;
+}
+.mp-visainformation a:link {
+	width: 250px; color: rgb(0, 62, 169); text-decoration: none;
+}
+.mp-visainformation a:active {
+	width: 250px; color: rgb(0, 62, 169); text-decoration: none;
+}
+.mp-visainformation a:visited {
+	width: 250px; color: rgb(0, 62, 169); text-decoration: none;
+}
+.mp-MainTitle {
+	color: rgb(102, 102, 102) !important; padding-top: 10px !important; padding-bottom: 5px !important; font-family: Arial, sans-serif !important; font-size: 14px !important; background-color: rgb(255, 255, 255) !important;
+}
+#gVol_userFavorites_userFavoritesContainer {
+	font: 11px/1.6em Arial, san-serif; width: 614px; height: auto; color: rgb(102, 102, 102); padding-top: 10px; margin-top: -1px; border-right-color: white; border-left-color: rgb(174, 174, 174); border-right-width: 10px; border-left-width: 1px; border-right-style: solid; border-left-style: solid; display: block; min-height: 345px; font-size-adjust: none; font-stretch: normal;
+}
+.gVol_userFavorites_favLinksContainer {
+	width: 624px; height: 265px; right: 3px; margin-bottom: 10px; display: none; position: relative;
+}
+.gVol_userFavorites_currentList {
+	display: block;
+}
+.gVol_userFavorites_linksContainer2 {
+	padding: 0px 10px; width: 290px; line-height: normal; overflow: hidden; float: left;
+}
+.gVol_userFavorites_favLink {
+	
+}
+.gVol_userFavorites_clearBreak {
+	clear: left;
+}
+.gVol_userFavorites_favLinksFooter {
+	margin: 0px 0px 20px 28px; width: 608px; height: 20px; padding-top: 5px; padding-bottom: 3px; clear: both; border-bottom-color: rgb(174, 174, 174); border-bottom-width: 1px; border-bottom-style: solid; display: block;
+}
+img.gVol_userFavoritesImage {
+	margin-right: 5px;
+}
+.gVol_userFavorites_add {
+	margin: 90px 0px 10px; color: rgb(0, 62, 169) !important; vertical-align: baseline; float: left;
+}
+.gVol_userFavorites_edit {
+	left: 0px !important; margin-right: 10px; float: right;
+}
+.gVol_userFavorites_prev {
+	color: rgb(0, 62, 169); padding-left: 10px; float: left; cursor: pointer;
+}
+.gVol_userFavorites_next {
+	color: rgb(0, 62, 169); padding-left: 10px; float: right; cursor: pointer;
+}
+.gVol_userFavorites_prev.gVol_userFavorites_disabled {
+	color: rgb(131, 131, 131); cursor: default;
+}
+.gVol_userFavorites_next.gVol_userFavorites_disabled {
+	color: rgb(131, 131, 131); cursor: default;
+}
+a.gVol_userFavorites_favLink:link {
+	font: 11px/1.2em Arial; left: 20px; width: auto; color: rgb(0, 62, 169); padding-bottom: 10px; text-decoration: none; display: block; position: relative; font-size-adjust: none; font-stretch: normal;
+}
+a.gVol_userFavorites_favLink:active {
+	font: 11px/1.2em Arial; left: 20px; width: auto; color: rgb(0, 62, 169); padding-bottom: 10px; text-decoration: none; display: block; position: relative; font-size-adjust: none; font-stretch: normal;
+}
+a.gVol_userFavorites_favLink:visited {
+	font: 11px/1.2em Arial; left: 20px; width: auto; color: rgb(0, 62, 169); padding-bottom: 10px; text-decoration: none; display: block; position: relative; font-size-adjust: none; font-stretch: normal;
+}
+a.gVol_userFavorites_add:link {
+	font: 11px/1.2em Arial; left: 20px; width: auto; color: rgb(0, 62, 169); padding-bottom: 10px; text-decoration: none; display: block; position: relative; font-size-adjust: none; font-stretch: normal;
+}
+a.gVol_userFavorites_add:active {
+	font: 11px/1.2em Arial; left: 20px; width: auto; color: rgb(0, 62, 169); padding-bottom: 10px; text-decoration: none; display: block; position: relative; font-size-adjust: none; font-stretch: normal;
+}
+a.gVol_userFavorites_add:visited {
+	font: 11px/1.2em Arial; left: 20px; width: auto; color: rgb(0, 62, 169); padding-bottom: 10px; text-decoration: none; display: block; position: relative; font-size-adjust: none; font-stretch: normal;
+}
+a.gVol_userFavorites_edit:link {
+	font: 11px/1.2em Arial; left: 20px; width: auto; color: rgb(0, 62, 169); padding-bottom: 10px; text-decoration: none; display: block; position: relative; font-size-adjust: none; font-stretch: normal;
+}
+a.gVol_userFavorites_edit:active {
+	font: 11px/1.2em Arial; left: 20px; width: auto; color: rgb(0, 62, 169); padding-bottom: 10px; text-decoration: none; display: block; position: relative; font-size-adjust: none; font-stretch: normal;
+}
+a.gVol_userFavorites_edit:visited {
+	font: 11px/1.2em Arial; left: 20px; width: auto; color: rgb(0, 62, 169); padding-bottom: 10px; text-decoration: none; display: block; position: relative; font-size-adjust: none; font-stretch: normal;
+}
+a.gVol_userFavorites_add:hover {
+	color: rgb(247, 182, 0); text-decoration: none;
+}
+a.gVol_userFavorites_edit:hover {
+	color: rgb(247, 182, 0); text-decoration: none;
+}
+img.gVol_editiconImg {
+	margin: 0px 5px 0px 0px;
+}
+.gVol_userFavorites_prevNext {
+	padding-right: 25px; position: relative;
+}
+.gVol_userFavorites_prev a:link {
+	color: rgb(102, 102, 102); padding-left: 10px; font-weight: bold;
+}
+.gVol_userFavorites_prev a:active {
+	color: rgb(102, 102, 102); padding-left: 10px; font-weight: bold;
+}
+.gVol_userFavorites_prev a:visited {
+	color: rgb(102, 102, 102); padding-left: 10px; font-weight: bold;
+}
+.gVol_userFavorites_next a:link {
+	color: rgb(102, 102, 102); padding-left: 10px; font-weight: bold;
+}
+.gVol_userFavorites_next a:active {
+	color: rgb(102, 102, 102); padding-left: 10px; font-weight: bold;
+}
+.gVol_userFavorites_next a:visited {
+	color: rgb(102, 102, 102); padding-left: 10px; font-weight: bold;
+}
+.gVol_userFavorites_prev a:hover {
+	color: rgb(247, 182, 0); text-decoration: none;
+}
+.gVol_userFavorites_next a:hover {
+	color: rgb(247, 182, 0); text-decoration: none;
+}
+.gVol_userFavorites_next {
+	padding-left: 10px;
+}
+.gVol_userFavorites_disabled .gVol_userFavorites_prev {
+	display: none;
+}
+.gVol_userFavorites_disabled .gVol_userFavorites_next {
+	display: none;
+}
+#l-PromoWrapper {
+	width: 300px; border-left-color: rgb(255, 255, 255); border-left-width: 10px; border-left-style: solid; display: none; background-color: transparent;
+}
+#r-PromoWrapper {
+	width: 306px; right: 15px; border-right-color: rgb(255, 255, 255); border-right-width: 9px; border-right-style: solid; display: none; position: relative !important; background-color: transparent; _right: 0px;
+}
+#r-PromoWrapper a {
+	color: rgb(0, 62, 169) !important;
+}
+#r-PromoWrapper a:hover {
+	color: rgb(253, 160, 0) !important;
+}
+.l-MainTitle {
+	font: bold 14px/normal Arial; width: 620px; color: rgb(51, 51, 51); padding-top: 10px; font-size-adjust: none; font-stretch: normal;
+}
+.r-MainTitle {
+	font: bold 14px/normal Arial; padding: 3px 0px 6px; color: rgb(255, 255, 255); white-space: nowrap; visibility: hidden; font-size-adjust: none; font-stretch: normal;
+}
+.r-Line {
+	display: none;
+}
+.l-PromoTitle {
+	font: 14px/normal Arial; padding: 6px 0px 5px; color: rgb(102, 102, 102); font-size-adjust: none; font-stretch: normal;
+}
+.l-PromoTitle a {
+	font: 14px/normal Arial; padding: 6px 0px 5px; color: rgb(0, 62, 169); font-size-adjust: none; font-stretch: normal;
+}
+.r-PromoTitle {
+	font: 14px/normal Arial; padding: 6px 0px 5px; color: rgb(102, 102, 102); font-size-adjust: none; font-stretch: normal;
+}
+.r-PromoTitle a {
+	font: 14px/normal Arial; padding: 6px 0px 5px; color: rgb(0, 62, 169); font-size-adjust: none; font-stretch: normal;
+}
+.l-linewrap {
+	width: 290px;
+}
+l-body {
+	margin: 10px auto;
+}
+#l-c {
+	width: 290px; height: auto; padding-bottom: 15px;
+}
+#l-c p {
+	margin: 0px 0px 10px; line-height: normal;
+}
+#l-a {
+	
+}
+#l-b {
+	
+}
+#l-a {
+	width: auto; color: rgb(102, 102, 102); float: left;
+}
+#l-b {
+	font: 12px/1.6em Arial; color: rgb(102, 102, 102); padding-right: 10px; margin-left: 150px; font-size-adjust: none; font-stretch: normal;
+}
+#l-b li {
+	font: 12px/1.6em Arial; margin: 0px; color: rgb(0, 62, 169); padding-top: 5px; display: block; list-style-image: none; font-size-adjust: none; font-stretch: normal;
+}
+.l-LinkClick a:link {
+	font: 12px/1em Arial; color: rgb(0, 62, 169); text-decoration: none; margin-top: 5px; display: block; font-size-adjust: none; font-stretch: normal;
+}
+.l-LinkClick a:active {
+	font: 12px/1em Arial; color: rgb(0, 62, 169); text-decoration: none; margin-top: 5px; display: block; font-size-adjust: none; font-stretch: normal;
+}
+.l-LinkClick a:visited {
+	font: 12px/1em Arial; color: rgb(0, 62, 169); text-decoration: none; margin-top: 5px; display: block; font-size-adjust: none; font-stretch: normal;
+}
+.l-LinkClick a:hover {
+	color: rgb(247, 182, 0); text-decoration: none;
+}
+.l-LinkClick img {
+	border: 0px currentColor; margin-left: 3px; vertical-align: middle;
+}
+#l-clear {
+	clear: both;
+}
+#r-c {
+	width: 316px; padding-bottom: 0px; padding-left: 1px; min-height: 126px;
+}
+#r-b {
+	padding-left: 0px;
+}
+#r-b p {
+	margin: 0px 0px 10px; line-height: normal;
+}
+#r-a {
+	width: auto; color: rgb(102, 102, 102); padding-left: 1px; float: left;
+}
+#r-b {
+	font: 12px/1.6em Arial; color: rgb(102, 102, 102); padding-right: 20px; margin-left: 150px; font-size-adjust: none; font-stretch: normal;
+}
+#r-b li {
+	font: 12px/1.6em Arial; margin: 0px; color: rgb(0, 62, 169); padding-top: 5px; display: block; list-style-image: none; font-size-adjust: none; font-stretch: normal;
+}
+#r-b li img {
+	padding-left: 10px;
+}
+#r-clear {
+	clear: both;
+}
+.r-Surveybutton {
+	padding-top: 10px;
+}
+#gs-PromoWrapper {
+	font: 11px/1.6em Arial, san-serif; width: 290px; color: rgb(102, 102, 102); border-right-color: white; border-bottom-color: white; border-right-width: 10px; border-bottom-width: 10px; border-right-style: solid; border-bottom-style: solid; display: none; font-size-adjust: none; font-stretch: normal;
+}
+.gs-background_white {
+	width: 290px;
+}
+.gs-MainTitle {
+	width: 290px;
+}
+.gs-MainTitle {
+	font: bold 14px/normal Arial, san-serif; padding: 0px 0px 7px; color: rgb(51, 51, 51); border-bottom-color: rgb(174, 174, 174); border-bottom-width: 1px; border-bottom-style: solid; font-size-adjust: none; font-stretch: normal;
+}
+.gs-MainTitleSub {
+	padding: 10px 0px 4px; font-size: 12px;
+}
+.gs-MainTitleButton {
+	margin: 5px 0px 0px; padding: 0px 0px 0px 5px; border: 1px solid white; width: 285px; height: 25px; display: block;
+}
+.gs-MainTitleButton img {
+	display: none;
+}
+.gs-MainTitleButton a:link {
+	background: url("/_layouts/gvolsharepointbranding/images/Pagination_Arrow_Orange_Right.png") no-repeat left; padding: 0px 0px 0px 16px; color: rgb(0, 62, 169); text-decoration: none; display: block; _padding-top: 3px;
+}
+.gs-MainTitleButton a:active {
+	background: url("/_layouts/gvolsharepointbranding/images/Pagination_Arrow_Orange_Right.png") no-repeat left; padding: 0px 0px 0px 16px; color: rgb(0, 62, 169); text-decoration: none; display: block; _padding-top: 3px;
+}
+.gs-MainTitleButton a:visited {
+	background: url("/_layouts/gvolsharepointbranding/images/Pagination_Arrow_Orange_Right.png") no-repeat left; padding: 0px 0px 0px 16px; color: rgb(0, 62, 169); text-decoration: none; display: block; _padding-top: 3px;
+}
+.gs-MainTitleButton a:hover {
+	color: rgb(247, 182, 0); text-decoration: none;
+}
+#mp-wrapperHeader2 {
+	font: 11px/normal Arial, san-serif; width: 290px; color: rgb(102, 102, 102); margin-bottom: -10px; border-top-color: white; border-right-color: white; border-left-color: white; border-top-width: 14px; border-right-width: 10px; border-left-width: 10px; border-top-style: solid; border-right-style: solid; border-left-style: solid; position: relative; font-size-adjust: none; font-stretch: normal;
+}
+#mp-wrapperHeader2 {
+	margin: 0px; border: 0px solid white; width: 240px; padding-bottom: 2px; background-color: rgb(255, 255, 255);
+}
+.mp-MainTitle2 {
+	font: bold 14px/normal Arial, san-serif; font-size-adjust: none; font-stretch: normal;
+}
+.announcements-container-outer {
+	font: 11px/1.6em Arial, san-serif; margin: 0px 10px 0px 0px; width: 290px; color: rgb(102, 102, 102); padding-top: 14px; padding-left: 10px; border-left-color: rgb(174, 174, 174); border-left-width: 1px; border-left-style: solid; min-height: 345px; font-size-adjust: none; font-stretch: normal;
+}
+#vc-wrapper {
+	font: 11px/1.6em Arial, san-serif; margin: 0px 10px 0px 0px; width: 290px; color: rgb(102, 102, 102); padding-top: 14px; padding-left: 10px; border-left-color: rgb(174, 174, 174); border-left-width: 1px; border-left-style: solid; min-height: 345px; font-size-adjust: none; font-stretch: normal;
+}
+.announcements-container-outer {
+	margin-top: -1px; margin-bottom: 20px;
+}
+#announcements-container-inner {
+	width: 290px; margin-bottom: 0px;
+}
+.vc-tabBodies {
+	width: 290px;
+}
+a.vc-LinkClick:link {
+	font: 11px/1.2em Arial; margin: 0px; color: rgb(0, 62, 169); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+a.vc-LinkClick:active {
+	font: 11px/1.2em Arial; margin: 0px; color: rgb(0, 62, 169); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+a.vc-LinkClick:visited {
+	font: 11px/1.2em Arial; margin: 0px; color: rgb(0, 62, 169); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+a.gVol_announcements_announcementLink:link {
+	font: 11px/1.2em Arial; margin: 0px; color: rgb(0, 62, 169); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+a.gVol_announcements_announcementLink:active {
+	font: 11px/1.2em Arial; margin: 0px; color: rgb(0, 62, 169); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+a.gVol_announcements_announcementLink:visited {
+	font: 11px/1.2em Arial; margin: 0px; color: rgb(0, 62, 169); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+avc-LinkClick:hover {
+	color: rgb(247, 182, 0); text-decoration: none;
+}
+a.gVol_announcements_announcementLink:hover {
+	color: rgb(247, 182, 0); text-decoration: none;
+}
+div.vc-LinkClick {
+	font: bold 11px/1.2em Arial; bottom: 15px; color: rgb(0, 62, 169); text-decoration: none; position: relative; font-size-adjust: none; font-stretch: normal;
+}
+div.vc-LinkDescription {
+	font: 10px/1.6em Arial; height: 12px; bottom: 15px; color: rgb(102, 102, 102); padding-bottom: 8px; position: relative; font-size-adjust: none; font-stretch: normal;
+}
+.gVol_Announcements_dates {
+	font: 10px/1.6em Arial; height: 12px; color: rgb(102, 102, 102); font-size-adjust: none; font-stretch: normal;
+}
+.gVol_Announcements_dates {
+	font: 10px/1.6em Arial; height: 12px; color: rgb(102, 102, 102); font-size-adjust: none; font-stretch: normal;
+}
+.vc-SeeAllNews {
+	
+}
+.gVol_announcements_announcementsSubTitle {
+	display: none;
+}
+.gVol_announcements_announcementLinksFooter {
+	padding: 4px 0px;
+}
+.gVol_announcements_prevNext {
+	text-decoration: none; margin-top: 60px; cursor: pointer;
+}
+.gVol_announcements_prevNext a:link {
+	color: rgb(0, 62, 169) !important; text-decoration: none; margin-bottom: 0px; cursor: pointer;
+}
+.gVol_announcements_prevNext a:active {
+	color: rgb(0, 62, 169) !important; text-decoration: none; margin-bottom: 0px; cursor: pointer;
+}
+.gVol_announcements_prevNext a:visited {
+	color: rgb(0, 62, 169) !important; text-decoration: none; margin-bottom: 0px; cursor: pointer;
+}
+.gVol_announcements_prev {
+	color: rgb(0, 62, 169); float: left; display: inline-block;
+}
+.gVol_announcements_prev a:link {
+	color: rgb(0, 62, 169) !important; text-decoration: none;
+}
+.gVol_announcements_prev a:active {
+	color: rgb(0, 62, 169) !important; text-decoration: none;
+}
+.gVol_announcements_prev a:visited {
+	color: rgb(0, 62, 169) !important; text-decoration: none;
+}
+.gVol_announcements_next a:link {
+	color: rgb(0, 62, 169) !important; text-decoration: none; cursor: pointer;
+}
+.gVol_announcements_next a:active {
+	color: rgb(0, 62, 169) !important; text-decoration: none; cursor: pointer;
+}
+.gVol_announcements_next a:visited {
+	color: rgb(0, 62, 169) !important; text-decoration: none; cursor: pointer;
+}
+.gVol_announcements_prev :hover {
+	color: rgb(247, 182, 0); text-decoration: none; cursor: pointer;
+}
+.gVol_announcements_next :hover {
+	color: rgb(247, 182, 0); text-decoration: none; cursor: pointer;
+}
+.gVol_announcements_next {
+	color: rgb(0, 62, 169); text-decoration: none; margin-bottom: 0px; float: right; display: inline-block; cursor: pointer;
+}
+.gVol_announcements_next.gVol_announcements_disabled {
+	color: rgb(131, 131, 131) !important; cursor: default;
+}
+.gVol_announcements_prev.gVol_announcements_disabled {
+	color: rgb(131, 131, 131) !important; cursor: default;
+}
+a.gVol_announcements_disabled a:hover {
+	color: rgb(131, 131, 131) !important; cursor: default;
+}
+.gVol_announcements_announcementLinksContainer {
+	width: 290px; height: 251px; margin-bottom: 10px; display: none;
+}
+.gvol_announcements_datescolumn {
+	width: 135px; float: left; display: inline;
+}
+.gVol_announcements_currentList {
+	display: block;
+}
+.et-tab_right {
+	background: url("/_layouts/gvolsharepointbranding/images/tab-grey-small.png") no-repeat 0px 0px; font: 12px/normal Arial; width: 103px; height: 19px; text-align: center; padding-top: 9px; display: inline-block; cursor: pointer; font-size-adjust: none; font-stretch: normal;
+}
+span.et-activetab_right {
+	background: url("/_layouts/gvolsharepointbranding/images/tab-white-small.png") no-repeat 0px 0px; color: rgb(247, 182, 0); font-weight: bold;
+}
+span.et-inactivetab_right {
+	color: rgb(131, 131, 131); border-bottom-color: rgb(174, 174, 174); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.et-inactivetab_right:hover {
+	color: rgb(153, 153, 153);
+}
+.et-tab_right_vc {
+	background: url("/_layouts/gvolsharepointbranding/images/tab-grey-big155x28.png") no-repeat 0px 1px; font: 12px/normal Arial; width: 155px; height: 19px; text-align: center; padding-top: 9px; display: inline-block; cursor: pointer; font-size-adjust: none; font-stretch: normal;
+}
+.et-activetab_right_vc {
+	background: url("/_layouts/gvolsharepointbranding/images/tab-white155x28.png") no-repeat 0px 1px; color: rgb(247, 182, 0); font-weight: bold;
+}
+.et-inactivetab_right_vc {
+	color: rgb(131, 131, 131); border-bottom-color: rgb(174, 174, 174); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.et-inactivetab_right_vc:hover {
+	color: rgb(153, 153, 153);
+}
+td.et-tab_right_vcrow_right_vc {
+	width: 310px; background-color: rgb(255, 255, 255);
+}
+.et-offscreen_right_vc {
+	top: -9999px; position: absolute; max-height: 1px; max-width: 1px;
+}
+.et-tab {
+	background: url("/_layouts/gvolsharepointbranding/images/tab-grey-big155x28.png") no-repeat 0px 1px; font: 12px/normal Arial; padding: 9px 0px 0px; width: 155px; height: 19px; text-align: center; display: inline-block; cursor: pointer; font-size-adjust: none; font-stretch: normal;
+}
+span.et-tab-line {
+	background: none; width: 328px; height: 19px; border-bottom-color: rgb(174, 174, 174); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.et-activetab {
+	background: url("/_layouts/gvolsharepointbranding/images/tab-white155x28.png") no-repeat 0px 1px; color: rgb(247, 182, 0); font-weight: bold;
+}
+.et-inactivetab {
+	color: rgb(131, 131, 131); border-bottom-color: rgb(174, 174, 174); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.et-inactivetab:hover {
+	color: rgb(153, 153, 153);
+}
+.et-offscreen {
+	top: -9999px; position: absolute; max-height: 1px; max-width: 1px;
+}
+.et-offscreen_right {
+	top: -9999px; position: absolute; max-height: 1px; max-width: 1px;
+}
+div.AlertBorder {
+	padding: 10px 4px 4px 15px; border: 2px solid rgb(39, 43, 130); width: 960px; height: auto; color: rgb(102, 102, 102); overflow: hidden; font-family: Arial; font-size: 12px; text-decoration: none; margin-bottom: 15px; margin-left: 20px; display: block; box-sizing: border-box; background-color: rgb(242, 243, 255);
+}
+.AlertText b {
+	color: rgb(102, 102, 102) !important;
+}
+div.AlertText {
+	margin-bottom: 5px;
+}
+.SHP-BtnImg {
+	padding: 10px 0px 0px;
+}
+.mp-MainTitle2 {
+	padding: 0px 20px 3px 0px; top: 0px; color: rgb(247, 182, 0) !important; font-family: Arial, sans-serif !important; font-size: 14px !important; border-bottom-color: rgb(0, 62, 169); border-bottom-width: 1px; border-bottom-style: solid; position: relative;
+}
+.mp-mostpopulartitle {
+	width: 290px; color: rgb(51, 51, 51) !important; padding-bottom: 3px; font-family: Arial, sans-serif !important; font-size: 14px !important; font-weight: bold;
+}
+.mp-mostpopulartitle-line {
+	width: auto; color: rgb(51, 51, 51) !important; line-height: 18px; font-family: Arial, sans-serif !important; font-size: 14px !important; font-weight: bold; display: inline-block; -ms-zoom: 1;
+}
+.mp-mostpopulartitle-wrapper {
+	margin: 0px 10px; width: 309px !important;
+}
+.mp-mostpopulartitle_EditLinkContainer {
+	height: 20px; padding-bottom: 3px; float: right; -ms-zoom: 1;
+}
+.mp-mostpopulartitle_filter {
+	float: right;
+}
+.mp-mostpopulartitle_filter input[type=radio] {
+	margin: 0px 0px 0px 8px !important;
+}
+.mp-mostpopulartitle_filterdiv {
+	width: 180px; text-align: right; padding-right: 10px; padding-bottom: 8px; float: left; display: inline-block; -ms-zoom: 1;
+}
+.mp-mostpopulartitle_filterdiv label {
+	width: auto !important; color: rgb(51, 51, 51); font-size: 12px; font-weight: normal; margin-top: 3px; margin-left: 1px !important; display: inline-block !important;
+}
+.mp-mostpopulartitle_editdiv {
+	width: 0px; text-align: left; padding-bottom: 10px; display: inline-block; -ms-zoom: 1;
+}
+a.mp-mostpopulartitle_edit img.gVol_editiconImg {
+	margin: 0px 5px 0px 0px;
+}
+a.mp-mostpopulartitle_edit:link {
+	font: bold 11px/1.2em Arial; left: 3px; top: 2px; width: auto; color: rgb(0, 62, 169) !important; text-decoration: none; display: none; position: relative; font-size-adjust: none; font-stretch: normal;
+}
+a.mp-mostpopulartitle_edit:active {
+	font: bold 11px/1.2em Arial; left: 3px; top: 2px; width: auto; color: rgb(0, 62, 169) !important; text-decoration: none; display: none; position: relative; font-size-adjust: none; font-stretch: normal;
+}
+a.mp-mostpopulartitle_edit:visited {
+	font: bold 11px/1.2em Arial; left: 3px; top: 2px; width: auto; color: rgb(0, 62, 169) !important; text-decoration: none; display: none; position: relative; font-size-adjust: none; font-stretch: normal;
+}
+a.mp-mostpopulartitle_edit:hover {
+	color: rgb(247, 182, 0); text-decoration: none;
+}
+.mp-communicationtitle {
+	color: rgb(51, 51, 51) !important; font-family: Arial, sans-serif !important; font-size: 14px !important; font-weight: bold; border-bottom-color: currentColor; border-bottom-width: medium; border-bottom-style: none;
+}
+.mp-Line {
+	width: 300px; height: 0px; padding-right: 0px; border-top-color: rgb(0, 62, 169); border-top-width: 0px; border-top-style: solid;
+}
+#vc-wrapper {
+	position: relative; min-height: 345px; background-color: rgb(255, 255, 255);
+}
+#vc-wrapper a {
+	color: rgb(0, 62, 169) !important;
+}
+#vc-wrapper a:hover {
+	color: rgb(253, 160, 0) !important;
+}
+.vc-MainTitle {
+	color: rgb(102, 102, 102); padding-top: 10px; padding-bottom: 5px; font-family: Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);
+}
+.vc-line {
+	width: 298px; height: 0px; padding-right: 0px; border-top-color: rgb(0, 62, 169); border-top-width: 1px; border-top-style: solid;
+}
+vc-body {
+	margin: 10px auto; width: 90%;
+}
+.loading-indicator {
+	background: url("/_layouts/gvolsharepointbranding/images/loading.gif") no-repeat center; width: 25px; height: 25px;
+}
+.loading-indicator-overlay {
+	opacity: 0.6; background-color: rgb(255, 255, 255);
+}
+.vc-tab {
+	padding: 5px 0px; width: 148px; height: 15px; text-align: center; color: rgb(153, 153, 153); font-family: Arial, sans-serif; font-size: 13px; float: left; cursor: pointer; background-image: url("/_layouts/gvolsharepointbranding/images/Blankbackground_Tab.png"); background-repeat: repeat-x;
+}
+.vc-activeTab {
+	color: rgb(102, 102, 102); font-family: Arial, sans-serif; font-size: 13px; background-image: url("/_layouts/gvolsharepointbranding/images/Grey_SideButton.png"); background-repeat: repeat-x;
+}
+.vc-tabline {
+	width: 0px; height: 25px; border-left-color: rgb(153, 153, 153); border-left-width: 1px; border-left-style: solid; float: left;
+}
+#vc-tabBodies {
+	margin: 0px; padding: 0px 0px 15px; width: 276px; clear: both; background-color: rgb(255, 255, 255);
+}
+.vc-tabBody {
+	width: 280px; color: rgb(102, 102, 102); padding-right: 0px; font-family: Arial, sans-serif; font-size: 12px; margin-left: 0px; display: none;
+}
+.vc-activeBody {
+	display: block;
+}
+.vc-LinkClick a {
+	margin: 0px; color: rgb(0, 62, 169) !important; padding-top: 15px; font-family: Arial, sans-serif; font-size: 11px; text-decoration: none !important; vertical-align: bottom; display: block; list-style-type: none; list-style-image: none;
+}
+.vc-LinkClick a:link {
+	margin: 0px; color: rgb(0, 62, 169) !important; padding-top: 15px; font-family: Arial, sans-serif; font-size: 11px; text-decoration: none !important; display: block; list-style-type: none; list-style-image: none;
+}
+.vc-LinkClick a:hover {
+	margin: 0px; color: rgb(247, 182, 0) !important; padding-top: 15px; font-family: Arial, sans-serif; font-size: 11px; text-decoration: none !important; display: block; list-style-type: none; list-style-image: none;
+}
+.vc-LinkClick a:visited {
+	margin: 0px; color: rgb(51, 153, 255) !important; padding-top: 15px; font-family: Arial, sans-serif; font-size: 11px; text-decoration: none !important; display: block; list-style-type: none; list-style-image: none;
+}
+.vc-SeeAllNews a {
+	margin: 0px; right: 10px; bottom: 10px; color: rgb(0, 62, 169) !important; padding-top: 15px; padding-bottom: 15px; font-family: Arial, sans-serif; font-size: 10px; font-weight: bold; text-decoration: none !important; display: block; list-style-type: none; list-style-image: none; position: absolute;
+}
+.vc-SeeAllNews a:link {
+	margin: 0px; color: rgb(0, 62, 169) !important; padding-top: 15px; padding-bottom: 15px; font-family: Arial, sans-serif; font-size: 10px; font-weight: bold; text-decoration: none !important; float: right; display: block; list-style-type: none; list-style-image: none; position: relative;
+}
+.vc-LinkDescription {
+	margin: 0px; color: rgb(102, 102, 102); line-height: 12px; padding-top: 0px; font-family: Arial, sans-serif; font-size: 12px; text-decoration: none; display: block; list-style-type: none; list-style-image: none;
+}
+#vc-clear {
+	height: 0px; clear: both;
+}
+.ms-WPBorder {
+	border: currentColor;
+}
+.ms-WPborderborderOnly {
+	border: currentColor;
+}
+#mpsearch-wrapper {
+	width: 295px; overflow: hidden; padding-right: 7px; padding-left: 12px; margin-right: 7px; margin-bottom: 2px; margin-left: 7px; background-color: rgb(255, 255, 255) !important;
+}
+.st-description {
+	margin: 0px; width: 297px; color: rgb(102, 102, 102); padding-top: 10px; font-family: Arial, sans-serif; font-size: 12px; text-decoration: none !important; display: block; list-style-type: none; list-style-image: none; min-height: 100px; background-color: rgb(255, 255, 255);
+}
+#institution {
+	background: rgb(255, 255, 255); width: 100%; padding-top: 15px; padding-bottom: 10px; font-family: Arial, sans-serif; margin-right: 7px; margin-bottom: 7px;
+}
+.service_list p {
+	background: rgb(238, 238, 238); width: 100%; color: rgb(102, 102, 102); padding-top: 10px; padding-bottom: 10px; font-family: Arial, sans-serif; font-size: 11px;
+}
+.service_list strong {
+	margin: 10px 0px 0px 10px; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; vertical-align: bottom;
+}
+.service_list {
+	width: 200px; padding-left: 0px; font-family: Arial, sans-serif; margin-right: 7px; border-right-color: rgb(102, 102, 102); border-bottom-color: rgb(102, 102, 102); border-left-color: rgb(102, 102, 102); border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;
+}
+.service_head {
+	margin: 0px; width: 270px; height: 20px; padding-top: 5px; padding-left: 10px; font-family: Arial, sans-serif; position: relative; cursor: pointer;
+}
+.service_body {
+	padding: 5px 10px 15px; font-family: Arial, sans-serif;
+}
+.correctpadding {
+	color: rgb(102, 102, 102); padding-top: 2px; padding-bottom: 2px; padding-left: 0px; font-family: Arial, sans-serif; font-size: 13px; text-decoration: none;
+}
+.str-lefttitle {
+	font: bold 13px/1.3em Arial; width: 250px !important; color: rgb(102, 102, 102); vertical-align: bottom; float: left; font-size-adjust: none; font-stretch: normal;
+}
+.str-leftimage {
+	width: 20px; height: 20px; float: left; background-image: url("/_layouts/gvolsharepointbranding/images/PlusDot.gif"); background-repeat: no-repeat;
+}
+.str-leftimage-minus {
+	width: 20px; height: 20px; float: left; background-image: url("/_layouts/gvolsharepointbranding/images/MinusDot.gif"); background-repeat: no-repeat;
+}
+.active {
+	background: rgb(238, 238, 238);
+}
+#Best-Bets-PromoWrapper {
+	width: 624px; height: auto; padding-top: 10px; padding-right: 0px; padding-left: 10px; margin-left: 0px; float: left; min-height: 209px; background-image: none; background-repeat: no-repeat; background-color: rgb(255, 255, 255);
+}
+.Best-Bets-MainTitle {
+	width: 490px; color: rgb(102, 102, 102); padding-top: 14px; padding-bottom: 5px; padding-left: 0px; font-family: Arial, sans-serif; font-size: 14px; float: left;
+}
+.Best-Bets-SubHeadertext {
+	width: 140px; color: rgb(102, 102, 102); font-family: Arial, sans-serif; font-size: 12px;
+}
+.Best-Bets-CardWrapper {
+	width: 143px; padding-top: 5px; margin-right: 7px; margin-left: 7px; float: left;
+}
+.Best-Bets-seemore a {
+	width: 100px; text-align: right; color: rgb(102, 102, 102); padding-top: 10px; padding-bottom: 5px; padding-left: 0px; font-family: Arial, sans-serif; font-size: 14px; text-decoration: none !important; float: left;
+}
+.Best-Bets-seemore a:hover {
+	width: 100px; text-align: right; color: rgb(247, 182, 0); padding-top: 10px; padding-bottom: 5px; padding-left: 0px; font-family: Arial, sans-serif; font-size: 14px; text-decoration: none !important; float: left;
+}
+.Best-Bets-headerlink a {
+	margin: 0px; color: rgb(0, 62, 169) !important; font-family: Arial, sans-serif; font-size: 12px; text-decoration: none !important; display: block; list-style-type: none; list-style-image: none;
+}
+.Best-Bets-headerlink a:hover {
+	margin: 0px; color: rgb(247, 182, 0) !important; font-family: Arial, sans-serif; font-size: 12px; text-decoration: none !important; display: block; list-style-type: none; list-style-image: none;
+}
+.Best-Bets-PromoTitle {
+	width: 300px; color: rgb(0, 62, 169); padding-top: 5px; padding-bottom: 10px; padding-left: 10px; font-family: Arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);
+}
+.Best-Bets-dropdown {
+	padding-top: 10px; padding-right: 5px;
+}
+.Best-Bets-dropdown select {
+	width: 145px; color: rgb(102, 102, 102); font-size: 11px;
+}
+#Best-Bets-leftcolumn {
+	border: 1px solid rgb(255, 0, 0); width: 300px; float: left;
+}
+#Best-Bets-rightcolumn {
+	border: 1px solid rgb(255, 0, 0); width: 300px;
+}
+.Best-Bets-Line {
+	width: 593px; height: 2px; margin-left: 0px; border-top-color: rgb(0, 62, 169); border-top-width: 1px; border-top-style: solid; float: left;
+}
+Best-Bets-body {
+	margin: 10px auto; width: 90%;
+}
+#Best-Bets-c {
+	width: 630px; padding-left: 5px;
+}
+#Best-Bets-a {
+	width: auto; color: rgb(102, 102, 102); float: left;
+}
+#Best-Bets-a img {
+	
+}
+#Best-Bets-b {
+	width: 140px; color: rgb(102, 102, 102); font-family: Arial, sans-serif; font-size: 12px;
+}
+#Best-Bets-bshort {
+	width: 300px; color: rgb(102, 102, 102); padding-bottom: 10px; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; float: left;
+}
+.Best-Bets-LinksWrapper {
+	width: 130px; padding-top: 5px; margin-right: 7px; margin-left: 7px; float: left;
+}
+.Best-Bets-LinkCardSelect a {
+	margin: 0px; width: 135px; color: rgb(0, 62, 169) !important; padding-top: 5px; padding-bottom: 5px; font-family: Arial, sans-serif; font-size: 12px; text-decoration: none !important; float: left; display: block; list-style-type: none; list-style-image: none;
+}
+.Best-Bets-LinkCardSelect a:hover {
+	margin: 0px; width: 135px; color: rgb(247, 182, 0) !important; padding-top: 5px; padding-bottom: 5px; font-family: Arial, sans-serif; font-size: 12px; text-decoration: none !important; float: left; display: block; list-style-type: none; list-style-image: none;
+}
+.Best-Bets-bottomHolder {
+	margin: 0px; width: 600px; color: rgb(102, 102, 102) !important; padding-top: 2px; padding-bottom: 2px; padding-left: 10px; font-family: Arial, sans-serif; font-size: 12px; text-decoration: none !important; float: left; display: block; list-style-type: none; list-style-image: none;
+}
+.Best-Bets-DescriptionText {
+	margin: 0px; width: 600px; color: rgb(102, 102, 102) !important; padding-bottom: 2px; padding-left: 0px; font-family: Arial, sans-serif; font-size: 12px !important; text-decoration: none !important; list-style-type: none; list-style-image: none;
+}
+.Best-Bets-TopTitle {
+	margin: 0px; width: 130px; color: rgb(102, 102, 102) !important; padding-top: 8px; padding-bottom: 2px; font-family: Arial, sans-serif; font-size: 12px !important; font-weight: bold; text-decoration: none !important; float: left; display: block; list-style-type: none; list-style-image: none;
+}
+.Best-Bets-LightTitle {
+	margin: 0px; width: 130px; color: rgb(153, 153, 153) !important; padding-top: 2px; padding-bottom: 2px; font-family: Arial, sans-serif; font-size: 12px !important; font-weight: bold; text-decoration: none !important; float: left; display: block; list-style-type: none; list-style-image: none;
+}
+.Best-Bets-LinkClick a img {
+	border: 0px currentColor; padding-left: 5px;
+}
+.Best-Bets- a:link {
+	margin: 0px; color: rgb(0, 62, 169) !important; font-family: Arial, sans-serif; font-size: 12px; text-decoration: none !important; float: left; display: block; list-style-type: none; list-style-image: none;
+}
+.Best-Bets-LinkClick a:hover {
+	margin: 0px; color: rgb(247, 182, 0) !important; font-family: Arial, sans-serif; font-size: 12px; text-decoration: none !important; float: left; display: block; list-style-type: none; list-style-image: none;
+}
+#Best-Bets-b2 {
+	width: 150px; color: rgb(102, 102, 102); padding-right: 10px; font-family: Arial, sans-serif; font-size: 12px; margin-left: 10px;
+}
+#Best-Bets-b a {
+	color: rgb(102, 102, 102); padding-top: 10px; font-family: Arial, sans-serif; font-size: 12px;
+}
+#Best-Bets-b li {
+	margin: 0px; color: rgb(0, 62, 169); padding-top: 5px; font-family: Arial, sans-serif; font-size: 12px; display: block; list-style-type: none; list-style-image: none;
+}
+#Best-Bets-clear {
+	clear: both;
+}
+div#gVol_UserServices_scrollView {
+	width: 100%; height: 330px; -ms-overflow-y: hidden;
+}
+#gVol_UserServices_scrollView > a:first-child {
+	padding-top: 12px;
+}
+#gVol_UserServices_scrollView a {
+	clear: both;
+}
+div.gVol_UserServices_appsAndServicesBackgroundGr a:link {
+	font: 11px/1.8em Arial; color: rgb(0, 62, 169); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+div.gVol_UserServices_appsAndServicesBackgroundGr a:active {
+	font: 11px/1.8em Arial; color: rgb(0, 62, 169); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+div.gVol_UserServices_appsAndServicesBackgroundGr a:visited {
+	font: 11px/1.8em Arial; color: rgb(0, 62, 169); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+#gVol_UserServices_scrollView a:link {
+	font: 11px/1.8em Arial; color: rgb(0, 62, 169); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+#gVol_UserServices_scrollView a:active {
+	font: 11px/1.8em Arial; color: rgb(0, 62, 169); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+#gVol_UserServices_scrollView a:visited {
+	font: 11px/1.8em Arial; color: rgb(0, 62, 169); text-decoration: none; font-size-adjust: none; font-stretch: normal;
+}
+div.gVol_UserServices_appsAndServicesBackgroundGr a:hover {
+	color: rgb(247, 182, 0); text-decoration: none;
+}
+#gVol_UserServices_scrollView a:hover {
+	color: rgb(247, 182, 0); text-decoration: none;
+}
+.dynamictopic-alert {
+	padding: 0px 14px 0px 20px; width: 958px; vertical-align: middle;
+}
+.dynamictopic-mastertable {
+	width: 958px;
+}
+.dynamictopic-maincontenttable {
+	width: 958px; height: 100%; padding-left: 14px;
+}
+.dynamictopic-topicindex {
+	padding: 14px 14px 5px; width: 958px; height: auto;
+}
+.dynamictopic-sortipp {
+	padding: 0px 0px 0px 4px; width: auto; height: auto; float: left;
+}
+.dynamictopic-contentplacement {
+	width: 634px; height: 100%; padding-right: 14px; padding-bottom: 0px; padding-left: 14px; _width: 644px;
+}
+.dynamictopic-PaginationLeft {
+	width: 317px; height: 100%; padding-left: 14px;
+}
+.dynamictopic-PaginationRight {
+	width: 317px; height: 100%; padding-right: 14px;
+}
+.dynamictopic-rightcolumn {
+	width: 310px; height: 100%; padding-top: 14px; padding-right: 14px; padding-bottom: 14px;
+}
+.gv-srch-results {
+	padding-top: 10px;
+}
+.is_current {
+	color: rgb(102, 102, 102); font-family: Arial, sans-serif; font-size: 11px; text-decoration: none;
+}
+#SRP .g-srch-WPBody .is_current {
+	color: rgb(102, 102, 102); font-family: Arial, sans-serif; font-size: 11px; text-decoration: none;
+}
+.pageActive .is_current {
+	color: rgb(102, 102, 102); font-family: Arial, sans-serif; font-size: 11px; text-decoration: none;
+}
+.is_current a:active {
+	color: rgb(102, 102, 102); font-family: Arial, sans-serif; font-size: 11px; text-decoration: none;
+}
+#SRP .g-srch-WPBody .is_current {
+	color: rgb(102, 102, 102); font-family: Arial, sans-serif; font-size: 11px; text-decoration: none;
+}
+.paging_nextPage {
+	color: rgb(0, 62, 169) !important; font-family: Arial, sans-serif; font-size: 11px; text-decoration: none; margin-left: 10px;
+}
+.is_current {
+	
+}
+.g-srch-Page g-srch-Page-bg a {
+	width: auto; color: rgb(0, 62, 169); font-family: Arial, sans-serif; font-size: 11px; text-decoration: none;
+}
+.g-srch-Page g-srch-Page-bg a:link {
+	color: rgb(0, 62, 169); font-family: Arial, sans-serif; font-size: 11px; text-decoration: none;
+}
+.g-srch-Page g-srch-Page-bg a:visited {
+	color: rgb(0, 62, 169); font-family: Arial, sans-serif; font-size: 11px; text-decoration: none;
+}
+.g-srch-WPBody a:link {
+	color: rgb(0, 62, 169) !important; font-family: Arial, sans-serif; font-size: 11px; text-decoration: none; vertical-align: baseline;
+}
+.g-srch-Page g-srch-Page-bg a:active {
+	color: rgb(0, 62, 169); font-family: Arial, sans-serif; font-size: 11px; text-decoration: none;
+}
+.g-srch-WPBody a:visited {
+	color: rgb(0, 62, 169); font-family: Arial, sans-serif; font-size: 11px; text-decoration: none;
+}
+.g-srch-WPBody a {
+	font-family: Arial, sans-serif; font-size: 11px; text-decoration: none;
+}
+.linestyle {
+	font-size: 11px;
+}
+.g-srch-WPBody {
+	background: rgb(255, 255, 255); height: 20px; padding-top: 10px; padding-left: 0px; margin-right: 0px;
+}
+.dync_box {
+	background: rgb(255, 255, 255); width: 634px; padding-bottom: 14px; padding-left: 10px; min-height: 300px;
+}
+.dync_typebox {
+	font: 12px/normal Arial, sans-serif; width: 958px; color: rgb(102, 102, 102); padding-top: 10px; padding-right: 10px; padding-bottom: 0px; min-height: 213px; font-size-adjust: none; font-stretch: normal; background-color: rgb(255, 255, 255) !important;
+}
+.dync_typebox a {
+	margin: 0px; color: rgb(0, 62, 169); padding-top: 3px; text-decoration: none;
+}
+.dync_typebox a:hover {
+	color: rgb(247, 182, 0);
+}
+.dync_typebox ul {
+	margin: 0px; padding: 0px; color: rgb(0, 62, 169); line-height: 22px; list-style-type: none; list-style-image: none;
+}
+.dync_typebox li {
+	margin: 0px; padding: 0px;
+}
+.dync_typebox .c_subtitle {
+	margin: 0px 0px 10px 10px; width: 958px; color: rgb(247, 182, 0); line-height: 22px; font-size: 22px; font-weight: bold;
+}
+.c_subtitle {
+	margin: 0px 10px 10px; width: 126px; color: rgb(51, 51, 51); line-height: 22px; font-size: 14px; font-weight: bold;
+}
+.c_subtitle-desc {
+	margin: 5px 0px; padding-left: 10px;
+}
+.c_col-cont {
+	margin: 10px 14px 0px 0px; width: 143px; height: 100%; overflow: hidden; float: left; position: relative;
+}
+.TopicIndex_subtitle_desc {
+	font: 11px/1.6em Arial; color: rgb(102, 102, 102); padding-bottom: 14px; margin-left: 1px; display: inline-block; font-size-adjust: none; font-stretch: normal;
+}
+.TopicIndex_subtitle_desc-NoOfPages {
+	font-size: 12px; font-weight: normal; vertical-align: middle; display: inline;
+}
+.c_col-href {
+	border: 0px solid red; width: 90px; height: auto; padding-top: 10px; margin-right: 10px; float: left; display: inline-block;
+}
+a.c_col-href {
+	margin: 10px 40px 0px 10px; padding: 0px; color: rgb(0, 62, 169) !important; line-height: 14px; overflow: hidden; float: left; display: inline-block;
+}
+.c_col-href a:link {
+	color: rgb(0, 62, 169) !important; text-decoration: none;
+}
+.c_col-href a:active {
+	color: rgb(0, 62, 169) !important; text-decoration: none;
+}
+.c_col-href a:visited {
+	color: rgb(0, 62, 169) !important; text-decoration: none;
+}
+.ms-WPBody a:link {
+	color: rgb(0, 62, 169);
+}
+.ms-WPBody a:visited {
+	color: rgb(0, 62, 169);
+}
+.c_col-href a:hover {
+	margin: 10px 40px 0px 10px; padding: 0px; color: rgb(247, 182, 0); line-height: 14px; overflow: hidden; float: left; display: inline-block;
+}
+.promo-linkimages {
+	padding: 2px 0px;
+}
+div.luw-tabBody {
+	margin: 0px; padding: 0px 0px 9px; background-color: rgb(255, 255, 255); _padding: 0px 0px 15px 0px;
+}
+#gVol_ImageCar_gallery .gVol_ImageCar_slide div.imgtxt a:link {
+	color: rgb(0, 62, 169);
+}
+#gVol_ImageCar_gallery .gVol_ImageCar_slide div.imgtxt a:hover {
+	color: rgb(247, 182, 0);
+}
+#gVol_ImageCar_gallery .gVol_ImageCar_slide div.imgtxt a:visited {
+	color: rgb(0, 62, 169);
+}
+.gvol_announcements_linkcolumn {
+	-ms-word-wrap: break-word;
+}
+#waitDialog {
+	background: url("/_layouts/gvolsharepointbranding/images/Announcements_Box_bg.gif") repeat-x right top; padding: 20px; border: currentColor; left: 40%; top: 40%; width: 150px; height: 30px; color: rgb(51, 51, 51); overflow: hidden; font-family: Arial, sans-serif; font-size: 15px; font-weight: bold; margin-left: 0px; vertical-align: middle; visibility: visible; position: fixed; z-index: 30001;
+}
+#waitOverlay {
+	width: 100%; height: 100%; position: absolute; opacity: 0.5; background-color: rgb(68, 68, 68);
+}
+.gVol_manageMostPopular_Links {
+	width: 294px; height: 12px; padding-top: 5px; padding-bottom: 8px; clear: both; margin-top: 3px; margin-bottom: 3px; border-top-color: rgb(127, 145, 207); border-top-width: 1px; border-top-style: solid; display: block;
+}
+.gVol_manageMostPopular_edit {
+	margin: 3px 1px 5px; color: rgb(0, 62, 169) !important; font-weight: bold;
+}
+.gVol_manageMostPopular_filter {
+	margin: 3px 1px 5px 146px; width: 100px; font-family: Arial; font-size: 11px;
+}
+#noFavImg {
+	border-left-color: currentColor; border-left-width: medium; border-left-style: none;
+}
+.mp-noresults {
+	padding-left: 10px; display: inline-block;
+}
+div.zone2 {
+	padding-top: 17px;
+}
+.mozilla_trgt #gVol_ImageCar_gallery {
+	height: 299px;
+}
+.mozilla_trgt .gVol_ImageCar_backgroundGr {
+	height: 352px;
+}
+.mozilla_trgt div.gVol_UserServices_appsAndServicesBackgroundGr {
+	height: 363px;
+}
+.mozilla_trgt #gVol_UserServices_eligibleServices {
+	margin-top: -18px;
+}
+.Fav_title {
+	color: rgb(51, 51, 51); font-size: 14px; font-weight: bold;
+}
+.mozilla_trgt .ms-wpContentDivSpace .jScrollPaneContainer {
+	height: 312px !important;
+}
+#tblServices td {
+	border-bottom-color: rgb(174, 174, 174); border-bottom-width: 1px; border-bottom-style: dashed; min-width: 195px;
+}
+.mozilla_trgt .gVol_userFavorites_favLinksContainer {
+	height: 265px;
+}
+.servicedisableprvwmode {
+	color: rgb(102, 102, 102); font-size: 11px; font-weight: normal; margin-top: 3px; float: right; display: inline-block;
+}
+.servicedisableprvwmode .gVol_editiconImg {
+	margin-top: -2px;
+}
+.favdisableprvwmode {
+	margin-right: 10px; float: right;
+}
+.loctopictext {
+	font-weight: bold;
+}
